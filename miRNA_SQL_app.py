@@ -45,9 +45,21 @@ if not os.path.exists(db_path):
     st.success("🎉 Database created!")
 
 # ---------- Sidebar: CSV to Table Mapping ----------
-st.sidebar.markdown("### CSV → SQL Table Mapping")
-for csv_name, table in loaded_tables:
-    st.sidebar.markdown(f"- `{csv_name}` → `{table}`")
+st.sidebar.markdown("### 📦 CSV → SQL Table Mapping")
+
+# Organize tables by category
+grouped = {}
+for csv_name, table_name in loaded_tables:
+    category = table_name.split("_")[0]  # e.g., "core"
+    group = table_name.split("_")[1]     # e.g., "mirna"
+    full_group = f"{category}_{group}"
+    grouped.setdefault(full_group, []).append((csv_name, table_name))
+
+# Show each group in expandable dropdown
+for group, items in sorted(grouped.items()):
+    with st.sidebar.expander(group, expanded=False):
+        for csv, table in sorted(items):
+            st.markdown(f"- `{csv}` → `{table}`")
 
 # ---------- SQL Query Interface ----------
 st.markdown("### Run SQL Query")
