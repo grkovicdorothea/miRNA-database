@@ -1,0 +1,1009 @@
+miRNA_ID,miRBase_acc,precursor_miRNA_id,PMID,diagnostic_marker,prognostic_marker,tested_prognostic_outcome,Biomarker_sample_type,miRNA_expression,Cell_line,Disease,Disease_MESH_ID,Disease_DOID_ID,Disease_categories,Disease_main_type,Disease_sub_type
+hsa-let-7b-5p,MIMAT0000063,hsa-let-7b,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-let-7b-5p,MIMAT0000063,hsa-let-7b,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-let-7b-5p,MIMAT0000063,hsa-let-7b,21546856,YES, , ,Serum,UP,bowel,crohn disease,D003424,DOID_8778,Digestive & Gastrointestinal Conditions,crohn disease,
+hsa-let-7b-5p,MIMAT0000063,hsa-let-7b,24978044,YES, , ,Plasma,DOWN,heart,"pulmonary hypertension, chronic thromboembolic, without deep vein thrombosis, susceptibility to","D006976,D020246","DOID_0060903,DOID_6432,UBERON_0001638","Cardiovascular Conditions, Respiratory Conditions",pulmonary hypertension,chronic thromboembolic
+hsa-let-7b-5p,MIMAT0000063,hsa-let-7b,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-let-7b-5p,MIMAT0000063,hsa-let-7b,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-let-7b-5p,MIMAT0000063,hsa-let-7b,27265125,YES, , ,Plasma,DOWN,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-let-7b-5p,MIMAT0000063,hsa-let-7b,24978044,YES, , ,Plasma,DOWN,heart,"pulmonary hypertension, chronic thromboembolic, without deep vein thrombosis, susceptibility to","D006976,D020246","DOID_0060903,DOID_6432,UBERON_0001638","Cardiovascular Conditions, Respiratory Conditions",pulmonary hypertension,chronic thromboembolic
+hsa-let-7b-5p,MIMAT0000063,hsa-let-7b,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-let-7c-5p,MIMAT0000064,hsa-let-7c,27265125,YES, , ,Plasma,DOWN,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-let-7c-5p,MIMAT0000064,hsa-let-7c,21060830,YES, , ,Plasma,DOWN,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-let-7c-5p,MIMAT0000064,hsa-let-7c,22298030,YES, , ,Plasma,DOWN,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-let-7c-5p,MIMAT0000064,hsa-let-7c,22298030,YES, , ,Plasma,DOWN,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-let-7d-3p,MIMAT0004484,hsa-let-7d,21060830,YES, , ,Plasma,DOWN,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-let-7d-5p,MIMAT0000065,hsa-let-7d,23922807,YES, , ,Plasma,DOWN,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-let-7d-5p,MIMAT0000065,hsa-let-7d,23922807,YES, , ,Plasma,DOWN,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-let-7e-5p,MIMAT0000066,hsa-let-7e,22472564,YES, , ,Serum,UP,thyroid,"thyroid cancer, papillary",D000077273,DOID_1781,"Cancer, Endocrine and Metabolic Conditions",thyroid cancer,papillary
+hsa-let-7e-5p,MIMAT0000066,hsa-let-7e,22298030,YES, , ,Plasma,DOWN,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-let-7e-5p,MIMAT0000066,hsa-let-7e,24515954, ,NEGATIVE,severe knee or hip osteoarthritis,Serum,DOWN,knee/hip joints,osteoarthritis,D010003,DOID_8398,Musculoskeletal Conditions,osteoarthritis,
+hsa-let-7e-5p,MIMAT0000066,hsa-let-7e,22472564,YES, , ,Serum,UP,thyroid,"thyroid cancer, papillary",D000077273,DOID_1781,"Cancer, Endocrine and Metabolic Conditions",thyroid cancer,papillary
+hsa-let-7e-5p,MIMAT0000066,hsa-let-7e,22298030,YES, , ,Plasma,DOWN,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-let-7g-5p,MIMAT0000414,hsa-let-7g,23922807,YES, , ,Plasma,DOWN,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-let-7g-5p,MIMAT0000414,hsa-let-7g,23922807,YES, , ,Plasma,DOWN,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-let-7g-5p,MIMAT0000414,hsa-let-7g,24093444,YES, , ,Serum,UP,,metabolic syndrome,D024821,DOID_0111581,"Endocrine and Metabolic Conditions, Congenital/Hereditary Conditions, Syndrome",metabolic syndrome,
+hsa-miR-1-3p,MIMAT0000416,hsa-mir-1-2|hsa-mir-1-1,20159880,YES, , ,Plasma,UP,"heart, skeletal muscle",myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-1-3p,MIMAT0000416,hsa-mir-1-2|hsa-mir-1-1,20696132,YES, , ,Serum,UP,"head, sinus, uterus, bladder, orbit",rhabdomyosarcoma,D012208,DOID_3247,Cancer,rhabdomyosarcoma,
+hsa-miR-1-3p,MIMAT0000416,hsa-mir-1-2|hsa-mir-1-1,31513283,YES, , ,Plasma,DOWN,,hepatitis b,D006509,DOID_2043,"Viral Infections, Infectious Diseases, Digestive & Gastrointestinal Conditions",hepatitis,b
+hsa-miR-1-3p,MIMAT0000416,hsa-mir-1-2|hsa-mir-1-1,25625292,YES, , ,Plasma,DOWN,,"tachycardia, supraventricular",D013617,SYMP_0000529,Cardiovascular Conditions,tachycardia,supraventricular
+hsa-miR-1-3p,MIMAT0000416,hsa-mir-1-2|hsa-mir-1-1,25625292,YES, , ,Plasma,DOWN,,"tachycardia, supraventricular",D013617,SYMP_0000529,Cardiovascular Conditions,tachycardia,supraventricular
+hsa-miR-1-3p,MIMAT0000416,hsa-mir-1-2|hsa-mir-1-1,19896465,YES, , ,Plasma,UP,,myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-1-3p,MIMAT0000416,hsa-mir-1-2|hsa-mir-1-1,22719221,YES, , ,Plasma,UP,,myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-1-3p,MIMAT0000416,hsa-mir-1-2|hsa-mir-1-1,21701171,YES, , ,Plasma,UP,heart/myocardium,st elevation myocardial infarction,D000072657,DOID_5844,Cardiovascular Conditions,myocardial infarction,st elevation
+hsa-miR-1-3p,MIMAT0000416,hsa-mir-1-2|hsa-mir-1-1,25625292,YES, , ,Plasma,DOWN,,tachycardia,D013610,SYMP_0000529,Cardiovascular Conditions,tachycardia,
+hsa-miR-1-3p,MIMAT0000416,hsa-mir-1-2|hsa-mir-1-1,31513283,YES, , ,Plasma,DOWN,,hepatitis b,D006509,DOID_2043,"Viral Infections, Infectious Diseases, Digestive & Gastrointestinal Conditions",hepatitis,b
+hsa-miR-1-3p,MIMAT0000416,hsa-mir-1-2|hsa-mir-1-1,24260372,YES, , ,Plasma,UP,,"angina, unstable",D000789,,Cardiovascular Conditions,angina,unstable
+hsa-miR-1-3p,MIMAT0000416,hsa-mir-1-2|hsa-mir-1-1,24260372,YES, , ,Plasma,UP,,"angina, stable",D060050,,Cardiovascular Conditions,angina,stable
+hsa-miR-100-5p,MIMAT0000098,hsa-mir-100,30530966, ,POSITIVE,overall survival,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-100-5p,MIMAT0000098,hsa-mir-100,30530966,YES, , ,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-100-5p,MIMAT0000098,hsa-mir-100,24431276,YES, , ,Serum,UP,,osteoporosis,D010024,DOID_11476,Musculoskeletal Conditions,osteoporosis,
+hsa-miR-100-5p,MIMAT0000098,hsa-mir-100,30530966, ,POSITIVE,progression-free survival,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-101-3p,MIMAT0000099,hsa-mir-101-1|hsa-mir-101-2,24971953,YES, , ,Serum,DOWN,liver,"carcinoma, hepatocellular",D006528,DOID_305,"Cancer, Digestive & Gastrointestinal Conditions",carcinoma,hepatocellular
+hsa-miR-101-3p,MIMAT0000099,hsa-mir-101-1|hsa-mir-101-2,24971953,YES, , ,Serum,UP,liver,liver cirrhosis,D008103,DOID_5082,Digestive & Gastrointestinal Conditions,liver cirrhosis,
+hsa-miR-101-3p,MIMAT0000099,hsa-mir-101-1|hsa-mir-101-2,24260081,YES, , ,Serum,UP,,"carcinoma, hepatocellular",D006528,DOID_305,"Cancer, Digestive & Gastrointestinal Conditions",carcinoma,hepatocellular
+hsa-miR-103a-3p,MIMAT0000101,hsa-mir-103a-2|hsa-mir-103a-1,25547678, ,NEGATIVE,recurrence-free survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-103a-3p,MIMAT0000101,hsa-mir-103a-2|hsa-mir-103a-1,28179587,YES, , ,Plasma,DOWN,hippocampus,cognitive dysfunction,D060825,,Eyes/Nose/Ears,cognitive dysfunction,
+hsa-miR-103a-3p,MIMAT0000101,hsa-mir-103a-2|hsa-mir-103a-1,25547678, ,NEGATIVE,recurrence-free survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-103a-3p,MIMAT0000101,hsa-mir-103a-2|hsa-mir-103a-1,25547678, ,NEGATIVE,overall survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-103a-3p,MIMAT0000101,hsa-mir-103a-2|hsa-mir-103a-1,28179587,YES, , ,Plasma,DOWN,hippocampus,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-103a-3p,MIMAT0000101,hsa-mir-103a-2|hsa-mir-103a-1,25547678, ,NEGATIVE,recurrence-free survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-103a-3p,MIMAT0000101,hsa-mir-103a-2|hsa-mir-103a-1,28179587,YES, , ,Plasma,DOWN,hippocampus,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-103a-3p,MIMAT0000101,hsa-mir-103a-2|hsa-mir-103a-1,25547678, ,NEGATIVE,overall survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-103a-3p,MIMAT0000101,hsa-mir-103a-2|hsa-mir-103a-1,25547678, ,NEGATIVE,overall survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-105-5p,MIMAT0000102,hsa-mir-105-1|hsa-mir-105-2,30936821,YES, , ,Plasma,UP,,parkinson disease,D010300,DOID_14330,Neurological Conditions,parkinson's disease,
+hsa-miR-106a-5p,MIMAT0000103,hsa-mir-106a,28284220, ,NEGATIVE,disease-free survival,Serum,UP,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-106a-5p,MIMAT0000103,hsa-mir-106a,21098088,YES, , ,Serum,UP,serum,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-106a-5p,MIMAT0000103,hsa-mir-106a,28284220, ,NEGATIVE,disease-free survival,Serum,UP,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-106a-5p,MIMAT0000103,hsa-mir-106a,24699363,YES, , ,Serum,UP,,"influenza, human",D007251,DOID_8469,Viral Infections,influenza,human
+hsa-miR-106a-5p,MIMAT0000103,hsa-mir-106a,21098088, ,POSITIVE,risk of recurrence,Serum,UP,serum,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-106a-5p,MIMAT0000103,hsa-mir-106a,24699363,YES, , ,Serum,UP,,"influenza, human",D007251,DOID_8469,Viral Infections,influenza,human
+hsa-miR-106a-5p,MIMAT0000103,hsa-mir-106a,21546856,YES, , ,Serum,UP,bowel,crohn disease,D003424,DOID_8778,Digestive & Gastrointestinal Conditions,crohn disease,
+hsa-miR-106a-5p,MIMAT0000103,hsa-mir-106a,28284220, ,NEGATIVE,overall survival,Serum,UP,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-106a-5p,MIMAT0000103,hsa-mir-106a,28284220, ,NEGATIVE,overall survival,Serum,UP,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-106a-5p,MIMAT0000103,hsa-mir-106a,28284220, ,NEGATIVE,overall survival,Serum,UP,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-106a-5p,MIMAT0000103,hsa-mir-106a,28284220, ,NEGATIVE,disease-free survival,Serum,UP,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-106b-3p,MIMAT0004672,hsa-mir-106b,30210287, ,POSITIVE,bulbar onset,Plasma,DOWN,,amyotrophic lateral sclerosis,D000690,"DOID_0111227,DOID_332",Neurological Conditions,amyotrophic lateral sclerosis,
+hsa-miR-106b-5p,MIMAT0000680,hsa-mir-106b,20234369,YES, , ,Plasma,UP,stomach,stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-106b-5p,MIMAT0000680,hsa-mir-106b,20234369,YES, , ,Plasma,UP,stomach,stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-106b-5p,MIMAT0000680,hsa-mir-106b,24586506,YES, , ,Serum,UP,motor neurons,amyotrophic lateral sclerosis,D000690,"DOID_0111227,DOID_332",Neurological Conditions,amyotrophic lateral sclerosis,
+hsa-miR-107,MIMAT0000104,hsa-mir-107,28720759, ,POSITIVE,overall survival,Plasma,DOWN,,pancreatic neoplasms,D010190,DOID_1793,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,pancreatic
+hsa-miR-107,MIMAT0000104,hsa-mir-107,25547678, ,NEGATIVE,recurrence-free survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-107,MIMAT0000104,hsa-mir-107,25547678, ,NEGATIVE,overall survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-107,MIMAT0000104,hsa-mir-107,25547678, ,NEGATIVE,overall survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-107,MIMAT0000104,hsa-mir-107,28720759, ,POSITIVE,overall survival,Plasma,DOWN,,pancreatic neoplasms,D010190,DOID_1793,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,pancreatic
+hsa-miR-107,MIMAT0000104,hsa-mir-107,28720759, ,POSITIVE,disease-free survival,Plasma,DOWN,,pancreatic neoplasms,D010190,DOID_1793,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,pancreatic
+hsa-miR-107,MIMAT0000104,hsa-mir-107,28720759,YES, , ,Plasma,DOWN,,pancreatic neoplasms,D010190,DOID_1793,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,pancreatic
+hsa-miR-107,MIMAT0000104,hsa-mir-107,25547678, ,NEGATIVE,recurrence-free survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-107,MIMAT0000104,hsa-mir-107,25547678, ,NEGATIVE,overall survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-107,MIMAT0000104,hsa-mir-107,25547678, ,NEGATIVE,recurrence-free survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-10a-5p,MIMAT0000253,hsa-mir-10a,25176944,YES, , ,Serum,DOWN,heart,graft rejection,D006084,,Immune and Autoimmune Conditions,graft rejection,
+hsa-miR-10a-5p,MIMAT0000253,hsa-mir-10a,25176944,YES, , ,Serum,DOWN,heart,graft rejection,D006084,,Immune and Autoimmune Conditions,graft rejection,
+hsa-miR-10b-5p,MIMAT0000254,hsa-mir-10b,21398193,YES, , ,Serum,UP,lung,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-10b-5p,MIMAT0000254,hsa-mir-10b,21398193,YES, , ,Serum,UP,lung,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-10b-5p,MIMAT0000254,hsa-mir-10b,21398193, ,NEGATIVE,lymph node metastasis,Serum,UP,lung,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-10b-5p,MIMAT0000254,hsa-mir-10b,21398193, ,NEGATIVE,elevated serum tumor marker (TPA and uPA) levels,Serum,UP,lung,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-1184,MIMAT0005829,hsa-mir-1184-1|hsa-mir-1184-2|hsa-mir-1184-3,27265125,YES, , ,Plasma,UP,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-1207-5p,MIMAT0005871,hsa-mir-1207,21098088,YES, , ,Serum,UP,serum,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-122-3p,MIMAT0004590,hsa-mir-122,22045675,YES, , ,Serum,UP,serum,chemical and drug induced liver injury,D056486,"CHEBI_23888,UBERON_0002107",Digestive & Gastrointestinal Conditions,liver injury,chemical and drug induced
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,24282590, ,NEGATIVE,EGFR mutation status,Plasma,UP,,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,20930130,YES, , ,Plasma,UP,liver,chemical and drug induced liver injury,D056486,"CHEBI_23888,UBERON_0002107",Digestive & Gastrointestinal Conditions,liver injury,chemical and drug induced
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,25515554,YES, , ,Serum,UP,blood,obesity,D009765,"DOID_9970,SYMP_0020018",Endocrine and Metabolic Conditions,obesity,
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,29410711, ,POSITIVE,overall survival,Serum,UP,,"carcinoma, renal cell",D002292,"CL_0000000,DOID_305","Cancer, Genitourinary Conditions, Cells",carcinoma,renal cell
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,21886843,YES, , ,Serum,UP,liver,"hepatitis c, chronic",D019698,DOID_1883,"Viral Infections, Infectious Diseases, Digestive & Gastrointestinal Conditions",hepatitis,"c, chronic"
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,28670374,YES, , ,Plasma,UP,,"osteoarthritis, knee",D020370,"DOID_8398,UBERON_0001465",Musculoskeletal Conditions,osteoarthritis,knee
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,23118427,YES, , ,Serum,UP,endometrium/uterus,endometriosis,D004715,DOID_289,Genitourinary Conditions,endometriosis,
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,20930130,YES, , ,Plasma,UP,liver,chemical and drug induced liver injury,D056486,"CHEBI_23888,UBERON_0002107",Digestive & Gastrointestinal Conditions,liver injury,chemical and drug induced
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,28670374,YES, , ,Plasma,UP,,"osteoarthritis, knee",D020370,"DOID_8398,UBERON_0001465",Musculoskeletal Conditions,osteoarthritis,knee
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,24282590, ,NEGATIVE,overall survival,Plasma,UP,,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,24431276,YES, , ,Serum,UP,,osteoporosis,D010024,DOID_11476,Musculoskeletal Conditions,osteoporosis,
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,21886843,YES, , ,Serum,UP,liver,non-alcoholic fatty liver disease,D065626,DOID_9452,"Digestive & Gastrointestinal Conditions, Substance Abuse",fatty liver disease,non alcoholic
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,21886843, ,POSITIVE,disease severity,Serum,UP,liver,"hepatitis c, chronic",D019698,DOID_1883,"Viral Infections, Infectious Diseases, Digestive & Gastrointestinal Conditions",hepatitis,"c, chronic"
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,29849050,YES, , ,Serum,DOWN,bone,osteoporosis,D010024,DOID_11476,Musculoskeletal Conditions,osteoporosis,
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,22105822,YES, , ,Plasma,DOWN,,"carcinoma, hepatocellular",D006528,DOID_305,"Cancer, Digestive & Gastrointestinal Conditions",carcinoma,hepatocellular
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,21886843, ,POSITIVE,disease severity,Serum,UP,liver,non-alcoholic fatty liver disease,D065626,DOID_9452,"Digestive & Gastrointestinal Conditions, Substance Abuse",fatty liver disease,non alcoholic
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,23383654,YES, , ,Serum,UP,liver,"hepatitis c, chronic",D019698,DOID_1883,"Viral Infections, Infectious Diseases, Digestive & Gastrointestinal Conditions",hepatitis,"c, chronic"
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,27194671, ,POSITIVE,TACE refractoriness,Plasma,UP,liver,"carcinoma, hepatocellular",D006528,DOID_305,"Cancer, Digestive & Gastrointestinal Conditions",carcinoma,hepatocellular
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,21886843,YES, , ,Serum,UP,liver,"hepatitis c, chronic",D019698,DOID_1883,"Viral Infections, Infectious Diseases, Digestive & Gastrointestinal Conditions",hepatitis,"c, chronic"
+hsa-miR-122-5p,MIMAT0000421,hsa-mir-122,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-1233-3p,MIMAT0005588,hsa-mir-1233-1|hsa-mir-1233-2,21984948,YES, , ,Serum,UP,,"carcinoma, renal cell",D002292,"CL_0000000,DOID_305","Cancer, Genitourinary Conditions, Cells",carcinoma,renal cell
+hsa-miR-1233-3p,MIMAT0005588,hsa-mir-1233-1|hsa-mir-1233-2,27150028,YES, , ,Serum,UP,,pulmonary embolism,D011655,DOID_9477,Respiratory Conditions,pulmonary embolism,
+hsa-miR-1233-3p,MIMAT0005588,hsa-mir-1233-1|hsa-mir-1233-2,21984948,YES, , ,Serum,UP,,"carcinoma, renal cell",D002292,"CL_0000000,DOID_305","Cancer, Genitourinary Conditions, Cells",carcinoma,renal cell
+hsa-miR-1233-3p,MIMAT0005588,hsa-mir-1233-1|hsa-mir-1233-2,25619197,YES, , ,Plasma,UP,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-1233-3p,MIMAT0005588,hsa-mir-1233-1|hsa-mir-1233-2,27150028,YES, , ,Serum,UP,,pulmonary embolism,D011655,DOID_9477,Respiratory Conditions,pulmonary embolism,
+hsa-miR-1233-3p,MIMAT0005588,hsa-mir-1233-1|hsa-mir-1233-2,25619197,YES, , ,Plasma,UP,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-1233-3p,MIMAT0005588,hsa-mir-1233-1|hsa-mir-1233-2,27150028,YES, , ,Serum,UP,,pulmonary embolism,D011655,DOID_9477,Respiratory Conditions,pulmonary embolism,
+hsa-miR-1233-3p,MIMAT0005588,hsa-mir-1233-1|hsa-mir-1233-2,27150028,YES, , ,Serum,UP,,pulmonary embolism,D011655,DOID_9477,Respiratory Conditions,pulmonary embolism,
+hsa-miR-124-3p,MIMAT0000422,hsa-mir-124-1|hsa-mir-124-2|hsa-mir-124-3,24431276,YES, , ,Serum,UP,,osteoporosis,D010024,DOID_11476,Musculoskeletal Conditions,osteoporosis,
+hsa-miR-1246,MIMAT0005898,hsa-mir-1246,23799609, ,POSITIVE,lymph node metastasis,Serum,UP,,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-1246,MIMAT0005898,hsa-mir-1246,23799609,YES, , ,Serum,UP,,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-125a-5p,MIMAT0000443,hsa-mir-125a,24517143,YES, , ,Serum,DOWN,,hypothyroidism,D007037,DOID_1459,Endocrine and Metabolic Conditions,hypothyroidism,
+hsa-miR-125a-5p,MIMAT0000443,hsa-mir-125a,25619197,YES, , ,Plasma,UP,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-125a-5p,MIMAT0000443,hsa-mir-125a,24517143,YES, , ,Serum,DOWN,,atherosclerosis,D050197,DOID_1936,Cardiovascular Conditions,atherosclerosis,
+hsa-miR-125a-5p,MIMAT0000443,hsa-mir-125a,24517143,YES, , ,Serum,DOWN,,atherosclerosis,D050197,DOID_1936,Cardiovascular Conditions,atherosclerosis,
+hsa-miR-125a-5p,MIMAT0000443,hsa-mir-125a,25619197,YES, , ,Plasma,UP,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-125b-2-3p,MIMAT0004603,hsa-mir-125b-2,24447930,YES, , ,Blood,UP,brain,stroke,D020521,DOID_6713,"Cardiovascular Conditions, Neurological Conditions",stroke,
+hsa-miR-125b-5p,MIMAT0000423,hsa-mir-125b-1|hsa-mir-125b-2,24431276,YES, , ,Serum,UP,,osteoporosis,D010024,DOID_11476,Musculoskeletal Conditions,osteoporosis,
+hsa-miR-125b-5p,MIMAT0000423,hsa-mir-125b-1|hsa-mir-125b-2,22806310, ,NEGATIVE,overall survival,Serum,UP,lung,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-125b-5p,MIMAT0000423,hsa-mir-125b-1|hsa-mir-125b-2,30128020, ,POSITIVE,overall survival,Plasma,UP,,multiple myeloma,D009101,DOID_9538,"Cancer, Other/Unclassified/Multisystem",multiple myeloma,
+hsa-miR-125b-5p,MIMAT0000423,hsa-mir-125b-1|hsa-mir-125b-2,22806310,YES, , ,Serum,UP,lung,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-125b-5p,MIMAT0000423,hsa-mir-125b-1|hsa-mir-125b-2,30128020,YES, , ,Plasma,UP,,multiple myeloma,D009101,DOID_9538,"Cancer, Other/Unclassified/Multisystem",multiple myeloma,
+hsa-miR-125b-5p,MIMAT0000423,hsa-mir-125b-1|hsa-mir-125b-2,30128020,YES, , ,Plasma,UP,,multiple myeloma,D009101,DOID_9538,"Cancer, Other/Unclassified/Multisystem",multiple myeloma,
+hsa-miR-126-3p,MIMAT0000445,hsa-mir-126,24927146,YES, , ,Serum,DOWN,,"diabetes mellitus, type 2",D003924,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions",diabetes mellitus,type 2
+hsa-miR-126-3p,MIMAT0000445,hsa-mir-126,24927146,YES, , ,Serum,DOWN,,glucose intolerance,D018149,"DOID_10603,HP_0001952","Immune and Autoimmune Conditions, Endocrine and Metabolic Conditions",glucose intolerance,
+hsa-miR-126-3p,MIMAT0000445,hsa-mir-126,24901787,YES, , ,Plasma,UP,,osteoarthritis,D010003,DOID_8398,Musculoskeletal Conditions,osteoarthritis,
+hsa-miR-126-3p,MIMAT0000445,hsa-mir-126,21969012, ,NEGATIVE,extent of myocardial damage,Plasma,DOWN,"blood, blood vessels",coronary artery disease,D003324,DOID_3393,Cardiovascular Conditions,coronary artery disease,
+hsa-miR-126-3p,MIMAT0000445,hsa-mir-126,22719221,YES, , ,Plasma,DOWN,,myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-126-3p,MIMAT0000445,hsa-mir-126,24517143,YES, , ,Serum,DOWN,,atherosclerosis,D050197,DOID_1936,Cardiovascular Conditions,atherosclerosis,
+hsa-miR-126-3p,MIMAT0000445,hsa-mir-126,24455723,YES, , ,Plasma,DOWN,blood,"diabetes mellitus, type 2",D003924,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions",diabetes mellitus,type 2
+hsa-miR-126-3p,MIMAT0000445,hsa-mir-126,24260372,YES, , ,Plasma,UP,,"angina, unstable",D000789,,Cardiovascular Conditions,angina,unstable
+hsa-miR-126-3p,MIMAT0000445,hsa-mir-126,24927146,YES, , ,Serum,DOWN,,glucose intolerance,D018149,"DOID_10603,HP_0001952","Immune and Autoimmune Conditions, Endocrine and Metabolic Conditions",glucose intolerance,
+hsa-miR-126-3p,MIMAT0000445,hsa-mir-126,20651284,YES, , ,Plasma,DOWN,,"diabetes mellitus, type 2",D003924,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions",diabetes mellitus,type 2
+hsa-miR-126-3p,MIMAT0000445,hsa-mir-126,24260372,YES, , ,Plasma,UP,,"angina, stable",D060050,,Cardiovascular Conditions,angina,stable
+hsa-miR-126-3p,MIMAT0000445,hsa-mir-126,24517143,YES, , ,Serum,DOWN,,hypothyroidism,D007037,DOID_1459,Endocrine and Metabolic Conditions,hypothyroidism,
+hsa-miR-126-3p,MIMAT0000445,hsa-mir-126,27321479,YES, , ,Blood,DOWN,,coronary artery disease,D003324,DOID_3393,Cardiovascular Conditions,coronary artery disease,
+hsa-miR-126-3p,MIMAT0000445,hsa-mir-126,27321479,YES, , ,Blood,DOWN,,"diabetes mellitus, type 2",D003924,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions",diabetes mellitus,type 2
+hsa-miR-126-5p,MIMAT0000444,hsa-mir-126,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-1260a,MIMAT0005911,hsa-mir-1260a,28179587,YES, , ,Plasma,UP,hippocampus,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-127-3p,MIMAT0000446,hsa-mir-127,24194846,YES, , ,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-127-3p,MIMAT0000446,hsa-mir-127,24194846,YES, , ,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-128-3p,MIMAT0000424,hsa-mir-128-1|hsa-mir-128-2,27246141,YES, , ,Serum,UP,,"multiple sclerosis, chronic progressive",D020528,DOID_2377,Other/Unclassified/Multisystem,multiple sclerosis,chronic progressive
+hsa-miR-128-3p,MIMAT0000424,hsa-mir-128-1|hsa-mir-128-2,24368295,YES, , ,Plasma,UP,,cognitive dysfunction,D060825,,Eyes/Nose/Ears,cognitive dysfunction,
+hsa-miR-128-3p,MIMAT0000424,hsa-mir-128-1|hsa-mir-128-2,30210287, ,POSITIVE,bulbar onset,Plasma,DOWN,,amyotrophic lateral sclerosis,D000690,"DOID_0111227,DOID_332",Neurological Conditions,amyotrophic lateral sclerosis,
+hsa-miR-128-3p,MIMAT0000424,hsa-mir-128-1|hsa-mir-128-2,27246141,YES, , ,Serum,UP,,"multiple sclerosis, chronic progressive",D020528,DOID_2377,Other/Unclassified/Multisystem,multiple sclerosis,chronic progressive
+hsa-miR-1285-3p,MIMAT0005876,hsa-mir-1285-2|hsa-mir-1285-1,22298030,YES, , ,Plasma,UP,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-1285-3p,MIMAT0005876,hsa-mir-1285-2|hsa-mir-1285-1,22298030,YES, , ,Plasma,UP,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-1290,MIMAT0005880,hsa-mir-1290,30662524,YES, , ,Plasma,UP,"colon, rectum",colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-1290,MIMAT0005880,hsa-mir-1290,27330796, ,POSITIVE,cervical cancer staging,Serum,UP,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-1290,MIMAT0005880,hsa-mir-1290,30662524,YES, , ,Plasma,UP,"colon, rectum",colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-1290,MIMAT0005880,hsa-mir-1290,27330796,YES, , ,Serum,UP,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-1291,MIMAT0005881,hsa-mir-1291,32399091,YES, , ,Serum,UP,,"pemphigoid, bullous",D010391,DOID_0080841,Integumentary System,pemphigoid,bullous
+hsa-miR-130a-3p,MIMAT0000425,hsa-mir-130a,25126405,YES, , ,Serum,UP,,autism spectrum disorder,D000067877,DOID_0060041,Neurological Conditions,autism spectrum disorder,
+hsa-miR-132-3p,MIMAT0000426,hsa-mir-132,31653266,YES, , ,Serum,DOWN,,"diabetes, gestational",D016640,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions, Pregnancy Conditions and Outcomes",diabetes,gestational
+hsa-miR-132-3p,MIMAT0000426,hsa-mir-132,24368295,YES, , ,Plasma,UP,,cognitive dysfunction,D060825,,Eyes/Nose/Ears,cognitive dysfunction,
+hsa-miR-132-3p,MIMAT0000426,hsa-mir-132,27357355, ,NEGATIVE,overall survival,Serum,UP,heart,coronary artery disease,D003324,DOID_3393,Cardiovascular Conditions,coronary artery disease,
+hsa-miR-132-3p,MIMAT0000426,hsa-mir-132,24405714, ,POSITIVE,post-therapeutic efficacy,Serum,UP,pelvic lymph node,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-133a-3p,MIMAT0000427,hsa-mir-133a-1|hsa-mir-133a-2,20159880,YES, , ,Plasma,UP,"heart, skeletal muscle",myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-133a-3p,MIMAT0000427,hsa-mir-133a-1|hsa-mir-133a-2,21969012, ,POSITIVE,extent of myocardial damage,Plasma,UP,"blood, blood vessels",coronary artery disease,D003324,DOID_3393,Cardiovascular Conditions,coronary artery disease,
+hsa-miR-133a-3p,MIMAT0000427,hsa-mir-133a-1|hsa-mir-133a-2,25111390,YES, , ,Plasma,UP,heart,myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-133a-3p,MIMAT0000427,hsa-mir-133a-1|hsa-mir-133a-2,25051376,YES, , ,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-133a-3p,MIMAT0000427,hsa-mir-133a-1|hsa-mir-133a-2,22674182,YES, , ,Serum,DOWN,,astrocytoma,D001254,,Cancer,astrocytoma,
+hsa-miR-133a-3p,MIMAT0000427,hsa-mir-133a-1|hsa-mir-133a-2,23312977,YES, , ,Plasma,UP,ascending aorta,"aortic aneurysm, thoracic",D017545,DOID_3627,Cardiovascular Conditions,aneurysm,thoracic aortic
+hsa-miR-133a-3p,MIMAT0000427,hsa-mir-133a-1|hsa-mir-133a-2,23312977,YES, , ,Plasma,UP,ascending aorta,"aortic aneurysm, thoracic",D017545,DOID_3627,Cardiovascular Conditions,aneurysm,thoracic aortic
+hsa-miR-133a-3p,MIMAT0000427,hsa-mir-133a-1|hsa-mir-133a-2,22674182,YES, , ,Serum,DOWN,,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-133a-3p,MIMAT0000427,hsa-mir-133a-1|hsa-mir-133a-2,21701171,YES, , ,Plasma,UP,heart/myocardium,st elevation myocardial infarction,D000072657,DOID_5844,Cardiovascular Conditions,myocardial infarction,st elevation
+hsa-miR-133a-3p,MIMAT0000427,hsa-mir-133a-1|hsa-mir-133a-2,25111390,YES, , ,Plasma,UP,heart,myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-133a-3p,MIMAT0000427,hsa-mir-133a-1|hsa-mir-133a-2,24260372,YES, , ,Plasma,UP,,"angina, unstable",D000789,,Cardiovascular Conditions,angina,unstable
+hsa-miR-133a-3p,MIMAT0000427,hsa-mir-133a-1|hsa-mir-133a-2,20696132,YES, , ,Serum,UP,"head, sinus, uterus, bladder, orbit",rhabdomyosarcoma,D012208,DOID_3247,Cancer,rhabdomyosarcoma,
+hsa-miR-133a-3p,MIMAT0000427,hsa-mir-133a-1|hsa-mir-133a-2,22674182,YES, , ,Serum,DOWN,,astrocytoma,D001254,,Cancer,astrocytoma,
+hsa-miR-133a-3p,MIMAT0000427,hsa-mir-133a-1|hsa-mir-133a-2,22674182,YES, , ,Serum,DOWN,,astrocytoma,D001254,,Cancer,astrocytoma,
+hsa-miR-133a-5p,MIMAT0026478,hsa-mir-133a-1|hsa-mir-133a-2,25625292,YES, , ,Plasma,DOWN,,"tachycardia, ventricular",D017180,SYMP_0000529,Cardiovascular Conditions,tachycardia,ventricular
+hsa-miR-133a-5p,MIMAT0026478,hsa-mir-133a-1|hsa-mir-133a-2,25625292,YES, , ,Plasma,DOWN,,"tachycardia, ventricular",D017180,SYMP_0000529,Cardiovascular Conditions,tachycardia,ventricular
+hsa-miR-133b,MIMAT0000770,hsa-mir-133b,20696132,YES, , ,Serum,UP,"head, sinus, uterus, bladder, orbit",rhabdomyosarcoma,D012208,DOID_3247,Cancer,rhabdomyosarcoma,
+hsa-miR-134-5p,MIMAT0000447,hsa-mir-134,21943159,YES, , ,Plasma,UP,heart,pulmonary embolism,D011655,DOID_9477,Respiratory Conditions,pulmonary embolism,
+hsa-miR-134-5p,MIMAT0000447,hsa-mir-134,21943159,YES, , ,Plasma,UP,heart,pulmonary embolism,D011655,DOID_9477,Respiratory Conditions,pulmonary embolism,
+hsa-miR-134-5p,MIMAT0000447,hsa-mir-134,24368295,YES, , ,Plasma,UP,,cognitive dysfunction,D060825,,Eyes/Nose/Ears,cognitive dysfunction,
+hsa-miR-134-5p,MIMAT0000447,hsa-mir-134,20546789, ,NEGATIVE,severity of manic symtpoms,Plasma,DOWN,brain,bipolar disorder,D001714,DOID_3312,Mood and Personality Disorders,bipolar disorder,
+hsa-miR-135a-3p,MIMAT0004595,hsa-mir-135a-1,21460253,YES, , ,Plasma,UP,,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-135a-3p,MIMAT0004595,hsa-mir-135a-1,21460253,YES, , ,Plasma,UP,,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-137-3p,MIMAT0000429,hsa-mir-137,27649660, ,POSITIVE,overall survival,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-138-5p,MIMAT0000430,hsa-mir-138-2|hsa-mir-138-1,24204780,YES, , ,Serum,UP,,"diabetes mellitus, type 2",D003924,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions",diabetes mellitus,type 2
+hsa-miR-138-5p,MIMAT0000430,hsa-mir-138-2|hsa-mir-138-1,24204780,YES, , ,Serum,DOWN,,obesity,D009765,"DOID_9970,SYMP_0020018",Endocrine and Metabolic Conditions,obesity,
+hsa-miR-138-5p,MIMAT0000430,hsa-mir-138-2|hsa-mir-138-1,24204780,YES, , ,Serum,DOWN,,obesity,D009765,"DOID_9970,SYMP_0020018",Endocrine and Metabolic Conditions,obesity,
+hsa-miR-138-5p,MIMAT0000430,hsa-mir-138-2|hsa-mir-138-1,24204780,YES, , ,Serum,DOWN,,"diabetes mellitus, type 2",D003924,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions",diabetes mellitus,type 2
+hsa-miR-140-3p,MIMAT0004597,hsa-mir-140,30171938,YES, , ,Serum,UP,,"osteoporosis, postmenopausal",D015663,DOID_11476,Musculoskeletal Conditions,osteoporosis,postmenopausal
+hsa-miR-140-3p,MIMAT0004597,hsa-mir-140,30171938,YES, , ,Serum,UP,,"bone diseases, metabolic",D001851,DOID_0080001,"Endocrine and Metabolic Conditions, Musculoskeletal Conditions",bone disease,metabolic
+hsa-miR-140-3p,MIMAT0004597,hsa-mir-140,27357355, ,NEGATIVE,overall survival,Serum,UP,heart,coronary artery disease,D003324,DOID_3393,Cardiovascular Conditions,coronary artery disease,
+hsa-miR-140-3p,MIMAT0004597,hsa-mir-140,30171938,YES, , ,Serum,UP,,osteoporotic fractures,D058866,,Musculoskeletal Conditions,fractures,osteoporotic
+hsa-miR-140-5p,MIMAT0000431,hsa-mir-140,21546856,YES, , ,Serum,UP,bowel,crohn disease,D003424,DOID_8778,Digestive & Gastrointestinal Conditions,crohn disease,
+hsa-miR-140-5p,MIMAT0000431,hsa-mir-140,22087245,YES, , ,Serum,UP,"throat, stool or vesicle swab",picornaviridae infections,D010850,NCBITaxon_12058,Infectious Diseases,picornaviridae infections,
+hsa-miR-140-5p,MIMAT0000431,hsa-mir-140,30175165,YES, , ,Serum,DOWN,,"multiple sclerosis, chronic progressive",D020528,DOID_2377,Other/Unclassified/Multisystem,multiple sclerosis,chronic progressive
+hsa-miR-141-3p,MIMAT0000432,hsa-mir-141,21398193,YES, , ,Serum,UP,lung,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-141-3p,MIMAT0000432,hsa-mir-141,21445232, ,NEGATIVE,poor survival,Plasma,UP,colon,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-141-3p,MIMAT0000432,hsa-mir-141,22952344, ,NEGATIVE,overall survival,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-141-3p,MIMAT0000432,hsa-mir-141,22052531,YES, , ,Serum,UP,prostate,"prostatic neoplasms, castration-resistant",D064129,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic castration-resistant
+hsa-miR-141-3p,MIMAT0000432,hsa-mir-141,18663219,YES, , ,Serum,UP,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-141-3p,MIMAT0000432,hsa-mir-141,20473869, ,NEGATIVE,high risk prostate cancer,Serum,UP,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-141-3p,MIMAT0000432,hsa-mir-141,21398193,YES, , ,Serum,UP,lung,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-141-3p,MIMAT0000432,hsa-mir-141,22952344, ,NEGATIVE,progression-free survival,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-141-3p,MIMAT0000432,hsa-mir-141,21445232,YES, , ,Plasma,UP,colon,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-141-3p,MIMAT0000432,hsa-mir-141,21274675, ,POSITIVE,metastasis,Plasma,UP,,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-141-3p,MIMAT0000432,hsa-mir-141,21445232,YES, , ,Plasma,UP,colon,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-141-3p,MIMAT0000432,hsa-mir-141,23574937, ,POSITIVE,metastasis,Plasma,UP,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-141-3p,MIMAT0000432,hsa-mir-141,22952344,YES, , ,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-141-3p,MIMAT0000432,hsa-mir-141,20473869, ,NEGATIVE,high risk prostate cancer,Serum,UP,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-141-3p,MIMAT0000432,hsa-mir-141,21398193, ,NEGATIVE,elevated serum tumor marker (TPA and uPA) levels,Serum,UP,lung,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-141-3p,MIMAT0000432,hsa-mir-141,21445232, ,NEGATIVE,poor survival,Plasma,UP,colon,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-141-3p,MIMAT0000432,hsa-mir-141,21445232, ,NEGATIVE,colon cancer staging,Plasma,UP,colon,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-141-5p,MIMAT0004598,hsa-mir-141,23118427,YES, , ,Serum,DOWN,endometrium/uterus,endometriosis,D004715,DOID_289,Genitourinary Conditions,endometriosis,
+hsa-miR-141-5p,MIMAT0004598,hsa-mir-141,24405714,YES, , ,Serum,DOWN,pelvic lymph node,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-142-3p,MIMAT0000434,hsa-mir-142,28179587,YES, , ,Plasma,DOWN,hippocampus,cognitive dysfunction,D060825,,Eyes/Nose/Ears,cognitive dysfunction,
+hsa-miR-142-3p,MIMAT0000434,hsa-mir-142,23922807,YES, , ,Plasma,DOWN,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-142-3p,MIMAT0000434,hsa-mir-142,26413249,YES, , ,Plasma,DOWN,"colon, rectum",colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-142-3p,MIMAT0000434,hsa-mir-142,28179587,YES, , ,Plasma,DOWN,hippocampus,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-142-3p,MIMAT0000434,hsa-mir-142,23922807,YES, , ,Plasma,DOWN,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-142-3p,MIMAT0000434,hsa-mir-142,31980721,YES, , ,Serum,UP,,bipolar disorder,D001714,DOID_3312,Mood and Personality Disorders,bipolar disorder,
+hsa-miR-142-5p,MIMAT0000433,hsa-mir-142,30175165,YES, , ,Serum,DOWN,,"multiple sclerosis, chronic progressive",D020528,DOID_2377,Other/Unclassified/Multisystem,multiple sclerosis,chronic progressive
+hsa-miR-143-3p,MIMAT0000435,hsa-mir-143,24993656,YES, , ,Serum,UP,liver,"hepatitis, chronic",D006521,"DOID_2237,SYMP_0000046","Viral Infections, Infectious Diseases, Digestive & Gastrointestinal Conditions",hepatitis,chronic
+hsa-miR-143-3p,MIMAT0000435,hsa-mir-143,24405714, ,POSITIVE,post-therapeutic efficacy,Serum,UP,pelvic lymph node,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-143-3p,MIMAT0000435,hsa-mir-143,22087245,YES, , ,Serum,UP,"throat, stool or vesicle swab",picornaviridae infections,D010850,NCBITaxon_12058,Infectious Diseases,picornaviridae infections,
+hsa-miR-143-3p,MIMAT0000435,hsa-mir-143,24993656,YES, , ,Serum,UP,liver,"carcinoma, hepatocellular",D006528,DOID_305,"Cancer, Digestive & Gastrointestinal Conditions",carcinoma,hepatocellular
+hsa-miR-145-3p,MIMAT0004601,hsa-mir-145,23118427,YES, , ,Serum,DOWN,endometrium/uterus,endometriosis,D004715,DOID_289,Genitourinary Conditions,endometriosis,
+hsa-miR-145-5p,MIMAT0000437,hsa-mir-145,28284220, ,POSITIVE,overall survival,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-145-5p,MIMAT0000437,hsa-mir-145,28284220, ,POSITIVE,disease-free survival,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-145-5p,MIMAT0000437,hsa-mir-145,28284220, ,POSITIVE,overall survival,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-145-5p,MIMAT0000437,hsa-mir-145,28284220, ,POSITIVE,disease-free survival,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-145-5p,MIMAT0000437,hsa-mir-145,28284220, ,POSITIVE,overall survival,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-145-5p,MIMAT0000437,hsa-mir-145,28284220, ,POSITIVE,disease-free survival,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-146a-5p,MIMAT0000449,hsa-mir-146a,24901787,YES, , ,Plasma,UP,,osteoarthritis,D010003,DOID_8398,Musculoskeletal Conditions,osteoarthritis,
+hsa-miR-146a-5p,MIMAT0000449,hsa-mir-146a,20188071,YES, , ,Serum,DOWN,,sepsis,D018805,,Bacterial Infections,sepsis,
+hsa-miR-146a-5p,MIMAT0000449,hsa-mir-146a,29602672,YES, , ,Serum,UP,,acute-on-chronic liver failure,D065290,UBERON_0002107,Digestive & Gastrointestinal Conditions,liver failure,acute-on-chronic
+hsa-miR-146a-5p,MIMAT0000449,hsa-mir-146a,31658043,YES, , ,Plasma,UP,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-146a-5p,MIMAT0000449,hsa-mir-146a,31658043,YES, , ,Plasma,UP,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-146a-5p,MIMAT0000449,hsa-mir-146a,31658043,YES, , ,Plasma,UP,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-146a-5p,MIMAT0000449,hsa-mir-146a,31658043,YES, , ,Plasma,UP,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-146a-5p,MIMAT0000449,hsa-mir-146a,16251535, ,NEGATIVE,time to initial therapy,Blood,UP,blood,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-146a-5p,MIMAT0000449,hsa-mir-146a,16251535, ,POSITIVE,aggresive disease course,Blood,UP,blood,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-146b-5p,MIMAT0002809,hsa-mir-146b,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-146b-5p,MIMAT0002809,hsa-mir-146b,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-146b-5p,MIMAT0002809,hsa-mir-146b,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-146b-5p,MIMAT0002809,hsa-mir-146b,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-146b-5p,MIMAT0002809,hsa-mir-146b,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-148a-3p,MIMAT0000243,hsa-mir-148a,22447484, ,POSITIVE,relapse-free survival,Plasma,UP,bone marrow,multiple myeloma,D009101,DOID_9538,"Cancer, Other/Unclassified/Multisystem",multiple myeloma,
+hsa-miR-148a-3p,MIMAT0000243,hsa-mir-148a,22087245,YES, , ,Serum,UP,"throat, stool or vesicle swab",picornaviridae infections,D010850,NCBITaxon_12058,Infectious Diseases,picornaviridae infections,
+hsa-miR-148a-3p,MIMAT0000243,hsa-mir-148a,24431276,YES, , ,Serum,UP,,osteoporosis,D010024,DOID_11476,Musculoskeletal Conditions,osteoporosis,
+hsa-miR-148b-3p,MIMAT0000759,hsa-mir-148b,30210287, ,POSITIVE,bulbar onset,Plasma,DOWN,,amyotrophic lateral sclerosis,D000690,"DOID_0111227,DOID_332",Neurological Conditions,amyotrophic lateral sclerosis,
+hsa-miR-148b-3p,MIMAT0000759,hsa-mir-148b,25051376,YES, , ,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-148b-3p,MIMAT0000759,hsa-mir-148b,24194846,YES, , ,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-148b-3p,MIMAT0000759,hsa-mir-148b,22927033,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-150-3p,MIMAT0004610,hsa-mir-150,21460253,YES, , ,Plasma,UP,,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-150-3p,MIMAT0004610,hsa-mir-150,21460253,YES, , ,Plasma,UP,,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-150-5p,MIMAT0000451,hsa-mir-150,21460253,YES, , ,Plasma,UP,,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-150-5p,MIMAT0000451,hsa-mir-150,21460253,YES, , ,Plasma,UP,,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-150-5p,MIMAT0000451,hsa-mir-150,22674182,YES, , ,Serum,DOWN,,astrocytoma,D001254,,Cancer,astrocytoma,
+hsa-miR-150-5p,MIMAT0000451,hsa-mir-150,22674182,YES, , ,Serum,DOWN,,astrocytoma,D001254,,Cancer,astrocytoma,
+hsa-miR-150-5p,MIMAT0000451,hsa-mir-150,25584781, ,NEGATIVE,overall survival,Serum,UP,,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-150-5p,MIMAT0000451,hsa-mir-150,31954402, ,POSITIVE,disease severity,Blood,UP,,dengue,D003715,,Viral Infections,dengue,
+hsa-miR-150-5p,MIMAT0000451,hsa-mir-150,23372743, ,NEGATIVE,overall survival,Serum,DOWN,,critical illness,D016638,,Other/Unclassified/Multisystem,critical illness,
+hsa-miR-150-5p,MIMAT0000451,hsa-mir-150,25584781, ,NEGATIVE,treatment-free survival,Serum,UP,,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-150-5p,MIMAT0000451,hsa-mir-150,22674182,YES, , ,Serum,DOWN,,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-150-5p,MIMAT0000451,hsa-mir-150,31954402, ,POSITIVE,disease severity,Blood,UP,,dengue,D003715,,Viral Infections,dengue,
+hsa-miR-150-5p,MIMAT0000451,hsa-mir-150,22674182,YES, , ,Serum,DOWN,,astrocytoma,D001254,,Cancer,astrocytoma,
+hsa-miR-151a-3p,MIMAT0000757,hsa-mir-151a,31658043,YES, , ,Plasma,UP,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-151a-3p,MIMAT0000757,hsa-mir-151a,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-151a-3p,MIMAT0000757,hsa-mir-151a,31658043,YES, , ,Plasma,UP,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-151a-3p,MIMAT0000757,hsa-mir-151a,31658043,YES, , ,Plasma,UP,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-151a-3p,MIMAT0000757,hsa-mir-151a,31658043,YES, , ,Plasma,UP,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-151a-3p,MIMAT0000757,hsa-mir-151a,23574937, ,POSITIVE,metastasis,Plasma,UP,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-151a-5p,MIMAT0004697,hsa-mir-151a,22472564,YES, , ,Serum,UP,thyroid,"thyroid cancer, papillary",D000077273,DOID_1781,"Cancer, Endocrine and Metabolic Conditions",thyroid cancer,papillary
+hsa-miR-151a-5p,MIMAT0004697,hsa-mir-151a,22472564,YES, , ,Serum,UP,thyroid,"thyroid cancer, papillary",D000077273,DOID_1781,"Cancer, Endocrine and Metabolic Conditions",thyroid cancer,papillary
+hsa-miR-151a-5p,MIMAT0004697,hsa-mir-151a,28179587,YES, , ,Plasma,DOWN,hippocampus,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-151a-5p,MIMAT0004697,hsa-mir-151a,28179587,YES, , ,Plasma,DOWN,hippocampus,cognitive dysfunction,D060825,,Eyes/Nose/Ears,cognitive dysfunction,
+hsa-miR-152-3p,MIMAT0000438,hsa-mir-152,22095477,YES, , ,Plasma,DOWN,maternal plasma (non fetal),pre-eclampsia,D011225,DOID_13593,Pregnancy Conditions and Outcomes,pre-eclampsia,
+hsa-miR-155-5p,MIMAT0000646,hsa-mir-155,28466015,YES, , ,Plasma,UP,"pancreas head and neck, pancreas body and tail","carcinoma, pancreatic ductal",D021441,"DOID_305,UBERON_0007329","Cancer, Digestive & Gastrointestinal Conditions, Breast Conditions",carcinoma,pancreatic ductal
+hsa-miR-155-5p,MIMAT0000646,hsa-mir-155,21398193,YES, , ,Serum,UP,lung,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-155-5p,MIMAT0000646,hsa-mir-155,25176944,YES, , ,Serum,UP,heart,graft rejection,D006084,,Immune and Autoimmune Conditions,graft rejection,
+hsa-miR-155-5p,MIMAT0000646,hsa-mir-155,16251535, ,POSITIVE,aggresive disease course,Blood,UP,blood,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-155-5p,MIMAT0000646,hsa-mir-155,16251535, ,NEGATIVE,time to initial therapy,Blood,UP,blood,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-155-5p,MIMAT0000646,hsa-mir-155,21398193,YES, , ,Serum,UP,lung,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-155-5p,MIMAT0000646,hsa-mir-155,25176944,YES, , ,Serum,UP,heart,graft rejection,D006084,,Immune and Autoimmune Conditions,graft rejection,
+hsa-miR-155-5p,MIMAT0000646,hsa-mir-155,21892163,YES, , ,Plasma,UP,,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-155-5p,MIMAT0000646,hsa-mir-155,23071695,YES, , ,Serum,UP,serum,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-15a-5p,MIMAT0000068,hsa-mir-15a,20651284,YES, , ,Plasma,DOWN,,"diabetes mellitus, type 2",D003924,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions",diabetes mellitus,type 2
+hsa-miR-15a-5p,MIMAT0000068,hsa-mir-15a,16251535, ,POSITIVE,aggresive disease course,Blood,UP,blood,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-15a-5p,MIMAT0000068,hsa-mir-15a,24405714, ,POSITIVE,post-therapeutic efficacy,Serum,UP,pelvic lymph node,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-15b-5p,MIMAT0000417,hsa-mir-15b,24204780,YES, , ,Serum,UP,,obesity,D009765,"DOID_9970,SYMP_0020018",Endocrine and Metabolic Conditions,obesity,
+hsa-miR-15b-5p,MIMAT0000417,hsa-mir-15b,22674182,YES, , ,Serum,DOWN,,astrocytoma,D001254,,Cancer,astrocytoma,
+hsa-miR-15b-5p,MIMAT0000417,hsa-mir-15b,27047250,YES, , ,Serum,UP,brain,glioma,D005910,,Cancer,glioma,
+hsa-miR-15b-5p,MIMAT0000417,hsa-mir-15b,22674182,YES, , ,Serum,DOWN,,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-15b-5p,MIMAT0000417,hsa-mir-15b,27047250,YES, , ,Serum,UP,brain,glioma,D005910,,Cancer,glioma,
+hsa-miR-15b-5p,MIMAT0000417,hsa-mir-15b,24204780,YES, , ,Serum,UP,,"diabetes mellitus, type 2",D003924,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions",diabetes mellitus,type 2
+hsa-miR-15b-5p,MIMAT0000417,hsa-mir-15b,26695145,YES, , ,Serum,DOWN,,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-15b-5p,MIMAT0000417,hsa-mir-15b,23922807,YES, , ,Plasma,DOWN,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-15b-5p,MIMAT0000417,hsa-mir-15b,22674182,YES, , ,Serum,DOWN,,astrocytoma,D001254,,Cancer,astrocytoma,
+hsa-miR-15b-5p,MIMAT0000417,hsa-mir-15b,22389695,YES, , ,Serum,UP,,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-15b-5p,MIMAT0000417,hsa-mir-15b,27047250,YES, , ,Serum,UP,brain,glioma,D005910,,Cancer,glioma,
+hsa-miR-15b-5p,MIMAT0000417,hsa-mir-15b,22389695,YES, , ,Serum,UP,,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-15b-5p,MIMAT0000417,hsa-mir-15b,23267864,YES, , ,Blood,UP,colon,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-15b-5p,MIMAT0000417,hsa-mir-15b,23267864,YES, , ,Blood,UP,colon,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-15b-5p,MIMAT0000417,hsa-mir-15b,27047250,YES, , ,Serum,UP,brain,glioma,D005910,,Cancer,glioma,
+hsa-miR-15b-5p,MIMAT0000417,hsa-mir-15b,22674182,YES, , ,Serum,DOWN,,astrocytoma,D001254,,Cancer,astrocytoma,
+hsa-miR-15b-5p,MIMAT0000417,hsa-mir-15b,23922807,YES, , ,Plasma,DOWN,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-15b-5p,MIMAT0000417,hsa-mir-15b,26695145,YES, , ,Serum,DOWN,,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-16-5p,MIMAT0000069,hsa-mir-16-1|hsa-mir-16-2,25887942,YES, , ,Plasma,UP,,"diabetes, gestational",D016640,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions, Pregnancy Conditions and Outcomes",diabetes,gestational
+hsa-miR-16-5p,MIMAT0000069,hsa-mir-16-1|hsa-mir-16-2,27047250,YES, , ,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-16-5p,MIMAT0000069,hsa-mir-16-1|hsa-mir-16-2,20883153,YES, , ,Plasma,DOWN,,"brain injuries, traumatic",D000070642,UBERON_0000955,Neurological Conditions,brain injury,traumatic
+hsa-miR-16-5p,MIMAT0000069,hsa-mir-16-1|hsa-mir-16-2,16251535, ,POSITIVE,aggresive disease course,Blood,UP,blood,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-16-5p,MIMAT0000069,hsa-mir-16-1|hsa-mir-16-2,21546856,YES, , ,Serum,UP,bowel,crohn disease,D003424,DOID_8778,Digestive & Gastrointestinal Conditions,crohn disease,
+hsa-miR-16-5p,MIMAT0000069,hsa-mir-16-1|hsa-mir-16-2,20883153,YES, , ,Plasma,DOWN,,"brain injuries, traumatic",D000070642,UBERON_0000955,Neurological Conditions,brain injury,traumatic
+hsa-miR-16-5p,MIMAT0000069,hsa-mir-16-1|hsa-mir-16-2,27047250,YES, , ,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-16-5p,MIMAT0000069,hsa-mir-16-1|hsa-mir-16-2,24595006,YES, , ,Plasma,UP,"gastric body, antrum of stomach",stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-16-5p,MIMAT0000069,hsa-mir-16-1|hsa-mir-16-2,27047250,YES, , ,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-16-5p,MIMAT0000069,hsa-mir-16-1|hsa-mir-16-2,24595006,YES, , ,Plasma,UP,"gastric body, antrum of stomach",stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-16-5p,MIMAT0000069,hsa-mir-16-1|hsa-mir-16-2,23574937, ,NEGATIVE,metastasis,Plasma,UP,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-16-5p,MIMAT0000069,hsa-mir-16-1|hsa-mir-16-2,26695145,YES, , ,Serum,UP,,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-16-5p,MIMAT0000069,hsa-mir-16-1|hsa-mir-16-2,22198701,YES, , ,Serum,DOWN,,stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-16-5p,MIMAT0000069,hsa-mir-16-1|hsa-mir-16-2,26695145,YES, , ,Serum,UP,,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-16-5p,MIMAT0000069,hsa-mir-16-1|hsa-mir-16-2,24595006,YES, , ,Plasma,UP,"gastric body, antrum of stomach",stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-16-5p,MIMAT0000069,hsa-mir-16-1|hsa-mir-16-2,24595006,YES, , ,Plasma,UP,"gastric body, antrum of stomach",stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-16-5p,MIMAT0000069,hsa-mir-16-1|hsa-mir-16-2,24901787,YES, , ,Plasma,UP,,osteoarthritis,D010003,DOID_8398,Musculoskeletal Conditions,osteoarthritis,
+hsa-miR-16-5p,MIMAT0000069,hsa-mir-16-1|hsa-mir-16-2,20883153,YES, , ,Plasma,UP,,brain concussion,D001924,UBERON_0000955,Neurological Conditions,brain concussion,
+hsa-miR-16-5p,MIMAT0000069,hsa-mir-16-1|hsa-mir-16-2,27047250,YES, , ,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-16-5p,MIMAT0000069,hsa-mir-16-1|hsa-mir-16-2,27047250,YES, , ,Serum,DOWN,brain,glioma,D005910,,Cancer,glioma,
+hsa-miR-16-5p,MIMAT0000069,hsa-mir-16-1|hsa-mir-16-2,27047250,YES, , ,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-17-5p,MIMAT0000070,hsa-mir-17,25887942,YES, , ,Plasma,UP,,"diabetes, gestational",D016640,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions, Pregnancy Conditions and Outcomes",diabetes,gestational
+hsa-miR-17-5p,MIMAT0000070,hsa-mir-17,23203215,YES, , ,Plasma,DOWN,abdominopelvic cavity,endometriosis,D004715,DOID_289,Genitourinary Conditions,endometriosis,
+hsa-miR-17-5p,MIMAT0000070,hsa-mir-17,26695145,YES, , ,Serum,UP,,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-17-5p,MIMAT0000070,hsa-mir-17,24699363,YES, , ,Serum,UP,,"influenza, human",D007251,DOID_8469,Viral Infections,influenza,human
+hsa-miR-17-5p,MIMAT0000070,hsa-mir-17,28284220, ,NEGATIVE,overall survival,Serum,UP,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-17-5p,MIMAT0000070,hsa-mir-17,24699363,YES, , ,Serum,UP,,"influenza, human",D007251,DOID_8469,Viral Infections,influenza,human
+hsa-miR-17-5p,MIMAT0000070,hsa-mir-17,28284220, ,NEGATIVE,overall survival,Serum,UP,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-17-5p,MIMAT0000070,hsa-mir-17,26695145,YES, , ,Serum,UP,,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-181a-5p,MIMAT0000256,hsa-mir-181a-2|hsa-mir-181a-1,16251535, ,NEGATIVE,time to initial therapy,Blood,UP,blood,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-181b-5p,MIMAT0000257,hsa-mir-181b-1|hsa-mir-181b-2,25126405,YES, , ,Serum,DOWN,,autism spectrum disorder,D000067877,DOID_0060041,Neurological Conditions,autism spectrum disorder,
+hsa-miR-181c-5p,MIMAT0000258,hsa-mir-181c,24405714, ,POSITIVE,post-therapeutic efficacy,Serum,UP,pelvic lymph node,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-182-5p,MIMAT0000259,hsa-mir-182,28284220, ,POSITIVE,overall survival,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-182-5p,MIMAT0000259,hsa-mir-182,28284220, ,POSITIVE,overall survival,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-182-5p,MIMAT0000259,hsa-mir-182,28284220, ,POSITIVE,disease-free survival,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-182-5p,MIMAT0000259,hsa-mir-182,28284220, ,POSITIVE,disease-free survival,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-182-5p,MIMAT0000259,hsa-mir-182,28284220, ,POSITIVE,disease-free survival,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-182-5p,MIMAT0000259,hsa-mir-182,28284220, ,POSITIVE,overall survival,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-183-3p,MIMAT0004560,hsa-mir-183,25619197,YES, , ,Plasma,DOWN,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-183-3p,MIMAT0004560,hsa-mir-183,25619197,YES, , ,Plasma,DOWN,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-183-3p,MIMAT0004560,hsa-mir-183,25619197,YES, , ,Plasma,DOWN,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-184,MIMAT0000454,hsa-mir-184,24901787,YES, , ,Plasma,UP,,osteoarthritis,D010003,DOID_8398,Musculoskeletal Conditions,osteoarthritis,
+hsa-miR-186-5p,MIMAT0000456,hsa-mir-186,30210287, ,POSITIVE,bulbar onset,Plasma,DOWN,,amyotrophic lateral sclerosis,D000690,"DOID_0111227,DOID_332",Neurological Conditions,amyotrophic lateral sclerosis,
+hsa-miR-186-5p,MIMAT0000456,hsa-mir-186,24901787,YES, , ,Plasma,UP,,osteoarthritis,D010003,DOID_8398,Musculoskeletal Conditions,osteoarthritis,
+hsa-miR-18a-5p,MIMAT0000072,hsa-mir-18a,24626859,YES, , ,Plasma,UP,,stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-18a-5p,MIMAT0000072,hsa-mir-18a,23267864,YES, , ,Blood,UP,colon,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-18a-5p,MIMAT0000072,hsa-mir-18a,23267864,YES, , ,Blood,UP,colon,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-18a-5p,MIMAT0000072,hsa-mir-18a,24626859, ,NEGATIVE,post-operative recurrence,Plasma,UP,,stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-18a-5p,MIMAT0000072,hsa-mir-18a,28179587,YES, , ,Plasma,DOWN,hippocampus,cognitive dysfunction,D060825,,Eyes/Nose/Ears,cognitive dysfunction,
+hsa-miR-18a-5p,MIMAT0000072,hsa-mir-18a,22045190,YES, , ,Plasma,UP,pancreas,pancreatic neoplasms,D010190,DOID_1793,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,pancreatic
+hsa-miR-18a-5p,MIMAT0000072,hsa-mir-18a,28179587,YES, , ,Plasma,DOWN,hippocampus,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-18b-5p,MIMAT0001412,hsa-mir-18b,25547678, ,NEGATIVE,overall survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-18b-5p,MIMAT0001412,hsa-mir-18b,25547678, ,NEGATIVE,recurrence-free survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-18b-5p,MIMAT0001412,hsa-mir-18b,25547678, ,NEGATIVE,overall survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-18b-5p,MIMAT0001412,hsa-mir-18b,25547678, ,NEGATIVE,overall survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-18b-5p,MIMAT0001412,hsa-mir-18b,25547678, ,NEGATIVE,recurrence-free survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-18b-5p,MIMAT0001412,hsa-mir-18b,25547678, ,NEGATIVE,recurrence-free survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-190a-5p,MIMAT0000458,hsa-mir-190a,25619197,YES, , ,Plasma,DOWN,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-190a-5p,MIMAT0000458,hsa-mir-190a,25619197,YES, , ,Plasma,DOWN,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-190a-5p,MIMAT0000458,hsa-mir-190a,25057879,YES, , ,Serum,UP,thyroid,"thyroid cancer, papillary",D000077273,DOID_1781,"Cancer, Endocrine and Metabolic Conditions",thyroid cancer,papillary
+hsa-miR-190a-5p,MIMAT0000458,hsa-mir-190a,25057879,YES, , ,Serum,UP,thyroid,"thyroid cancer, papillary",D000077273,DOID_1781,"Cancer, Endocrine and Metabolic Conditions",thyroid cancer,papillary
+hsa-miR-190a-5p,MIMAT0000458,hsa-mir-190a,25619197,YES, , ,Plasma,DOWN,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-191-5p,MIMAT0000440,hsa-mir-191,27246141,YES, , ,Serum,UP,,"multiple sclerosis, chronic progressive",D020528,DOID_2377,Other/Unclassified/Multisystem,multiple sclerosis,chronic progressive
+hsa-miR-191-5p,MIMAT0000440,hsa-mir-191,27246141,YES, , ,Serum,UP,,"multiple sclerosis, chronic progressive",D020528,DOID_2377,Other/Unclassified/Multisystem,multiple sclerosis,chronic progressive
+hsa-miR-191-5p,MIMAT0000440,hsa-mir-191,23922807,YES, , ,Plasma,DOWN,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-191-5p,MIMAT0000440,hsa-mir-191,23922807,YES, , ,Plasma,DOWN,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-191-5p,MIMAT0000440,hsa-mir-191,19954774,YES, , ,Blood,DOWN,,"diabetes mellitus, type 1",D003922,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions",diabetes mellitus,type 1
+hsa-miR-192-5p,MIMAT0000222,hsa-mir-192,27279796,YES, , ,Serum,UP,blood in tube without anticoagulant and purified serum,diabetic nephropathies,D003928,,"Diabetes, Endocrine and Metabolic Conditions, Genitourinary Conditions",diabetic nephropathies,
+hsa-miR-192-5p,MIMAT0000222,hsa-mir-192,20930130,YES, , ,Plasma,UP,liver,chemical and drug induced liver injury,D056486,"CHEBI_23888,UBERON_0002107",Digestive & Gastrointestinal Conditions,liver injury,chemical and drug induced
+hsa-miR-192-5p,MIMAT0000222,hsa-mir-192,21372198,YES, , ,Serum,DOWN,,"lupus erythematosus, systemic",D008180,DOID_9074,"Immune and Autoimmune Conditions, Other/Unclassified/Multisystem",lupus erythematosus,systemic
+hsa-miR-192-5p,MIMAT0000222,hsa-mir-192,21546856,YES, , ,Serum,UP,bowel,crohn disease,D003424,DOID_8778,Digestive & Gastrointestinal Conditions,crohn disease,
+hsa-miR-192-5p,MIMAT0000222,hsa-mir-192,22105822,YES, , ,Plasma,UP,,"carcinoma, hepatocellular",D006528,DOID_305,"Cancer, Digestive & Gastrointestinal Conditions",carcinoma,hepatocellular
+hsa-miR-192-5p,MIMAT0000222,hsa-mir-192,25131257,YES, , ,Serum,UP,liver,cholangiocarcinoma,D018281,DOID_4947,"Cancer, Digestive & Gastrointestinal Conditions",cholangiocarcinoma,
+hsa-miR-192-5p,MIMAT0000222,hsa-mir-192,25131257, ,NEGATIVE,post-operative survival,Serum,UP,liver,cholangiocarcinoma,D018281,DOID_4947,"Cancer, Digestive & Gastrointestinal Conditions",cholangiocarcinoma,
+hsa-miR-193b-3p,MIMAT0002819,hsa-mir-193b,25619197,YES, , ,Plasma,DOWN,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-193b-3p,MIMAT0002819,hsa-mir-193b,25619197,YES, , ,Plasma,DOWN,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-193b-3p,MIMAT0002819,hsa-mir-193b,25619197,YES, , ,Plasma,DOWN,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-193b-5p,MIMAT0004767,hsa-mir-193b,25619197,YES, , ,Plasma,DOWN,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-193b-5p,MIMAT0004767,hsa-mir-193b,25619197,YES, , ,Plasma,DOWN,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-195-5p,MIMAT0000461,hsa-mir-195,21546856, ,NEGATIVE,response to treatment,Serum,UP,bowel,crohn disease,D003424,DOID_8778,Digestive & Gastrointestinal Conditions,crohn disease,
+hsa-miR-195-5p,MIMAT0000461,hsa-mir-195,21546856,YES, , ,Serum,UP,bowel,crohn disease,D003424,DOID_8778,Digestive & Gastrointestinal Conditions,crohn disease,
+hsa-miR-195-5p,MIMAT0000461,hsa-mir-195,16251535, ,POSITIVE,aggresive disease course,Blood,UP,blood,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-195-5p,MIMAT0000461,hsa-mir-195,21460253,YES, , ,Plasma,UP,,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-195-5p,MIMAT0000461,hsa-mir-195,24282590, ,NEGATIVE,overall survival,Plasma,UP,,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-195-5p,MIMAT0000461,hsa-mir-195,24901787,YES, , ,Plasma,UP,,osteoarthritis,D010003,DOID_8398,Musculoskeletal Conditions,osteoarthritis,
+hsa-miR-195-5p,MIMAT0000461,hsa-mir-195,24282590, ,NEGATIVE,EGFR mutation status,Plasma,UP,,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-196a-5p,MIMAT0000226,hsa-mir-196a-1|hsa-mir-196a-2,28466015,YES, , ,Plasma,UP,"pancreas head and neck, pancreas body and tail","carcinoma, pancreatic ductal",D021441,"DOID_305,UBERON_0007329","Cancer, Digestive & Gastrointestinal Conditions, Breast Conditions",carcinoma,pancreatic ductal
+hsa-miR-196a-5p,MIMAT0000226,hsa-mir-196a-1|hsa-mir-196a-2,25485932,YES, , ,Plasma,UP,oral cavity,mouth neoplasms,D009062,UBERON_0000165,"Cancer, Teeth and Mouth Conditions",neoplasm,mouth
+hsa-miR-196a-5p,MIMAT0000226,hsa-mir-196a-1|hsa-mir-196a-2,25485932,YES, , ,Plasma,UP,oral cavity,mouth neoplasms,D009062,UBERON_0000165,"Cancer, Teeth and Mouth Conditions",neoplasm,mouth
+hsa-miR-196a-5p,MIMAT0000226,hsa-mir-196a-1|hsa-mir-196a-2,28466015, ,NEGATIVE,post-operative survival,Plasma,UP,"pancreas head and neck, pancreas body and tail","carcinoma, pancreatic ductal",D021441,"DOID_305,UBERON_0007329","Cancer, Digestive & Gastrointestinal Conditions, Breast Conditions",carcinoma,pancreatic ductal
+hsa-miR-196b-5p,MIMAT0001080,hsa-mir-196b,25485932,YES, , ,Plasma,UP,oral cavity,mouth neoplasms,D009062,UBERON_0000165,"Cancer, Teeth and Mouth Conditions",neoplasm,mouth
+hsa-miR-196b-5p,MIMAT0001080,hsa-mir-196b,25485932,YES, , ,Plasma,UP,oral cavity,mouth neoplasms,D009062,UBERON_0000165,"Cancer, Teeth and Mouth Conditions",neoplasm,mouth
+hsa-miR-197-3p,MIMAT0000227,hsa-mir-197,22674182,YES, , ,Serum,DOWN,,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-197-3p,MIMAT0000227,hsa-mir-197,22674182,YES, , ,Serum,DOWN,,astrocytoma,D001254,,Cancer,astrocytoma,
+hsa-miR-197-5p,MIMAT0022691,hsa-mir-197,22674182,YES, , ,Serum,DOWN,,astrocytoma,D001254,,Cancer,astrocytoma,
+hsa-miR-197-5p,MIMAT0022691,hsa-mir-197,22674182,YES, , ,Serum,DOWN,,astrocytoma,D001254,,Cancer,astrocytoma,
+hsa-miR-1973,MIMAT0009448,hsa-mir-1973,24222179,YES, , ,Plasma,UP,blood,hodgkin disease,D006689,DOID_8567,Cancer,hodgkin disease,
+hsa-miR-1973,MIMAT0009448,hsa-mir-1973,24222179, ,POSITIVE,"interim therapy response, more pronounced in complete vs. partial response",Plasma,UP,blood,hodgkin disease,D006689,DOID_8567,Cancer,hodgkin disease,
+hsa-miR-199a-5p,MIMAT0000231,hsa-mir-199a-1|hsa-mir-199a-2,23118427, ,NEGATIVE,"disease severity, differentiation among severe/mild endometriosis",Serum,UP,endometrium/uterus,endometriosis,D004715,DOID_289,Genitourinary Conditions,endometriosis,
+hsa-miR-199a-5p,MIMAT0000231,hsa-mir-199a-1|hsa-mir-199a-2,23118427,YES, , ,Serum,UP,endometrium/uterus,endometriosis,D004715,DOID_289,Genitourinary Conditions,endometriosis,
+hsa-miR-19a-3p,MIMAT0000073,hsa-mir-19a,23267864,YES, , ,Blood,UP,colon,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-19a-3p,MIMAT0000073,hsa-mir-19a,23267864,YES, , ,Blood,UP,colon,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-19a-3p,MIMAT0000073,hsa-mir-19a,25887942,YES, , ,Plasma,UP,,"diabetes, gestational",D016640,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions, Pregnancy Conditions and Outcomes",diabetes,gestational
+hsa-miR-19b-3p,MIMAT0000074,hsa-mir-19b-1|hsa-mir-19b-2,23267864,YES, , ,Blood,UP,colon,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-19b-3p,MIMAT0000074,hsa-mir-19b-1|hsa-mir-19b-2,28670374,YES, , ,Plasma,UP,,"osteoarthritis, knee",D020370,"DOID_8398,UBERON_0001465",Musculoskeletal Conditions,osteoarthritis,knee
+hsa-miR-19b-3p,MIMAT0000074,hsa-mir-19b-1|hsa-mir-19b-2,25126405,YES, , ,Serum,UP,,autism spectrum disorder,D000067877,DOID_0060041,Neurological Conditions,autism spectrum disorder,
+hsa-miR-19b-3p,MIMAT0000074,hsa-mir-19b-1|hsa-mir-19b-2,28670374,YES, , ,Plasma,UP,,"osteoarthritis, knee",D020370,"DOID_8398,UBERON_0001465",Musculoskeletal Conditions,osteoarthritis,knee
+hsa-miR-19b-3p,MIMAT0000074,hsa-mir-19b-1|hsa-mir-19b-2,25887942,YES, , ,Plasma,UP,,"diabetes, gestational",D016640,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions, Pregnancy Conditions and Outcomes",diabetes,gestational
+hsa-miR-19b-3p,MIMAT0000074,hsa-mir-19b-1|hsa-mir-19b-2,28626163,YES, , ,Serum,DOWN,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-19b-3p,MIMAT0000074,hsa-mir-19b-1|hsa-mir-19b-2,26695145,YES, , ,Serum,UP,,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-19b-3p,MIMAT0000074,hsa-mir-19b-1|hsa-mir-19b-2,28626163,YES, , ,Serum,DOWN,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-19b-3p,MIMAT0000074,hsa-mir-19b-1|hsa-mir-19b-2,23267864,YES, , ,Blood,UP,colon,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-19b-3p,MIMAT0000074,hsa-mir-19b-1|hsa-mir-19b-2,26695145,YES, , ,Serum,UP,,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-200a-3p,MIMAT0000682,hsa-mir-200a,22952344, ,NEGATIVE,progression-free survival,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-200a-3p,MIMAT0000682,hsa-mir-200a,20551052,YES, , ,Serum,UP,,"pancreatitis, chronic",D050500,DOID_4989,Digestive & Gastrointestinal Conditions,pancreatitis,chronic
+hsa-miR-200a-3p,MIMAT0000682,hsa-mir-200a,20551052,YES, , ,Serum,UP,,pancreatic neoplasms,D010190,DOID_1793,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,pancreatic
+hsa-miR-200a-3p,MIMAT0000682,hsa-mir-200a,22952344, ,NEGATIVE,overall survival,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-200a-3p,MIMAT0000682,hsa-mir-200a,22732895,YES, , ,Serum,UP,liver,biliary atresia,D001656,DOID_13608,Digestive & Gastrointestinal Conditions,biliary atresia,
+hsa-miR-200a-3p,MIMAT0000682,hsa-mir-200a,28179587,YES, , ,Plasma,UP,hippocampus,cognitive dysfunction,D060825,,Eyes/Nose/Ears,cognitive dysfunction,
+hsa-miR-200a-3p,MIMAT0000682,hsa-mir-200a,21372198,YES, , ,Serum,DOWN,,"lupus erythematosus, systemic",D008180,DOID_9074,"Immune and Autoimmune Conditions, Other/Unclassified/Multisystem",lupus erythematosus,systemic
+hsa-miR-200a-3p,MIMAT0000682,hsa-mir-200a,28179587,YES, , ,Plasma,UP,hippocampus,cognitive dysfunction,D060825,,Eyes/Nose/Ears,cognitive dysfunction,
+hsa-miR-200a-3p,MIMAT0000682,hsa-mir-200a,28179587,YES, , ,Plasma,UP,hippocampus,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-200a-3p,MIMAT0000682,hsa-mir-200a,24405714, ,POSITIVE,post-therapeutic efficacy,Serum,UP,pelvic lymph node,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-200a-3p,MIMAT0000682,hsa-mir-200a,28179587,YES, , ,Plasma,UP,hippocampus,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-200a-3p,MIMAT0000682,hsa-mir-200a,23272653,YES, , ,Serum,UP,serum,"carcinoma, ovarian epithelial",D000077216,DOID_305,"Cancer, Genitourinary Conditions, Integumentary System",carcinoma,ovarian epithelial
+hsa-miR-200a-3p,MIMAT0000682,hsa-mir-200a,22952344,YES, , ,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-200b-3p,MIMAT0000318,hsa-mir-200b,22732895,YES, , ,Serum,UP,liver,biliary atresia,D001656,DOID_13608,Digestive & Gastrointestinal Conditions,biliary atresia,
+hsa-miR-200b-3p,MIMAT0000318,hsa-mir-200b,22952344, ,NEGATIVE,progression-free survival,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-200b-3p,MIMAT0000318,hsa-mir-200b,22952344,YES, , ,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-200b-3p,MIMAT0000318,hsa-mir-200b,20551052,YES, , ,Serum,UP,,pancreatic neoplasms,D010190,DOID_1793,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,pancreatic
+hsa-miR-200b-3p,MIMAT0000318,hsa-mir-200b,23272653,YES, , ,Serum,UP,serum,"carcinoma, ovarian epithelial",D000077216,DOID_305,"Cancer, Genitourinary Conditions, Integumentary System",carcinoma,ovarian epithelial
+hsa-miR-200b-3p,MIMAT0000318,hsa-mir-200b,22952344, ,NEGATIVE,overall survival,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-200b-3p,MIMAT0000318,hsa-mir-200b,20551052,YES, , ,Serum,UP,,"pancreatitis, chronic",D050500,DOID_4989,Digestive & Gastrointestinal Conditions,pancreatitis,chronic
+hsa-miR-200b-3p,MIMAT0000318,hsa-mir-200b,21372198,YES, , ,Serum,DOWN,,"lupus erythematosus, systemic",D008180,DOID_9074,"Immune and Autoimmune Conditions, Other/Unclassified/Multisystem",lupus erythematosus,systemic
+hsa-miR-200c-3p,MIMAT0000617,hsa-mir-200c,22952344,YES, , ,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-200c-3p,MIMAT0000617,hsa-mir-200c,21372198,YES, , ,Serum,DOWN,,"lupus erythematosus, systemic",D008180,DOID_9074,"Immune and Autoimmune Conditions, Other/Unclassified/Multisystem",lupus erythematosus,systemic
+hsa-miR-200c-3p,MIMAT0000617,hsa-mir-200c,23272653,YES, , ,Serum,UP,serum,"carcinoma, ovarian epithelial",D000077216,DOID_305,"Cancer, Genitourinary Conditions, Integumentary System",carcinoma,ovarian epithelial
+hsa-miR-200c-3p,MIMAT0000617,hsa-mir-200c,22952344, ,NEGATIVE,overall survival,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-200c-3p,MIMAT0000617,hsa-mir-200c,22952344, ,NEGATIVE,progression-free survival,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-202-5p,MIMAT0002810,hsa-mir-202,23073777,YES, , ,Serum,UP,serum,whooping cough,D014917,DOID_1116,Infectious Diseases,whooping cough,
+hsa-miR-203a-3p,MIMAT0000264,hsa-mir-203a,22952344, ,NEGATIVE,progression-free survival,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-203a-3p,MIMAT0000264,hsa-mir-203a,28946553, ,POSITIVE,progression-free survival,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-203a-3p,MIMAT0000264,hsa-mir-203a,22952344, ,NEGATIVE,overall survival,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-203a-3p,MIMAT0000264,hsa-mir-203a,28946553,YES, , ,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-203a-3p,MIMAT0000264,hsa-mir-203a,28946553, ,POSITIVE,overall survival,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-203a-3p,MIMAT0000264,hsa-mir-203a,28946553,YES, , ,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-203a-3p,MIMAT0000264,hsa-mir-203a,22952344,YES, , ,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-205-5p,MIMAT0000266,hsa-mir-205,29054761,YES, , ,Plasma,UP,,hashimoto disease,D050031,DOID_4,Endocrine and Metabolic Conditions,hashimoto disease,
+hsa-miR-205-5p,MIMAT0000266,hsa-mir-205,26230475,YES, , ,Serum,DOWN,brain,glioma,D005910,,Cancer,glioma,
+hsa-miR-205-5p,MIMAT0000266,hsa-mir-205,26230475,YES, , ,Serum,DOWN,brain,glioma,D005910,,Cancer,glioma,
+hsa-miR-205-5p,MIMAT0000266,hsa-mir-205,26230475, ,POSITIVE,overall survival,Serum,DOWN,brain,glioma,D005910,,Cancer,glioma,
+hsa-miR-205-5p,MIMAT0000266,hsa-mir-205,21372198,YES, , ,Serum,DOWN,,"lupus erythematosus, systemic",D008180,DOID_9074,"Immune and Autoimmune Conditions, Other/Unclassified/Multisystem",lupus erythematosus,systemic
+hsa-miR-205-5p,MIMAT0000266,hsa-mir-205,26230475,YES, , ,Serum,DOWN,brain,glioma,D005910,,Cancer,glioma,
+hsa-miR-205-5p,MIMAT0000266,hsa-mir-205,26230475,YES, , ,Serum,DOWN,brain,glioma,D005910,,Cancer,glioma,
+hsa-miR-205-5p,MIMAT0000266,hsa-mir-205,26230475,YES, , ,Serum,DOWN,brain,glioma,D005910,,Cancer,glioma,
+hsa-miR-205-5p,MIMAT0000266,hsa-mir-205,26230475,YES, , ,Serum,DOWN,brain,glioma,D005910,,Cancer,glioma,
+hsa-miR-206,MIMAT0000462,hsa-mir-206,29410711, ,POSITIVE,overall survival,Serum,UP,,"carcinoma, renal cell",D002292,"CL_0000000,DOID_305","Cancer, Genitourinary Conditions, Cells",carcinoma,renal cell
+hsa-miR-206,MIMAT0000462,hsa-mir-206,23073777,YES, , ,Serum,UP,serum,whooping cough,D014917,DOID_1116,Infectious Diseases,whooping cough,
+hsa-miR-206,MIMAT0000462,hsa-mir-206,20696132,YES, , ,Serum,UP,"head, sinus, uterus, bladder, orbit",rhabdomyosarcoma,D012208,DOID_3247,Cancer,rhabdomyosarcoma,
+hsa-miR-206,MIMAT0000462,hsa-mir-206,24586506,YES, , ,Serum,UP,motor neurons,amyotrophic lateral sclerosis,D000690,"DOID_0111227,DOID_332",Neurological Conditions,amyotrophic lateral sclerosis,
+hsa-miR-208a-3p,MIMAT0000241,hsa-mir-208a,20159880,YES, , ,Plasma,UP,heart,myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-208b-3p,MIMAT0004960,hsa-mir-208b,21701171, ,NEGATIVE,ejection fraction,Plasma,UP,heart/myocardium,st elevation myocardial infarction,D000072657,DOID_5844,Cardiovascular Conditions,myocardial infarction,st elevation
+hsa-miR-208b-3p,MIMAT0004960,hsa-mir-208b,20921333,YES, , ,Plasma,UP,,myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-208b-3p,MIMAT0004960,hsa-mir-208b,20921333,YES, , ,Plasma,UP,,myocarditis,D009205,"DOID_820,SYMP_0000095",Cardiovascular Conditions,myocarditis,
+hsa-miR-208b-3p,MIMAT0004960,hsa-mir-208b,21701171,YES, , ,Plasma,UP,heart/myocardium,st elevation myocardial infarction,D000072657,DOID_5844,Cardiovascular Conditions,myocardial infarction,st elevation
+hsa-miR-208b-3p,MIMAT0004960,hsa-mir-208b,20921333,YES, , ,Plasma,UP,,myocarditis,D009205,"DOID_820,SYMP_0000095",Cardiovascular Conditions,myocarditis,
+hsa-miR-20a-3p,MIMAT0004493,hsa-mir-20a,29054761,YES, , ,Plasma,UP,,hashimoto disease,D050031,DOID_4,Endocrine and Metabolic Conditions,hashimoto disease,
+hsa-miR-20a-5p,MIMAT0000075,hsa-mir-20a,23799609, ,POSITIVE,lymph node metastasis,Serum,UP,,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-20a-5p,MIMAT0000075,hsa-mir-20a,21460253, ,POSITIVE,disease severity,Plasma,UP,,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-20a-5p,MIMAT0000075,hsa-mir-20a,24699363,YES, , ,Serum,UP,,"influenza, human",D007251,DOID_8469,Viral Infections,influenza,human
+hsa-miR-20a-5p,MIMAT0000075,hsa-mir-20a,23203215,YES, , ,Plasma,DOWN,abdominopelvic cavity,endometriosis,D004715,DOID_289,Genitourinary Conditions,endometriosis,
+hsa-miR-20a-5p,MIMAT0000075,hsa-mir-20a,23390075,YES, , ,Serum,UP,liver,hepatitis c,D006526,DOID_1883,"Viral Infections, Infectious Diseases, Digestive & Gastrointestinal Conditions",hepatitis,c
+hsa-miR-20a-5p,MIMAT0000075,hsa-mir-20a,28284220, ,NEGATIVE,disease-free survival,Serum,UP,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-20a-5p,MIMAT0000075,hsa-mir-20a,23799609,YES, , ,Serum,UP,,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-20a-5p,MIMAT0000075,hsa-mir-20a,25887942,YES, , ,Plasma,UP,,"diabetes, gestational",D016640,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions, Pregnancy Conditions and Outcomes",diabetes,gestational
+hsa-miR-20a-5p,MIMAT0000075,hsa-mir-20a,23390075,YES, , ,Plasma,UP,,hepatitis c,D006526,DOID_1883,"Viral Infections, Infectious Diseases, Digestive & Gastrointestinal Conditions",hepatitis,c
+hsa-miR-20a-5p,MIMAT0000075,hsa-mir-20a,21460253,YES, , ,Plasma,UP,,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-20a-5p,MIMAT0000075,hsa-mir-20a,28284220, ,NEGATIVE,disease-free survival,Serum,UP,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-20a-5p,MIMAT0000075,hsa-mir-20a,21546856,YES, , ,Serum,UP,bowel,crohn disease,D003424,DOID_8778,Digestive & Gastrointestinal Conditions,crohn disease,
+hsa-miR-20a-5p,MIMAT0000075,hsa-mir-20a,28284220, ,NEGATIVE,disease-free survival,Serum,UP,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-20a-5p,MIMAT0000075,hsa-mir-20a,28466015,YES, , ,Plasma,UP,"pancreas head and neck, pancreas body and tail","carcinoma, pancreatic ductal",D021441,"DOID_305,UBERON_0007329","Cancer, Digestive & Gastrointestinal Conditions, Breast Conditions",carcinoma,pancreatic ductal
+hsa-miR-20a-5p,MIMAT0000075,hsa-mir-20a,22447484, ,POSITIVE,relapse-free survival,Plasma,UP,bone marrow,multiple myeloma,D009101,DOID_9538,"Cancer, Other/Unclassified/Multisystem",multiple myeloma,
+hsa-miR-20a-5p,MIMAT0000075,hsa-mir-20a,26695145,YES, , ,Serum,UP,,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-20a-5p,MIMAT0000075,hsa-mir-20a,28284220, ,NEGATIVE,overall survival,Serum,UP,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-20a-5p,MIMAT0000075,hsa-mir-20a,26695145,YES, , ,Serum,UP,,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-20a-5p,MIMAT0000075,hsa-mir-20a,28284220, ,NEGATIVE,overall survival,Serum,UP,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-20a-5p,MIMAT0000075,hsa-mir-20a,24699363,YES, , ,Serum,UP,,"influenza, human",D007251,DOID_8469,Viral Infections,influenza,human
+hsa-miR-20b-5p,MIMAT0001413,hsa-mir-20b,21098088,YES, , ,Serum,UP,serum,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,22638884,YES, , ,Serum,UP,,esophageal neoplasms,D004938,,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,esophageal
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,22638884,YES, , ,Serum,UP,,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,31658043,YES, , ,Plasma,UP,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,25178939, ,POSITIVE,TNM staging,Serum,UP,,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,23052693, ,POSITIVE,cancer progression (tumor size),Serum,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,24517143,YES, , ,Serum,UP,,atherosclerosis,D050197,DOID_1936,Cardiovascular Conditions,atherosclerosis,
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,23052693,YES, , ,Serum,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,31658043,YES, , ,Plasma,UP,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,24517143,YES, , ,Serum,UP,,atherosclerosis,D050197,DOID_1936,Cardiovascular Conditions,atherosclerosis,
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,27101583, ,POSITIVE,overall survival,Serum,UP,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,24431276,YES, , ,Serum,UP,,osteoporosis,D010024,DOID_11476,Musculoskeletal Conditions,osteoporosis,
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,22638884,YES, , ,Serum,UP,,stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,20842666, ,POSITIVE,resistance to docetaxel-based chemotherapy,Serum,UP,prostate,"prostatic neoplasms, castration-resistant",D064129,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic castration-resistant
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,24405714, ,POSITIVE,post-therapeutic efficacy,Serum,UP,pelvic lymph node,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,21627863,YES, , ,Plasma,UP,blood,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,29430184,YES, , ,Serum,UP,peripheral vein blood,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,24385703,YES, , ,Serum,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,24400911,YES, , ,Serum,UP,blood,"lymphoma, large b-cell, diffuse","D002477,D008223,T025","CL_0000236,DOID_0060058","Cancer, Hematopoietic & Lymphatic Conditions, Cells",lymphoma,diffuse large b-cell
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,27047250,YES, , ,Serum,DOWN,brain,glioma,D005910,,Cancer,glioma,
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,21274675,YES, , ,Plasma,UP,,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,31658043,YES, , ,Plasma,UP,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,21546856,YES, , ,Serum,UP,bowel,crohn disease,D003424,DOID_8778,Digestive & Gastrointestinal Conditions,crohn disease,
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,21864403,YES, , ,Plasma,UP,lung,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,27047250,YES, , ,Serum,DOWN,brain,glioma,D005910,,Cancer,glioma,
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,22882958,YES, , ,Plasma,UP,left ventricle,aortic valve stenosis,D001024,DOID_1712,Cardiovascular Conditions,stenosis,aortic valve
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,25184815,YES, , ,Plasma,UP,heart,myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,25174622,YES, , ,Blood,UP,,mouth neoplasms,D009062,UBERON_0000165,"Cancer, Teeth and Mouth Conditions",neoplasm,mouth
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,21864403,YES, , ,Plasma,UP,lung,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,21749846,YES, , ,Plasma,UP,liver,"carcinoma, hepatocellular",D006528,DOID_305,"Cancer, Digestive & Gastrointestinal Conditions",carcinoma,hepatocellular
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,21036945, ,POSITIVE,visceral metastasis,Serum,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,27279796, ,POSITIVE,renal function impairment,Serum,UP,blood in tube without anticoagulant and purified serum,diabetic nephropathies,D003928,,"Diabetes, Endocrine and Metabolic Conditions, Genitourinary Conditions",diabetic nephropathies,
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,27047250,YES, , ,Serum,DOWN,brain,glioma,D005910,,Cancer,glioma,
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,22882958, ,POSITIVE,myocardial fibrosis progression,Plasma,UP,left ventricle,aortic valve stenosis,D001024,DOID_1712,Cardiovascular Conditions,stenosis,aortic valve
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,24460332, ,NEGATIVE,increased differentiation degree of tumour,Plasma,UP,stomach,stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,24222179,YES, , ,Plasma,UP,blood,hodgkin disease,D006689,DOID_8567,Cancer,hodgkin disease,
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,22105822,YES, , ,Plasma,UP,,"carcinoma, hepatocellular",D006528,DOID_305,"Cancer, Digestive & Gastrointestinal Conditions",carcinoma,hepatocellular
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,25184815,YES, , ,Plasma,UP,heart,myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,28466015,YES, , ,Plasma,UP,"pancreas head and neck, pancreas body and tail","carcinoma, pancreatic ductal",D021441,"DOID_305,UBERON_0007329","Cancer, Digestive & Gastrointestinal Conditions, Breast Conditions",carcinoma,pancreatic ductal
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,23052693, ,POSITIVE,cancer progression (lymph node status),Serum,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,24400911, ,POSITIVE,recurrence-free survival,Serum,UP,blood,"lymphoma, large b-cell, diffuse","D002477,D008223,T025","CL_0000236,DOID_0060058","Cancer, Hematopoietic & Lymphatic Conditions, Cells",lymphoma,diffuse large b-cell
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,27279796,YES, , ,Serum,UP,blood in tube without anticoagulant and purified serum,diabetic nephropathies,D003928,,"Diabetes, Endocrine and Metabolic Conditions, Genitourinary Conditions",diabetic nephropathies,
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,27047250,YES, , ,Serum,DOWN,brain,glioma,D005910,,Cancer,glioma,
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,24460332, ,NEGATIVE,higher lymph node metastasis rate,Plasma,UP,stomach,stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,22638884,YES, , ,Serum,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,24517143,YES, , ,Serum,UP,,hypothyroidism,D007037,DOID_1459,Endocrine and Metabolic Conditions,hypothyroidism,
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,25178939,YES, , ,Serum,UP,,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,27353714,YES, , ,Plasma,UP,,metabolic syndrome,D024821,DOID_0111581,"Endocrine and Metabolic Conditions, Congenital/Hereditary Conditions, Syndrome",metabolic syndrome,
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,31658043,YES, , ,Plasma,UP,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,25086636, ,NEGATIVE,overall survival,Serum,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,22638884,YES, , ,Serum,UP,,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,22882958,YES, , ,Plasma,UP,left ventricle,aortic valve stenosis,D001024,DOID_1712,Cardiovascular Conditions,stenosis,aortic valve
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,21749846, ,NEGATIVE,tumor differentiation,Plasma,UP,liver,"carcinoma, hepatocellular",D006528,DOID_305,"Cancer, Digestive & Gastrointestinal Conditions",carcinoma,hepatocellular
+hsa-miR-21-5p,MIMAT0000076,hsa-mir-21,21036945,YES, , ,Serum,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-210-3p,MIMAT0000267,hsa-mir-210,24626394,YES, , ,Serum,UP,aorta/heart,aortic valve stenosis,D001024,DOID_1712,Cardiovascular Conditions,stenosis,aortic valve
+hsa-miR-210-3p,MIMAT0000267,hsa-mir-210,22095477,YES, , ,Plasma,UP,maternal plasma (non fetal),pre-eclampsia,D011225,DOID_13593,Pregnancy Conditions and Outcomes,pre-eclampsia,
+hsa-miR-210-3p,MIMAT0000267,hsa-mir-210,24065453, ,NEGATIVE,partial remission after cisplatin-based chemotherapy,Serum,UP,lung,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-210-3p,MIMAT0000267,hsa-mir-210,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-210-3p,MIMAT0000267,hsa-mir-210,28466015,YES, , ,Plasma,UP,"pancreas head and neck, pancreas body and tail","carcinoma, pancreatic ductal",D021441,"DOID_305,UBERON_0007329","Cancer, Digestive & Gastrointestinal Conditions, Breast Conditions",carcinoma,pancreatic ductal
+hsa-miR-210-3p,MIMAT0000267,hsa-mir-210,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-210-3p,MIMAT0000267,hsa-mir-210,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-210-3p,MIMAT0000267,hsa-mir-210,20360935,YES, , ,Plasma,UP,pancreas,"carcinoma, pancreatic ductal",D021441,"DOID_305,UBERON_0007329","Cancer, Digestive & Gastrointestinal Conditions, Breast Conditions",carcinoma,pancreatic ductal
+hsa-miR-210-3p,MIMAT0000267,hsa-mir-210,24065453, ,POSITIVE,lymph node metastasis,Serum,UP,lung,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-210-3p,MIMAT0000267,hsa-mir-210,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-210-3p,MIMAT0000267,hsa-mir-210,23064048,YES, , ,Serum,UP,kidney,"carcinoma, renal cell",D002292,"CL_0000000,DOID_305","Cancer, Genitourinary Conditions, Cells",carcinoma,renal cell
+hsa-miR-210-3p,MIMAT0000267,hsa-mir-210,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-210-3p,MIMAT0000267,hsa-mir-210,21864403,YES, , ,Plasma,UP,lung,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-210-3p,MIMAT0000267,hsa-mir-210,20360935,YES, , ,Plasma,UP,pancreas,"carcinoma, pancreatic ductal",D021441,"DOID_305,UBERON_0007329","Cancer, Digestive & Gastrointestinal Conditions, Breast Conditions",carcinoma,pancreatic ductal
+hsa-miR-210-3p,MIMAT0000267,hsa-mir-210,24626394, ,POSITIVE,mortality during follow-up,Serum,UP,aorta/heart,aortic valve stenosis,D001024,DOID_1712,Cardiovascular Conditions,stenosis,aortic valve
+hsa-miR-210-3p,MIMAT0000267,hsa-mir-210,24065453, ,POSITIVE,TNM staging,Serum,UP,lung,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-210-3p,MIMAT0000267,hsa-mir-210,28466015, ,POSITIVE,post-operative survival,Plasma,UP,"pancreas head and neck, pancreas body and tail","carcinoma, pancreatic ductal",D021441,"DOID_305,UBERON_0007329","Cancer, Digestive & Gastrointestinal Conditions, Breast Conditions",carcinoma,pancreatic ductal
+hsa-miR-210-3p,MIMAT0000267,hsa-mir-210,24065453,YES, , ,Serum,UP,lung,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-210-3p,MIMAT0000267,hsa-mir-210,27357355, ,NEGATIVE,overall survival,Serum,UP,heart,coronary artery disease,D003324,DOID_3393,Cardiovascular Conditions,coronary artery disease,
+hsa-miR-210-3p,MIMAT0000267,hsa-mir-210,21864403,YES, , ,Plasma,UP,lung,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-210-5p,MIMAT0026475,hsa-mir-210,22952344,YES, , ,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-210-5p,MIMAT0026475,hsa-mir-210,22952344, ,NEGATIVE,overall survival,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-210-5p,MIMAT0026475,hsa-mir-210,22952344, ,NEGATIVE,progression-free survival,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-211-5p,MIMAT0000268,hsa-mir-211,25619197,YES, , ,Plasma,DOWN,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-211-5p,MIMAT0000268,hsa-mir-211,25619197,YES, , ,Plasma,DOWN,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-2110,MIMAT0010133,hsa-mir-2110,31658043,YES, , ,Plasma,UP,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-2110,MIMAT0010133,hsa-mir-2110,31658043,YES, , ,Plasma,UP,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-2110,MIMAT0010133,hsa-mir-2110,31658043,YES, , ,Plasma,UP,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-2110,MIMAT0010133,hsa-mir-2110,31658043,YES, , ,Plasma,UP,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-214-3p,MIMAT0000271,hsa-mir-214,22350790,YES, , ,Serum,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-214-3p,MIMAT0000271,hsa-mir-214,22350790,YES, , ,Serum,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-214-3p,MIMAT0000271,hsa-mir-214,22350790, ,POSITIVE,lymph node metastasis,Serum,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-215-5p,MIMAT0000272,hsa-mir-215,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-215-5p,MIMAT0000272,hsa-mir-215,22353773,YES, , ,Serum,DOWN,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-215-5p,MIMAT0000272,hsa-mir-215,22353773,YES, , ,Serum,DOWN,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-215-5p,MIMAT0000272,hsa-mir-215,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-215-5p,MIMAT0000272,hsa-mir-215,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-215-5p,MIMAT0000272,hsa-mir-215,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-215-5p,MIMAT0000272,hsa-mir-215,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-215-5p,MIMAT0000272,hsa-mir-215,22353773, ,NEGATIVE,progression of disease under treatment,Serum,DOWN,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-215-5p,MIMAT0000272,hsa-mir-215,24993656,YES, , ,Serum,UP,liver,"hepatitis, chronic",D006521,"DOID_2237,SYMP_0000046","Viral Infections, Infectious Diseases, Digestive & Gastrointestinal Conditions",hepatitis,chronic
+hsa-miR-215-5p,MIMAT0000272,hsa-mir-215,24993656,YES, , ,Serum,UP,liver,"carcinoma, hepatocellular",D006528,DOID_305,"Cancer, Digestive & Gastrointestinal Conditions",carcinoma,hepatocellular
+hsa-miR-218-5p,MIMAT0000275,hsa-mir-218-1|hsa-mir-218-2,22237456,YES, , ,Serum,DOWN,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-218-5p,MIMAT0000275,hsa-mir-218-1|hsa-mir-218-2,22237456, ,NEGATIVE,TNM staging,Serum,DOWN,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-218-5p,MIMAT0000275,hsa-mir-218-1|hsa-mir-218-2,24944481, ,POSITIVE,overall survival,Serum,DOWN,,stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-22-3p,MIMAT0000077,hsa-mir-22,24578785,YES, , ,Plasma,UP,pancreas,"carcinoma, pancreatic ductal",D021441,"DOID_305,UBERON_0007329","Cancer, Digestive & Gastrointestinal Conditions, Breast Conditions",carcinoma,pancreatic ductal
+hsa-miR-22-3p,MIMAT0000077,hsa-mir-22,24578785,YES, , ,Plasma,UP,pancreas,"carcinoma, pancreatic ductal",D021441,"DOID_305,UBERON_0007329","Cancer, Digestive & Gastrointestinal Conditions, Breast Conditions",carcinoma,pancreatic ductal
+hsa-miR-22-3p,MIMAT0000077,hsa-mir-22,24978044,YES, , ,Plasma,DOWN,heart,"pulmonary hypertension, chronic thromboembolic, without deep vein thrombosis, susceptibility to","D006976,D020246","DOID_0060903,DOID_6432,UBERON_0001638","Cardiovascular Conditions, Respiratory Conditions",pulmonary hypertension,chronic thromboembolic
+hsa-miR-22-3p,MIMAT0000077,hsa-mir-22,23203215,YES, , ,Plasma,DOWN,abdominopelvic cavity,endometriosis,D004715,DOID_289,Genitourinary Conditions,endometriosis,
+hsa-miR-22-3p,MIMAT0000077,hsa-mir-22,24978044,YES, , ,Plasma,DOWN,heart,"pulmonary hypertension, chronic thromboembolic, without deep vein thrombosis, susceptibility to","D006976,D020246","DOID_0060903,DOID_6432,UBERON_0001638","Cardiovascular Conditions, Respiratory Conditions",pulmonary hypertension,chronic thromboembolic
+hsa-miR-22-3p,MIMAT0000077,hsa-mir-22,22120965,YES, , ,Serum,UP,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-221-3p,MIMAT0000278,hsa-mir-221,24517143,YES, , ,Serum,DOWN,,hypothyroidism,D007037,DOID_1459,Endocrine and Metabolic Conditions,hypothyroidism,
+hsa-miR-221-3p,MIMAT0000278,hsa-mir-221,21206010, ,NEGATIVE,overall survival,Plasma,UP,"nasal cavity, extranasalsites, nasopharynx","lymphoma, extranodal nk-t-cell",D054391,"CL_0000084,DOID_0060058","Cancer, Hematopoietic & Lymphatic Conditions, Cells",lymphoma,extranodal nk-t-cell
+hsa-miR-221-3p,MIMAT0000278,hsa-mir-221,25429320,YES, , ,Serum,DOWN,,"carcinoma, hepatocellular",D006528,DOID_305,"Cancer, Digestive & Gastrointestinal Conditions",carcinoma,hepatocellular
+hsa-miR-221-3p,MIMAT0000278,hsa-mir-221,16251535, ,POSITIVE,aggresive disease course,Blood,UP,blood,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-221-3p,MIMAT0000278,hsa-mir-221,24093444,YES, , ,Serum,UP,,metabolic syndrome,D024821,DOID_0111581,"Endocrine and Metabolic Conditions, Congenital/Hereditary Conditions, Syndrome",metabolic syndrome,
+hsa-miR-221-3p,MIMAT0000278,hsa-mir-221,24517143,YES, , ,Serum,DOWN,,atherosclerosis,D050197,DOID_1936,Cardiovascular Conditions,atherosclerosis,
+hsa-miR-221-3p,MIMAT0000278,hsa-mir-221,21206010,YES, , ,Plasma,UP,"nasal cavity, extranasalsites, nasopharynx","lymphoma, extranodal nk-t-cell",D054391,"CL_0000084,DOID_0060058","Cancer, Hematopoietic & Lymphatic Conditions, Cells",lymphoma,extranodal nk-t-cell
+hsa-miR-221-3p,MIMAT0000278,hsa-mir-221,16251535, ,NEGATIVE,time to initial therapy,Blood,UP,blood,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-221-3p,MIMAT0000278,hsa-mir-221,21274675,YES, , ,Plasma,UP,,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-221-5p,MIMAT0004568,hsa-mir-221,31980721,YES, , ,Serum,UP,,bipolar disorder,D001714,DOID_3312,Mood and Personality Disorders,bipolar disorder,
+hsa-miR-222-3p,MIMAT0000279,hsa-mir-222,24517143,YES, , ,Serum,DOWN,,atherosclerosis,D050197,DOID_1936,Cardiovascular Conditions,atherosclerosis,
+hsa-miR-222-3p,MIMAT0000279,hsa-mir-222,25129310,YES, , ,Plasma,UP,plasma,stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-222-3p,MIMAT0000279,hsa-mir-222,28284220, ,NEGATIVE,disease-free survival,Serum,UP,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-222-3p,MIMAT0000279,hsa-mir-222,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-222-3p,MIMAT0000279,hsa-mir-222,16251535, ,NEGATIVE,time to initial therapy,Blood,UP,blood,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-222-3p,MIMAT0000279,hsa-mir-222,25129310, ,NEGATIVE,recurrence-free survival,Plasma,UP,plasma,stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-222-3p,MIMAT0000279,hsa-mir-222,25129310, ,NEGATIVE,overall survival,Plasma,UP,plasma,stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-222-3p,MIMAT0000279,hsa-mir-222,28284220, ,NEGATIVE,disease-free survival,Serum,UP,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-222-3p,MIMAT0000279,hsa-mir-222,24517143,YES, , ,Serum,DOWN,,hypothyroidism,D007037,DOID_1459,Endocrine and Metabolic Conditions,hypothyroidism,
+hsa-miR-222-3p,MIMAT0000279,hsa-mir-222,25429911, ,NEGATIVE,overall survival,Serum,DOWN,esophagus,stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-222-3p,MIMAT0000279,hsa-mir-222,22472564,YES, , ,Serum,UP,thyroid,"thyroid cancer, papillary",D000077273,DOID_1781,"Cancer, Endocrine and Metabolic Conditions",thyroid cancer,papillary
+hsa-miR-222-3p,MIMAT0000279,hsa-mir-222,28284220, ,NEGATIVE,disease-free survival,Serum,UP,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-222-3p,MIMAT0000279,hsa-mir-222,22472564,YES, , ,Serum,UP,thyroid,"thyroid cancer, papillary",D000077273,DOID_1781,"Cancer, Endocrine and Metabolic Conditions",thyroid cancer,papillary
+hsa-miR-223-3p,MIMAT0000280,hsa-mir-223,31919459, ,POSITIVE,overall survival,Serum,DOWN,,acute-on-chronic liver failure,D065290,UBERON_0002107,Digestive & Gastrointestinal Conditions,liver failure,acute-on-chronic
+hsa-miR-223-3p,MIMAT0000280,hsa-mir-223,22105822,YES, , ,Plasma,DOWN,,"carcinoma, hepatocellular",D006528,DOID_305,"Cancer, Digestive & Gastrointestinal Conditions",carcinoma,hepatocellular
+hsa-miR-223-3p,MIMAT0000280,hsa-mir-223,24202700, ,POSITIVE,clopidogrel responsiveness (determined by Platelet Reactivity Index - PRI),Plasma,DOWN,heart/platelets,coronary disease,D003327,DOID_3393,Cardiovascular Conditions,coronary disease,
+hsa-miR-223-3p,MIMAT0000280,hsa-mir-223,16251535, ,NEGATIVE,aggresive disease course,Blood,DOWN,blood,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-223-3p,MIMAT0000280,hsa-mir-223,21098088,YES, , ,Serum,DOWN,serum,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-223-3p,MIMAT0000280,hsa-mir-223,20651284,YES, , ,Plasma,DOWN,,"diabetes mellitus, type 2",D003924,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions",diabetes mellitus,type 2
+hsa-miR-223-3p,MIMAT0000280,hsa-mir-223,20188071,YES, , ,Serum,DOWN,,sepsis,D018805,,Bacterial Infections,sepsis,
+hsa-miR-223-3p,MIMAT0000280,hsa-mir-223,29430184,YES, , ,Serum,UP,peripheral vein blood,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-223-5p,MIMAT0004570,hsa-mir-223,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-2392,MIMAT0019043,hsa-mir-2392,23799609,YES, , ,Serum,UP,,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-2392,MIMAT0019043,hsa-mir-2392,23799609, ,POSITIVE,lymph node metastasis,Serum,UP,,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-23a-3p,MIMAT0000078,hsa-mir-23a,24431276,YES, , ,Serum,UP,,osteoporosis,D010024,DOID_11476,Musculoskeletal Conditions,osteoporosis,
+hsa-miR-23a-3p,MIMAT0000078,hsa-mir-23a,22674182,YES, , ,Serum,DOWN,,astrocytoma,D001254,,Cancer,astrocytoma,
+hsa-miR-23a-3p,MIMAT0000078,hsa-mir-23a,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-23a-3p,MIMAT0000078,hsa-mir-23a,22674182,YES, , ,Serum,DOWN,,astrocytoma,D001254,,Cancer,astrocytoma,
+hsa-miR-23a-3p,MIMAT0000078,hsa-mir-23a,22674182,YES, , ,Serum,DOWN,,astrocytoma,D001254,,Cancer,astrocytoma,
+hsa-miR-23a-3p,MIMAT0000078,hsa-mir-23a,22674182,YES, , ,Serum,DOWN,,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-23a-3p,MIMAT0000078,hsa-mir-23a,16251535, ,NEGATIVE,time to initial therapy,Blood,UP,blood,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-23b-3p,MIMAT0000418,hsa-mir-23b,16251535, ,POSITIVE,aggresive disease course,Blood,UP,blood,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-23b-3p,MIMAT0000418,hsa-mir-23b,30171938,YES, , ,Serum,UP,,osteoporotic fractures,D058866,,Musculoskeletal Conditions,fractures,osteoporotic
+hsa-miR-23b-3p,MIMAT0000418,hsa-mir-23b,16251535, ,NEGATIVE,time to initial therapy,Blood,UP,blood,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-23b-3p,MIMAT0000418,hsa-mir-23b,30171938,YES, , ,Serum,UP,,"bone diseases, metabolic",D001851,DOID_0080001,"Endocrine and Metabolic Conditions, Musculoskeletal Conditions",bone disease,metabolic
+hsa-miR-23b-3p,MIMAT0000418,hsa-mir-23b,30171938,YES, , ,Serum,UP,,"osteoporosis, postmenopausal",D015663,DOID_11476,Musculoskeletal Conditions,osteoporosis,postmenopausal
+hsa-miR-24-3p,MIMAT0000080,hsa-mir-24-1|hsa-mir-24-2,16251535, ,NEGATIVE,time to initial therapy,Blood,UP,blood,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-24-3p,MIMAT0000080,hsa-mir-24-1|hsa-mir-24-2,21098088,YES, , ,Serum,DOWN,serum,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-24-3p,MIMAT0000080,hsa-mir-24-1|hsa-mir-24-2,24431276,YES, , ,Serum,UP,,osteoporosis,D010024,DOID_11476,Musculoskeletal Conditions,osteoporosis,
+hsa-miR-24-3p,MIMAT0000080,hsa-mir-24-1|hsa-mir-24-2,16251535, ,POSITIVE,aggresive disease course,Blood,UP,blood,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-24-3p,MIMAT0000080,hsa-mir-24-1|hsa-mir-24-2,21098088, ,NEGATIVE,risk of recurrence,Serum,DOWN,serum,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-25-3p,MIMAT0000081,hsa-mir-25,31513283,YES, , ,Plasma,UP,,hepatitis b,D006509,DOID_2043,"Viral Infections, Infectious Diseases, Digestive & Gastrointestinal Conditions",hepatitis,b
+hsa-miR-25-3p,MIMAT0000081,hsa-mir-25,28380419, ,NEGATIVE,metastasis-free survival,Serum,UP,,osteosarcoma,D012516,DOID_3347,"Cancer, Musculoskeletal Conditions",osteosarcoma,
+hsa-miR-25-3p,MIMAT0000081,hsa-mir-25,24595006,YES, , ,Plasma,UP,"gastric body, antrum of stomach",stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-25-3p,MIMAT0000081,hsa-mir-25,26267902,YES, , ,Plasma,UP,,"thyroid cancer, papillary",D000077273,DOID_1781,"Cancer, Endocrine and Metabolic Conditions",thyroid cancer,papillary
+hsa-miR-25-3p,MIMAT0000081,hsa-mir-25,24595006,YES, , ,Plasma,UP,"gastric body, antrum of stomach",stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-25-3p,MIMAT0000081,hsa-mir-25,28380419,YES, , ,Serum,UP,,osteosarcoma,D012516,DOID_3347,"Cancer, Musculoskeletal Conditions",osteosarcoma,
+hsa-miR-25-3p,MIMAT0000081,hsa-mir-25,28380419,YES, , ,Serum,UP,,osteosarcoma,D012516,DOID_3347,"Cancer, Musculoskeletal Conditions",osteosarcoma,
+hsa-miR-25-3p,MIMAT0000081,hsa-mir-25,24595006,YES, , ,Plasma,UP,"gastric body, antrum of stomach",stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-25-3p,MIMAT0000081,hsa-mir-25,26267902,YES, , ,Plasma,UP,,"thyroid cancer, papillary",D000077273,DOID_1781,"Cancer, Endocrine and Metabolic Conditions",thyroid cancer,papillary
+hsa-miR-25-3p,MIMAT0000081,hsa-mir-25,28380419,YES, , ,Serum,UP,,osteosarcoma,D012516,DOID_3347,"Cancer, Musculoskeletal Conditions",osteosarcoma,
+hsa-miR-25-3p,MIMAT0000081,hsa-mir-25,26267902,YES, , ,Plasma,UP,,"thyroid cancer, papillary",D000077273,DOID_1781,"Cancer, Endocrine and Metabolic Conditions",thyroid cancer,papillary
+hsa-miR-25-3p,MIMAT0000081,hsa-mir-25,31919459, ,POSITIVE,overall survival,Serum,DOWN,,acute-on-chronic liver failure,D065290,UBERON_0002107,Digestive & Gastrointestinal Conditions,liver failure,acute-on-chronic
+hsa-miR-25-3p,MIMAT0000081,hsa-mir-25,31513283,YES, , ,Plasma,UP,,hepatitis b,D006509,DOID_2043,"Viral Infections, Infectious Diseases, Digestive & Gastrointestinal Conditions",hepatitis,b
+hsa-miR-25-3p,MIMAT0000081,hsa-mir-25,28466015,YES, , ,Plasma,UP,"pancreas head and neck, pancreas body and tail","carcinoma, pancreatic ductal",D021441,"DOID_305,UBERON_0007329","Cancer, Digestive & Gastrointestinal Conditions, Breast Conditions",carcinoma,pancreatic ductal
+hsa-miR-25-3p,MIMAT0000081,hsa-mir-25,24595006,YES, , ,Plasma,UP,"gastric body, antrum of stomach",stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-25-3p,MIMAT0000081,hsa-mir-25,28380419,YES, , ,Serum,UP,,osteosarcoma,D012516,DOID_3347,"Cancer, Musculoskeletal Conditions",osteosarcoma,
+hsa-miR-26a-5p,MIMAT0000082,hsa-mir-26a-1|hsa-mir-26a-2,26413249,YES, , ,Plasma,DOWN,"colon, rectum",colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-26a-5p,MIMAT0000082,hsa-mir-26a-1|hsa-mir-26a-2,22105822,YES, , ,Plasma,DOWN,,"carcinoma, hepatocellular",D006528,DOID_305,"Cancer, Digestive & Gastrointestinal Conditions",carcinoma,hepatocellular
+hsa-miR-26b-5p,MIMAT0000083,hsa-mir-26b,21098088,YES, , ,Serum,DOWN,serum,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-27a-3p,MIMAT0000084,hsa-mir-27a,22105822,YES, , ,Plasma,DOWN,,"carcinoma, hepatocellular",D006528,DOID_305,"Cancer, Digestive & Gastrointestinal Conditions",carcinoma,hepatocellular
+hsa-miR-27a-5p,MIMAT0004501,hsa-mir-27a,24447930,YES, , ,Blood,UP,brain,stroke,D020521,DOID_6713,"Cardiovascular Conditions, Neurological Conditions",stroke,
+hsa-miR-27b-3p,MIMAT0000419,hsa-mir-27b,22389695,YES, , ,Serum,UP,,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-27b-3p,MIMAT0000419,hsa-mir-27b,22389695,YES, , ,Serum,UP,,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-27b-3p,MIMAT0000419,hsa-mir-27b,30078021,YES, , ,Serum,UP,,mucocutaneous lymph node syndrome,D009080,DOID_13378,"Congenital/Hereditary Conditions, Hematopoietic & Lymphatic Conditions, Syndrome",mucocutaneous lymph node syndrome,
+hsa-miR-27b-3p,MIMAT0000419,hsa-mir-27b,30078021, ,NEGATIVE,disease progression,Serum,UP,,mucocutaneous lymph node syndrome,D009080,DOID_13378,"Congenital/Hereditary Conditions, Hematopoietic & Lymphatic Conditions, Syndrome",mucocutaneous lymph node syndrome,
+hsa-miR-28-3p,MIMAT0004502,hsa-mir-28,20651284,YES, , ,Plasma,UP,,"diabetes mellitus, type 2",D003924,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions",diabetes mellitus,type 2
+hsa-miR-28-3p,MIMAT0004502,hsa-mir-28,26695145,YES, , ,Serum,UP,,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-296-5p,MIMAT0000690,hsa-mir-296,29054761,YES, , ,Plasma,UP,,hashimoto disease,D050031,DOID_4,Endocrine and Metabolic Conditions,hashimoto disease,
+hsa-miR-298,MIMAT0004901,hsa-mir-298,22052531,YES, , ,Serum,UP,prostate,"prostatic neoplasms, castration-resistant",D064129,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic castration-resistant
+hsa-miR-299-5p,MIMAT0002890,hsa-mir-299,22353773,YES, , ,Serum,DOWN,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-299-5p,MIMAT0002890,hsa-mir-299,22353773,YES, , ,Serum,DOWN,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-299-5p,MIMAT0002890,hsa-mir-299,22353773,YES, , ,Serum,DOWN,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-29a-3p,MIMAT0000086,hsa-mir-29a,19876917,YES, , ,Plasma,UP,,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-29a-3p,MIMAT0000086,hsa-mir-29a,27279796, ,POSITIVE,renal function impairment,Serum,UP,blood in tube without anticoagulant and purified serum,diabetic nephropathies,D003928,,"Diabetes, Endocrine and Metabolic Conditions, Genitourinary Conditions",diabetic nephropathies,
+hsa-miR-29a-3p,MIMAT0000086,hsa-mir-29a,23267864,YES, , ,Blood,UP,colon,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-29a-3p,MIMAT0000086,hsa-mir-29a,27279796,YES, , ,Serum,UP,blood in tube without anticoagulant and purified serum,diabetic nephropathies,D003928,,"Diabetes, Endocrine and Metabolic Conditions, Genitourinary Conditions",diabetic nephropathies,
+hsa-miR-29a-3p,MIMAT0000086,hsa-mir-29a,22018950,YES, , ,Serum,UP,"colon, rectum",colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-29a-3p,MIMAT0000086,hsa-mir-29a,19876917,YES, , ,Plasma,UP,"rectum, distal colon, proximal colon",colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-29a-3p,MIMAT0000086,hsa-mir-29a,16251535, ,NEGATIVE,aggresive disease course,Blood,DOWN,blood,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-29a-3p,MIMAT0000086,hsa-mir-29a,23267864,YES, , ,Blood,UP,colon,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-29a-3p,MIMAT0000086,hsa-mir-29a,22018950,YES, , ,Serum,UP,"colon, rectum",colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-29a-5p,MIMAT0004503,hsa-mir-29a,21460253,YES, , ,Plasma,UP,,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-29a-5p,MIMAT0004503,hsa-mir-29a,21460253,YES, , ,Plasma,UP,,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-29b-3p,MIMAT0000100,hsa-mir-29b-1|hsa-mir-29b-2,25057879,YES, , ,Serum,DOWN,thyroid,"thyroid cancer, papillary",D000077273,DOID_1781,"Cancer, Endocrine and Metabolic Conditions",thyroid cancer,papillary
+hsa-miR-29b-3p,MIMAT0000100,hsa-mir-29b-1|hsa-mir-29b-2,27279796, ,POSITIVE,renal function impairment,Serum,UP,blood in tube without anticoagulant and purified serum,diabetic nephropathies,D003928,,"Diabetes, Endocrine and Metabolic Conditions, Genitourinary Conditions",diabetic nephropathies,
+hsa-miR-29b-3p,MIMAT0000100,hsa-mir-29b-1|hsa-mir-29b-2,25057879,YES, , ,Serum,DOWN,thyroid,"thyroid cancer, papillary",D000077273,DOID_1781,"Cancer, Endocrine and Metabolic Conditions",thyroid cancer,papillary
+hsa-miR-29b-3p,MIMAT0000100,hsa-mir-29b-1|hsa-mir-29b-2,16251535, ,NEGATIVE,aggresive disease course,Blood,DOWN,blood,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-29c-3p,MIMAT0000681,hsa-mir-29c,24901787,YES, , ,Plasma,UP,,osteoarthritis,D010003,DOID_8398,Musculoskeletal Conditions,osteoarthritis,
+hsa-miR-29c-3p,MIMAT0000681,hsa-mir-29c,27279796, ,POSITIVE,renal function impairment,Serum,UP,blood in tube without anticoagulant and purified serum,diabetic nephropathies,D003928,,"Diabetes, Endocrine and Metabolic Conditions, Genitourinary Conditions",diabetic nephropathies,
+hsa-miR-29c-3p,MIMAT0000681,hsa-mir-29c,28626163,YES, , ,Serum,DOWN,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-29c-3p,MIMAT0000681,hsa-mir-29c,16251535, ,POSITIVE,time to initial therapy,Blood,DOWN,blood,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-29c-3p,MIMAT0000681,hsa-mir-29c,28626163,YES, , ,Serum,DOWN,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-29c-3p,MIMAT0000681,hsa-mir-29c,16251535, ,NEGATIVE,aggresive disease course,Blood,DOWN,blood,"leukemia, lymphocytic, chronic, b-cell",D015451,"CL_0000236,DOID_1240","Cancer, Hematopoietic & Lymphatic Conditions, Cells",leukemia,chronic b-cell lymphocytic
+hsa-miR-301a-3p,MIMAT0000688,hsa-mir-301a,25203061,YES, , ,Serum,DOWN,,macular degeneration,D008268,DOID_4448,Neurological Conditions,macular degeneration,
+hsa-miR-301a-3p,MIMAT0000688,hsa-mir-301a,23922807,YES, , ,Plasma,DOWN,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-301a-3p,MIMAT0000688,hsa-mir-301a,25203061,YES, , ,Serum,DOWN,,macular degeneration,D008268,DOID_4448,Neurological Conditions,macular degeneration,
+hsa-miR-301a-3p,MIMAT0000688,hsa-mir-301a,28179587,YES, , ,Plasma,DOWN,hippocampus,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-301a-3p,MIMAT0000688,hsa-mir-301a,23922807,YES, , ,Plasma,DOWN,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-302c-3p,MIMAT0000717,hsa-mir-302c,25429911, ,POSITIVE,overall survival,Serum,UP,esophagus,stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-30b-5p,MIMAT0000420,hsa-mir-30b,28179587,YES, , ,Plasma,DOWN,hippocampus,cognitive dysfunction,D060825,,Eyes/Nose/Ears,cognitive dysfunction,
+hsa-miR-30b-5p,MIMAT0000420,hsa-mir-30b,30210287, ,POSITIVE,bulbar onset,Plasma,DOWN,,amyotrophic lateral sclerosis,D000690,"DOID_0111227,DOID_332",Neurological Conditions,amyotrophic lateral sclerosis,
+hsa-miR-30b-5p,MIMAT0000420,hsa-mir-30b,28179587,YES, , ,Plasma,DOWN,hippocampus,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-30b-5p,MIMAT0000420,hsa-mir-30b,28179587,YES, , ,Plasma,DOWN,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-30c-5p,MIMAT0000244,hsa-mir-30c-2|hsa-mir-30c-1,22298030,YES, , ,Plasma,DOWN,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-30c-5p,MIMAT0000244,hsa-mir-30c-2|hsa-mir-30c-1,21098088,YES, , ,Serum,DOWN,serum,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-30c-5p,MIMAT0000244,hsa-mir-30c-2|hsa-mir-30c-1,30210287, ,POSITIVE,bulbar onset,Plasma,DOWN,,amyotrophic lateral sclerosis,D000690,"DOID_0111227,DOID_332",Neurological Conditions,amyotrophic lateral sclerosis,
+hsa-miR-30c-5p,MIMAT0000244,hsa-mir-30c-2|hsa-mir-30c-1,22298030,YES, , ,Plasma,DOWN,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-30e-5p,MIMAT0000692,hsa-mir-30e,21546856,YES, , ,Serum,UP,bowel,crohn disease,D003424,DOID_8778,Digestive & Gastrointestinal Conditions,crohn disease,
+hsa-miR-31-5p,MIMAT0000089,hsa-mir-31,25176944,YES, , ,Serum,UP,heart,graft rejection,D006084,,Immune and Autoimmune Conditions,graft rejection,
+hsa-miR-31-5p,MIMAT0000089,hsa-mir-31,25176944,YES, , ,Serum,UP,heart,graft rejection,D006084,,Immune and Autoimmune Conditions,graft rejection,
+hsa-miR-31-5p,MIMAT0000089,hsa-mir-31,27146333,YES, , ,Plasma,UP,plasma,osteoporosis,D010024,DOID_11476,Musculoskeletal Conditions,osteoporosis,
+hsa-miR-3147,MIMAT0015019,hsa-mir-3147,23799609,YES, , ,Serum,UP,,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-3147,MIMAT0015019,hsa-mir-3147,23799609, ,POSITIVE,lymph node metastasis,Serum,UP,,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-3162-5p,MIMAT0015036,hsa-mir-3162,23799609, ,POSITIVE,lymph node metastasis,Serum,UP,,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-3162-5p,MIMAT0015036,hsa-mir-3162,23799609,YES, , ,Serum,UP,,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-320a-3p,MIMAT0000510,hsa-mir-320a,28179587,YES, , ,Plasma,UP,hippocampus,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-320a-3p,MIMAT0000510,hsa-mir-320a,30175165,YES, , ,Serum,UP,,"multiple sclerosis, chronic progressive",D020528,DOID_2377,Other/Unclassified/Multisystem,multiple sclerosis,chronic progressive
+hsa-miR-320a-3p,MIMAT0000510,hsa-mir-320a,25428891,YES, , ,Serum,DOWN,,waldenstrom macroglobulinemia,D008258,DOID_0060901,Congenital/Hereditary Conditions,waldenstrom's macroglobulinemia,
+hsa-miR-320a-3p,MIMAT0000510,hsa-mir-320a,30718561,YES, , ,Plasma,UP,,coronary restenosis,D023903,DOID_4247,Cardiovascular Conditions,restenosis,coronary
+hsa-miR-320a-3p,MIMAT0000510,hsa-mir-320a,25126405,YES, , ,Serum,DOWN,,autism spectrum disorder,D000067877,DOID_0060041,Neurological Conditions,autism spectrum disorder,
+hsa-miR-320a-3p,MIMAT0000510,hsa-mir-320a,20651284,YES, , ,Plasma,DOWN,,"diabetes mellitus, type 2",D003924,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions",diabetes mellitus,type 2
+hsa-miR-320a-3p,MIMAT0000510,hsa-mir-320a,22120965,YES, , ,Serum,UP,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-320b,MIMAT0005792,hsa-mir-320b-1|hsa-mir-320b-2,25428891,YES, , ,Serum,DOWN,,waldenstrom macroglobulinemia,D008258,DOID_0060901,Congenital/Hereditary Conditions,waldenstrom's macroglobulinemia,
+hsa-miR-320b,MIMAT0005792,hsa-mir-320b-1|hsa-mir-320b-2,30175165,YES, , ,Serum,UP,,"multiple sclerosis, chronic progressive",D020528,DOID_2377,Other/Unclassified/Multisystem,multiple sclerosis,chronic progressive
+hsa-miR-320b,MIMAT0005792,hsa-mir-320b-1|hsa-mir-320b-2,28179587,YES, , ,Plasma,UP,hippocampus,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-320b,MIMAT0005792,hsa-mir-320b-1|hsa-mir-320b-2,28179587,YES, , ,Plasma,UP,hippocampus,cognitive dysfunction,D060825,,Eyes/Nose/Ears,cognitive dysfunction,
+hsa-miR-320c,MIMAT0005793,hsa-mir-320c-1|hsa-mir-320c-2,28179587,YES, , ,Plasma,UP,hippocampus,cognitive dysfunction,D060825,,Eyes/Nose/Ears,cognitive dysfunction,
+hsa-miR-320c,MIMAT0005793,hsa-mir-320c-1|hsa-mir-320c-2,28179587,YES, , ,Plasma,UP,hippocampus,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-320c,MIMAT0005793,hsa-mir-320c-1|hsa-mir-320c-2,30175165,YES, , ,Serum,UP,,"multiple sclerosis, chronic progressive",D020528,DOID_2377,Other/Unclassified/Multisystem,multiple sclerosis,chronic progressive
+hsa-miR-320d,MIMAT0006764,hsa-mir-320d-1|hsa-mir-320d-2,30662524,YES, , ,Plasma,DOWN,"colon, rectum",colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-320d,MIMAT0006764,hsa-mir-320d-1|hsa-mir-320d-2,30662524,YES, , ,Plasma,DOWN,"colon, rectum",colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-323a-3p,MIMAT0000755,hsa-mir-323a,25124998,YES, , ,Plasma,UP,coronary arteries/heart,acute coronary syndrome,D054058,DOID_225,"Cardiovascular Conditions, Congenital/Hereditary Conditions, Syndrome",acute coronary syndrome,
+hsa-miR-323a-3p,MIMAT0000755,hsa-mir-323a,25124998,YES, , ,Plasma,UP,coronary arteries/heart,acute coronary syndrome,D054058,DOID_225,"Cardiovascular Conditions, Congenital/Hereditary Conditions, Syndrome",acute coronary syndrome,
+hsa-miR-323a-3p,MIMAT0000755,hsa-mir-323a,24368295,YES, , ,Plasma,UP,,cognitive dysfunction,D060825,,Eyes/Nose/Ears,cognitive dysfunction,
+hsa-miR-323a-3p,MIMAT0000755,hsa-mir-323a,22395025,YES, , ,Serum,UP,,"pregnancy, ectopic",D011271,,Pregnancy Conditions and Outcomes,pregnancy,ectopic
+hsa-miR-323a-3p,MIMAT0000755,hsa-mir-323a,25124998,YES, , ,Plasma,UP,coronary arteries/heart,acute coronary syndrome,D054058,DOID_225,"Cardiovascular Conditions, Congenital/Hereditary Conditions, Syndrome",acute coronary syndrome,
+hsa-miR-323a-3p,MIMAT0000755,hsa-mir-323a,25124998,YES, , ,Plasma,UP,coronary arteries/heart,acute coronary syndrome,D054058,DOID_225,"Cardiovascular Conditions, Congenital/Hereditary Conditions, Syndrome",acute coronary syndrome,
+hsa-miR-323b-5p,MIMAT0001630,hsa-mir-323b,30305681,YES, , ,Plasma,UP,,ischemia,D007511,"DOID_326,SYMP_0000209",Cardiovascular Conditions,ischemia,
+hsa-miR-323b-5p,MIMAT0001630,hsa-mir-323b,30305681,YES, , ,Plasma,UP,,ischemia,D007511,"DOID_326,SYMP_0000209",Cardiovascular Conditions,ischemia,
+hsa-miR-324-3p,MIMAT0000762,hsa-mir-324,22087245,YES, , ,Serum,UP,"throat, stool or vesicle swab",picornaviridae infections,D010850,NCBITaxon_12058,Infectious Diseases,picornaviridae infections,
+hsa-miR-328-3p,MIMAT0000752,hsa-mir-328,29602672,YES, , ,Serum,UP,,acute-on-chronic liver failure,D065290,UBERON_0002107,Digestive & Gastrointestinal Conditions,liver failure,acute-on-chronic
+hsa-miR-335-5p,MIMAT0000765,hsa-mir-335,23267864,YES, , ,Blood,UP,colon,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-335-5p,MIMAT0000765,hsa-mir-335,23267864,YES, , ,Blood,UP,colon,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-33a-5p,MIMAT0000091,hsa-mir-33a,28179587,YES, , ,Plasma,DOWN,hippocampus,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-342-3p,MIMAT0000753,hsa-mir-342,30210287, ,POSITIVE,bulbar onset,Plasma,DOWN,,amyotrophic lateral sclerosis,D000690,"DOID_0111227,DOID_332",Neurological Conditions,amyotrophic lateral sclerosis,
+hsa-miR-342-3p,MIMAT0000753,hsa-mir-342,23073777,YES, , ,Serum,UP,serum,whooping cough,D014917,DOID_1116,Infectious Diseases,whooping cough,
+hsa-miR-342-3p,MIMAT0000753,hsa-mir-342,19954774,YES, , ,Blood,DOWN,,"diabetes mellitus, type 1",D003922,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions",diabetes mellitus,type 1
+hsa-miR-345-5p,MIMAT0000772,hsa-mir-345,24901787,YES, , ,Plasma,UP,,osteoarthritis,D010003,DOID_8398,Musculoskeletal Conditions,osteoarthritis,
+hsa-miR-346,MIMAT0000773,hsa-mir-346,22052531,YES, , ,Serum,UP,prostate,"prostatic neoplasms, castration-resistant",D064129,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic castration-resistant
+hsa-miR-34a-5p,MIMAT0000255,hsa-mir-34a,21886843,YES, , ,Serum,UP,liver,"hepatitis c, chronic",D019698,DOID_1883,"Viral Infections, Infectious Diseases, Digestive & Gastrointestinal Conditions",hepatitis,"c, chronic"
+hsa-miR-34a-5p,MIMAT0000255,hsa-mir-34a,24550773,YES, , ,Plasma,UP,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-34a-5p,MIMAT0000255,hsa-mir-34a,21398193,YES, , ,Serum,UP,lung,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-34a-5p,MIMAT0000255,hsa-mir-34a,21886843, ,POSITIVE,disease severity,Serum,UP,liver,"hepatitis c, chronic",D019698,DOID_1883,"Viral Infections, Infectious Diseases, Digestive & Gastrointestinal Conditions",hepatitis,"c, chronic"
+hsa-miR-34a-5p,MIMAT0000255,hsa-mir-34a,21886843,YES, , ,Serum,UP,liver,"hepatitis c, chronic",D019698,DOID_1883,"Viral Infections, Infectious Diseases, Digestive & Gastrointestinal Conditions",hepatitis,"c, chronic"
+hsa-miR-34a-5p,MIMAT0000255,hsa-mir-34a,21886843,YES, , ,Serum,UP,liver,non-alcoholic fatty liver disease,D065626,DOID_9452,"Digestive & Gastrointestinal Conditions, Substance Abuse",fatty liver disease,non alcoholic
+hsa-miR-34a-5p,MIMAT0000255,hsa-mir-34a,23323620,YES, , ,Serum,UP,heart,myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-34a-5p,MIMAT0000255,hsa-mir-34a,21886843, ,POSITIVE,disease severity,Serum,UP,liver,non-alcoholic fatty liver disease,D065626,DOID_9452,"Digestive & Gastrointestinal Conditions, Substance Abuse",fatty liver disease,non alcoholic
+hsa-miR-34a-5p,MIMAT0000255,hsa-mir-34a,24550773,YES, , ,Plasma,UP,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-34b-5p,MIMAT0000685,hsa-mir-34b,24168922,YES, , ,Serum,UP,,"mesothelioma, malignant",D000086002,,Cancer,mesothelioma,malignant
+hsa-miR-34c-5p,MIMAT0000686,hsa-mir-34c,24168922,YES, , ,Serum,UP,,"mesothelioma, malignant",D000086002,,Cancer,mesothelioma,malignant
+hsa-miR-34c-5p,MIMAT0000686,hsa-mir-34c,24550773,YES, , ,Plasma,UP,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-361-3p,MIMAT0004682,hsa-mir-361,22675530,YES, , ,Serum,DOWN,,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-361-5p,MIMAT0000703,hsa-mir-361,25203061,YES, , ,Serum,DOWN,,macular degeneration,D008268,DOID_4448,Neurological Conditions,macular degeneration,
+hsa-miR-361-5p,MIMAT0000703,hsa-mir-361,25184815,YES, , ,Plasma,UP,heart,myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-361-5p,MIMAT0000703,hsa-mir-361,25203061,YES, , ,Serum,DOWN,,macular degeneration,D008268,DOID_4448,Neurological Conditions,macular degeneration,
+hsa-miR-361-5p,MIMAT0000703,hsa-mir-361,25184815,YES, , ,Plasma,UP,heart,myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-362-3p,MIMAT0004683,hsa-mir-362,22087245,YES, , ,Serum,UP,"throat, stool or vesicle swab",picornaviridae infections,D010850,NCBITaxon_12058,Infectious Diseases,picornaviridae infections,
+hsa-miR-370-3p,MIMAT0000722,hsa-mir-370,31980721,YES, , ,Serum,UP,,bipolar disorder,D001714,DOID_3312,Mood and Personality Disorders,bipolar disorder,
+hsa-miR-370-3p,MIMAT0000722,hsa-mir-370,24405714, ,POSITIVE,post-therapeutic efficacy,Serum,UP,pelvic lymph node,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-375-3p,MIMAT0000728,hsa-mir-375,22952344, ,NEGATIVE,progression-free survival,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-375-3p,MIMAT0000728,hsa-mir-375,22952344, ,NEGATIVE,overall survival,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-375-3p,MIMAT0000728,hsa-mir-375,20473869, ,NEGATIVE,high risk prostate cancer,Serum,UP,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-375-3p,MIMAT0000728,hsa-mir-375,22952344,YES, , ,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-375-3p,MIMAT0000728,hsa-mir-375,22052531,YES, , ,Serum,UP,prostate,"prostatic neoplasms, castration-resistant",D064129,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic castration-resistant
+hsa-miR-375-3p,MIMAT0000728,hsa-mir-375,29054761,YES, , ,Plasma,UP,,hashimoto disease,D050031,DOID_4,Endocrine and Metabolic Conditions,hashimoto disease,
+hsa-miR-375-3p,MIMAT0000728,hsa-mir-375,20473869, ,NEGATIVE,high risk prostate cancer,Serum,UP,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-376a-3p,MIMAT0000729,hsa-mir-376a-1|hsa-mir-376a-2,24204780,YES, , ,Serum,UP,,obesity,D009765,"DOID_9970,SYMP_0020018",Endocrine and Metabolic Conditions,obesity,
+hsa-miR-376a-3p,MIMAT0000729,hsa-mir-376a-1|hsa-mir-376a-2,24204780,YES, , ,Serum,UP,,"diabetes mellitus, type 2",D003924,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions",diabetes mellitus,type 2
+hsa-miR-376a-3p,MIMAT0000729,hsa-mir-376a-1|hsa-mir-376a-2,24194846,YES, , ,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-376a-3p,MIMAT0000729,hsa-mir-376a-1|hsa-mir-376a-2,24204780,YES, , ,Serum,DOWN,,obesity,D009765,"DOID_9970,SYMP_0020018",Endocrine and Metabolic Conditions,obesity,
+hsa-miR-376a-3p,MIMAT0000729,hsa-mir-376a-1|hsa-mir-376a-2,24204780,YES, , ,Serum,DOWN,,"diabetes mellitus, type 2",D003924,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions",diabetes mellitus,type 2
+hsa-miR-376a-3p,MIMAT0000729,hsa-mir-376a-1|hsa-mir-376a-2,24194846,YES, , ,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-376c-3p,MIMAT0000720,hsa-mir-376c,24699363,YES, , ,Serum,UP,,"influenza, human",D007251,DOID_8469,Viral Infections,influenza,human
+hsa-miR-376c-3p,MIMAT0000720,hsa-mir-376c,24194846,YES, , ,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-376c-3p,MIMAT0000720,hsa-mir-376c,24699363,YES, , ,Serum,UP,,"influenza, human",D007251,DOID_8469,Viral Infections,influenza,human
+hsa-miR-376c-3p,MIMAT0000720,hsa-mir-376c,24699363,YES, , ,Serum,UP,,"influenza, human",D007251,DOID_8469,Viral Infections,influenza,human
+hsa-miR-376c-3p,MIMAT0000720,hsa-mir-376c,22927033,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-378a-5p,MIMAT0000731,hsa-mir-378a,22169097,YES, , ,Serum,UP,,stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-382-5p,MIMAT0000737,hsa-mir-382,24368295,YES, , ,Plasma,UP,,cognitive dysfunction,D060825,,Eyes/Nose/Ears,cognitive dysfunction,
+hsa-miR-409-3p,MIMAT0001639,hsa-mir-409,22927033,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-409-3p,MIMAT0001639,hsa-mir-409,24194846,YES, , ,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-411-5p,MIMAT0003329,hsa-mir-411,22353773,YES, , ,Serum,DOWN,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-411-5p,MIMAT0003329,hsa-mir-411,22353773,YES, , ,Serum,DOWN,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-411-5p,MIMAT0003329,hsa-mir-411,22353773, ,NEGATIVE,progression of disease under treatment,Serum,DOWN,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-411-5p,MIMAT0003329,hsa-mir-411,31746360, ,POSITIVE,radiotherapy efficacy,Blood,UP,cervix,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-411-5p,MIMAT0003329,hsa-mir-411,29028091, ,NEGATIVE,overall survival,Serum,UP,lung,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-411-5p,MIMAT0003329,hsa-mir-411,29028091,YES, , ,Serum,UP,lung,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-411-5p,MIMAT0003329,hsa-mir-411,22353773,YES, , ,Serum,DOWN,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-422a,MIMAT0001339,hsa-mir-422a,24447930,YES, , ,Blood,UP,brain,stroke,D020521,DOID_6713,"Cardiovascular Conditions, Neurological Conditions",stroke,
+hsa-miR-423-5p,MIMAT0004748,hsa-mir-423,22120965,YES, , ,Serum,UP,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-423-5p,MIMAT0004748,hsa-mir-423,24253456,YES, , ,Plasma,UP,,myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-424-5p,MIMAT0001341,hsa-mir-424,25203061,YES, , ,Serum,DOWN,,macular degeneration,D008268,DOID_4448,Neurological Conditions,macular degeneration,
+hsa-miR-424-5p,MIMAT0001341,hsa-mir-424,25203061,YES, , ,Serum,DOWN,,macular degeneration,D008268,DOID_4448,Neurological Conditions,macular degeneration,
+hsa-miR-425-3p,MIMAT0001343,hsa-mir-425,21060830,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-429,MIMAT0001536,hsa-mir-429,21372198,YES, , ,Serum,DOWN,,"lupus erythematosus, systemic",D008180,DOID_9074,"Immune and Autoimmune Conditions, Other/Unclassified/Multisystem",lupus erythematosus,systemic
+hsa-miR-429,MIMAT0001536,hsa-mir-429,22732895,YES, , ,Serum,UP,liver,biliary atresia,D001656,DOID_13608,Digestive & Gastrointestinal Conditions,biliary atresia,
+hsa-miR-4484,MIMAT0019018,hsa-mir-4484,23799609,YES, , ,Serum,UP,,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-4484,MIMAT0019018,hsa-mir-4484,23799609, ,POSITIVE,lymph node metastasis,Serum,UP,,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-4516,MIMAT0019053,hsa-mir-4516,29849050,YES, , ,Plasma,DOWN,bone,osteoporosis,D010024,DOID_11476,Musculoskeletal Conditions,osteoporosis,
+hsa-miR-451a,MIMAT0001631,hsa-mir-451a,24595006,YES, , ,Plasma,UP,"gastric body, antrum of stomach",stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-451a,MIMAT0001631,hsa-mir-451a,24595006,YES, , ,Plasma,UP,"gastric body, antrum of stomach",stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-451a,MIMAT0001631,hsa-mir-451a,26267902,YES, , ,Plasma,UP,,"thyroid cancer, papillary",D000077273,DOID_1781,"Cancer, Endocrine and Metabolic Conditions",thyroid cancer,papillary
+hsa-miR-451a,MIMAT0001631,hsa-mir-451a,29054761,YES, , ,Plasma,UP,,hashimoto disease,D050031,DOID_4,Endocrine and Metabolic Conditions,hashimoto disease,
+hsa-miR-451a,MIMAT0001631,hsa-mir-451a,22262318,YES, , ,Plasma,UP,stomach,stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-451a,MIMAT0001631,hsa-mir-451a,26267902,YES, , ,Plasma,UP,,"thyroid cancer, papillary",D000077273,DOID_1781,"Cancer, Endocrine and Metabolic Conditions",thyroid cancer,papillary
+hsa-miR-451a,MIMAT0001631,hsa-mir-451a,26267902,YES, , ,Plasma,UP,,"thyroid cancer, papillary",D000077273,DOID_1781,"Cancer, Endocrine and Metabolic Conditions",thyroid cancer,papillary
+hsa-miR-451a,MIMAT0001631,hsa-mir-451a,24595006,YES, , ,Plasma,UP,"gastric body, antrum of stomach",stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-451a,MIMAT0001631,hsa-mir-451a,24595006,YES, , ,Plasma,UP,"gastric body, antrum of stomach",stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-451a,MIMAT0001631,hsa-mir-451a,21098088,YES, , ,Serum,UP,serum,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-483-5p,MIMAT0004761,hsa-mir-483,28179587,YES, , ,Plasma,UP,hippocampus,cognitive dysfunction,D060825,,Eyes/Nose/Ears,cognitive dysfunction,
+hsa-miR-483-5p,MIMAT0004761,hsa-mir-483,28179587,YES, , ,Plasma,UP,hippocampus,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-483-5p,MIMAT0004761,hsa-mir-483,28179587,YES, , ,Plasma,UP,hippocampus,cognitive dysfunction,D060825,,Eyes/Nose/Ears,cognitive dysfunction,
+hsa-miR-483-5p,MIMAT0004761,hsa-mir-483,24127413,YES, , ,Plasma,UP,liver,"carcinoma, hepatocellular",D006528,DOID_305,"Cancer, Digestive & Gastrointestinal Conditions",carcinoma,hepatocellular
+hsa-miR-483-5p,MIMAT0004761,hsa-mir-483,28179587,YES, , ,Plasma,UP,hippocampus,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-483-5p,MIMAT0004761,hsa-mir-483,24127413,YES, , ,Plasma,UP,liver,"carcinoma, hepatocellular",D006528,DOID_305,"Cancer, Digestive & Gastrointestinal Conditions",carcinoma,hepatocellular
+hsa-miR-484,MIMAT0002174,hsa-mir-484,30175165,YES, , ,Serum,UP,,multiple sclerosis,D009103,DOID_2377,Other/Unclassified/Multisystem,multiple sclerosis,
+hsa-miR-484,MIMAT0002174,hsa-mir-484,30175165,YES, , ,Serum,UP,,"multiple sclerosis, relapsing-remitting",D020529,DOID_2377,Other/Unclassified/Multisystem,multiple sclerosis,relapsing-remitting
+hsa-miR-484,MIMAT0002174,hsa-mir-484,21546856, ,NEGATIVE,response to treatment,Serum,UP,bowel,crohn disease,D003424,DOID_8778,Digestive & Gastrointestinal Conditions,crohn disease,
+hsa-miR-484,MIMAT0002174,hsa-mir-484,30175165,YES, , ,Serum,UP,,"multiple sclerosis, chronic progressive",D020528,DOID_2377,Other/Unclassified/Multisystem,multiple sclerosis,chronic progressive
+hsa-miR-484,MIMAT0002174,hsa-mir-484,31641384,YES, , ,Serum,UP,lung,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-484,MIMAT0002174,hsa-mir-484,21546856,YES, , ,Serum,UP,bowel,crohn disease,D003424,DOID_8778,Digestive & Gastrointestinal Conditions,crohn disease,
+hsa-miR-484,MIMAT0002174,hsa-mir-484,31641384, ,NEGATIVE,overall survival,Serum,UP,lung,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-485-3p,MIMAT0002176,hsa-mir-485,28931080, ,POSITIVE,progression-free survival,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-485-3p,MIMAT0002176,hsa-mir-485,24260372,YES, , ,Plasma,UP,,"angina, stable",D060050,,Cardiovascular Conditions,angina,stable
+hsa-miR-485-3p,MIMAT0002176,hsa-mir-485,28931080, ,POSITIVE,overall survival,Serum,DOWN,brain,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-486-5p,MIMAT0002177,hsa-mir-486-1|hsa-mir-486-2,28670374,YES, , ,Plasma,UP,,"osteoarthritis, knee",D020370,"DOID_8398,UBERON_0001465",Musculoskeletal Conditions,osteoarthritis,knee
+hsa-miR-486-5p,MIMAT0002177,hsa-mir-486-1|hsa-mir-486-2,22262318,YES, , ,Plasma,UP,stomach,stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-486-5p,MIMAT0002177,hsa-mir-486-1|hsa-mir-486-2,31513283,YES, , ,Plasma,UP,,hepatitis b,D006509,DOID_2043,"Viral Infections, Infectious Diseases, Digestive & Gastrointestinal Conditions",hepatitis,b
+hsa-miR-486-5p,MIMAT0002177,hsa-mir-486-1|hsa-mir-486-2,24595006,YES, , ,Plasma,UP,"gastric body, antrum of stomach",stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-486-5p,MIMAT0002177,hsa-mir-486-1|hsa-mir-486-2,28670374,YES, , ,Plasma,UP,,"osteoarthritis, knee",D020370,"DOID_8398,UBERON_0001465",Musculoskeletal Conditions,osteoarthritis,knee
+hsa-miR-486-5p,MIMAT0002177,hsa-mir-486-1|hsa-mir-486-2,21864403,YES, , ,Plasma,DOWN,lung,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-486-5p,MIMAT0002177,hsa-mir-486-1|hsa-mir-486-2,28179587,YES, , ,Plasma,UP,hippocampus,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-486-5p,MIMAT0002177,hsa-mir-486-1|hsa-mir-486-2,21864403,YES, , ,Plasma,DOWN,lung,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-486-5p,MIMAT0002177,hsa-mir-486-1|hsa-mir-486-2,31513283,YES, , ,Plasma,UP,,hepatitis b,D006509,DOID_2043,"Viral Infections, Infectious Diseases, Digestive & Gastrointestinal Conditions",hepatitis,b
+hsa-miR-486-5p,MIMAT0002177,hsa-mir-486-1|hsa-mir-486-2,28179587,YES, , ,Plasma,UP,hippocampus,cognitive dysfunction,D060825,,Eyes/Nose/Ears,cognitive dysfunction,
+hsa-miR-486-5p,MIMAT0002177,hsa-mir-486-1|hsa-mir-486-2,24595006,YES, , ,Plasma,UP,"gastric body, antrum of stomach",stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-486-5p,MIMAT0002177,hsa-mir-486-1|hsa-mir-486-2,27162656,YES, , ,Plasma,UP,,mercury poisoning,D008630,CHEBI_25195,Substance Abuse,poisoning,mercury
+hsa-miR-486-5p,MIMAT0002177,hsa-mir-486-1|hsa-mir-486-2,27162656,YES, , ,Plasma,UP,,mercury poisoning,D008630,CHEBI_25195,Substance Abuse,poisoning,mercury
+hsa-miR-486-5p,MIMAT0002177,hsa-mir-486-1|hsa-mir-486-2,24595006,YES, , ,Plasma,UP,"gastric body, antrum of stomach",stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-486-5p,MIMAT0002177,hsa-mir-486-1|hsa-mir-486-2,24595006,YES, , ,Plasma,UP,"gastric body, antrum of stomach",stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-487b-3p,MIMAT0003180,hsa-mir-487b,23073777,YES, , ,Serum,UP,serum,whooping cough,D014917,DOID_1116,Infectious Diseases,whooping cough,
+hsa-miR-488-3p,MIMAT0004763,hsa-mir-488,24447930,YES, , ,Blood,UP,brain,stroke,D020521,DOID_6713,"Cardiovascular Conditions, Neurological Conditions",stroke,
+hsa-miR-490-3p,MIMAT0002806,hsa-mir-490,24358814,YES, , ,Plasma,UP,coronary arteries/heart,coronary artery disease,D003324,DOID_3393,Cardiovascular Conditions,coronary artery disease,
+hsa-miR-490-3p,MIMAT0002806,hsa-mir-490,30128020,YES, , ,Plasma,UP,,multiple myeloma,D009101,DOID_9538,"Cancer, Other/Unclassified/Multisystem",multiple myeloma,
+hsa-miR-490-3p,MIMAT0002806,hsa-mir-490,30128020,YES, , ,Plasma,UP,,multiple myeloma,D009101,DOID_9538,"Cancer, Other/Unclassified/Multisystem",multiple myeloma,
+hsa-miR-494-3p,MIMAT0002816,hsa-mir-494,25619197,YES, , ,Plasma,DOWN,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-494-3p,MIMAT0002816,hsa-mir-494,25619197,YES, , ,Plasma,DOWN,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-494-3p,MIMAT0002816,hsa-mir-494,24222179, ,POSITIVE,"interim therapy response, more pronounced in complete vs. partial response",Plasma,UP,blood,hodgkin disease,D006689,DOID_8567,Cancer,hodgkin disease,
+hsa-miR-494-3p,MIMAT0002816,hsa-mir-494,24222179,YES, , ,Plasma,UP,blood,hodgkin disease,D006689,DOID_8567,Cancer,hodgkin disease,
+hsa-miR-494-3p,MIMAT0002816,hsa-mir-494,24358814,YES, , ,Plasma,UP,coronary arteries/heart,coronary artery disease,D003324,DOID_3393,Cardiovascular Conditions,coronary artery disease,
+hsa-miR-497-5p,MIMAT0002820,hsa-mir-497,22674182,YES, , ,Serum,DOWN,,astrocytoma,D001254,,Cancer,astrocytoma,
+hsa-miR-497-5p,MIMAT0002820,hsa-mir-497,22674182,YES, , ,Serum,DOWN,,astrocytoma,D001254,,Cancer,astrocytoma,
+hsa-miR-497-5p,MIMAT0002820,hsa-mir-497,22674182,YES, , ,Serum,DOWN,,astrocytoma,D001254,,Cancer,astrocytoma,
+hsa-miR-497-5p,MIMAT0002820,hsa-mir-497,25110754,YES, , ,Plasma,UP,,myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-497-5p,MIMAT0002820,hsa-mir-497,22674182,YES, , ,Serum,DOWN,,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-499a-5p,MIMAT0002870,hsa-mir-499a,25111390,YES, , ,Plasma,UP,heart,myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-499a-5p,MIMAT0002870,hsa-mir-499a,21701171,YES, , ,Plasma,UP,heart/myocardium,st elevation myocardial infarction,D000072657,DOID_5844,Cardiovascular Conditions,myocardial infarction,st elevation
+hsa-miR-499a-5p,MIMAT0002870,hsa-mir-499a,21969012, ,POSITIVE,extent of myocardial damage,Plasma,UP,"blood, blood vessels",coronary artery disease,D003324,DOID_3393,Cardiovascular Conditions,coronary artery disease,
+hsa-miR-499a-5p,MIMAT0002870,hsa-mir-499a,20921333,YES, , ,Plasma,UP,,myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-499a-5p,MIMAT0002870,hsa-mir-499a,20159880,YES, , ,Plasma,UP,heart,myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-499a-5p,MIMAT0002870,hsa-mir-499a,20921333,YES, , ,Plasma,UP,,myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-499a-5p,MIMAT0002870,hsa-mir-499a,20921333,YES, , ,Plasma,UP,,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-499a-5p,MIMAT0002870,hsa-mir-499a,25111390,YES, , ,Plasma,UP,heart,myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-499a-5p,MIMAT0002870,hsa-mir-499a,20921333,YES, , ,Plasma,UP,,myocarditis,D009205,"DOID_820,SYMP_0000095",Cardiovascular Conditions,myocarditis,
+hsa-miR-500a-5p,MIMAT0004773,hsa-mir-500a,29054761,YES, , ,Plasma,UP,,hashimoto disease,D050031,DOID_4,Endocrine and Metabolic Conditions,hashimoto disease,
+hsa-miR-502-3p,MIMAT0004775,hsa-mir-502,28179587,YES, , ,Plasma,UP,hippocampus,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-502-3p,MIMAT0004775,hsa-mir-502,28179587,YES, , ,Plasma,UP,hippocampus,cognitive dysfunction,D060825,,Eyes/Nose/Ears,cognitive dysfunction,
+hsa-miR-502-3p,MIMAT0004775,hsa-mir-502,28179587,YES, , ,Plasma,UP,hippocampus,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-503-5p,MIMAT0002874,hsa-mir-503,24204780,YES, , ,Serum,DOWN,,obesity,D009765,"DOID_9970,SYMP_0020018",Endocrine and Metabolic Conditions,obesity,
+hsa-miR-505-3p,MIMAT0002876,hsa-mir-505,25449503,YES, , ,Plasma,UP,artery,hypertension,D006973,DOID_10763,Cardiovascular Conditions,hypertension,
+hsa-miR-505-3p,MIMAT0002876,hsa-mir-505,25449503,YES, , ,Plasma,UP,blood,hypertension,D006973,DOID_10763,Cardiovascular Conditions,hypertension,
+hsa-miR-510-5p,MIMAT0002882,hsa-mir-510,19954774,YES, , ,Blood,UP,,"diabetes mellitus, type 1",D003922,DOID_9351,"Diabetes, Endocrine and Metabolic Conditions",diabetes mellitus,type 1
+hsa-miR-511-3p,MIMAT0026606,hsa-mir-511,25434367,YES, , ,Serum,UP,,combined pituitary hormone deficiency,C580003,DOID_9410,Endocrine and Metabolic Conditions,deficiency,combined pituitary hormone
+hsa-miR-516b-5p,MIMAT0002859,hsa-mir-516b-2|hsa-mir-516b-1,25502889, ,POSITIVE,risk of subsequent development of gestational hypertension,Plasma,UP,,"hypertension, pregnancy-induced",D046110,DOID_10763,"Cardiovascular Conditions, Pregnancy Conditions and Outcomes",hypertension,pregnancy-induced
+hsa-miR-517-5p,MIMAT0002851,hsa-mir-517a|hsa-mir-517b|hsa-mir-517c,25502889, ,POSITIVE,risk of subsequent development of gestational hypertension,Plasma,UP,,"hypertension, pregnancy-induced",D046110,DOID_10763,"Cardiovascular Conditions, Pregnancy Conditions and Outcomes",hypertension,pregnancy-induced
+hsa-miR-517a-3p,MIMAT0002852,hsa-mir-517a,27297699,YES, , ,Plasma,UP,placenta,abruptio placentae,D000037,DOID_9667,Pregnancy Conditions and Outcomes,abruptio placentae,
+hsa-miR-517c-3p,MIMAT0002866,hsa-mir-517c,27297699,YES, , ,Plasma,UP,placenta,abruptio placentae,D000037,DOID_9667,Pregnancy Conditions and Outcomes,abruptio placentae,
+hsa-miR-517c-3p,MIMAT0002866,hsa-mir-517c,27297699,YES, , ,Plasma,UP,placenta,abruptio placentae,D000037,DOID_9667,Pregnancy Conditions and Outcomes,abruptio placentae,
+hsa-miR-518b,MIMAT0002844,hsa-mir-518b,25502889, ,POSITIVE,risk of subsequent development of gestational hypertension,Plasma,UP,,"hypertension, pregnancy-induced",D046110,DOID_10763,"Cardiovascular Conditions, Pregnancy Conditions and Outcomes",hypertension,pregnancy-induced
+hsa-miR-519e-5p,MIMAT0002828,hsa-mir-519e,25184815,YES, , ,Plasma,DOWN,heart,myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-519e-5p,MIMAT0002828,hsa-mir-519e,25184815,YES, , ,Plasma,DOWN,heart,myocardial infarction,D009203,DOID_5844,Cardiovascular Conditions,myocardial infarction,
+hsa-miR-520h,MIMAT0002867,hsa-mir-520h,25502889, ,POSITIVE,risk of subsequent development of gestational hypertension,Plasma,UP,,"hypertension, pregnancy-induced",D046110,DOID_10763,"Cardiovascular Conditions, Pregnancy Conditions and Outcomes",hypertension,pregnancy-induced
+hsa-miR-542-3p,MIMAT0003389,hsa-mir-542,23118427,YES, , ,Serum,DOWN,endometrium/uterus,endometriosis,D004715,DOID_289,Genitourinary Conditions,endometriosis,
+hsa-miR-542-3p,MIMAT0003389,hsa-mir-542,24405714,YES, , ,Serum,DOWN,pelvic lymph node,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-545-3p,MIMAT0003165,hsa-mir-545,23922807,YES, , ,Plasma,DOWN,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-545-3p,MIMAT0003165,hsa-mir-545,23922807,YES, , ,Plasma,DOWN,,alzheimer disease,D000544,DOID_10652,Neurological Conditions,alzheimer's disease,
+hsa-miR-545-5p,MIMAT0004785,hsa-mir-545,25619197,YES, , ,Plasma,UP,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-548b-5p,MIMAT0004798,hsa-mir-548b,22674182,YES, , ,Serum,DOWN,,astrocytoma,D001254,,Cancer,astrocytoma,
+hsa-miR-548b-5p,MIMAT0004798,hsa-mir-548b,22674182,YES, , ,Serum,DOWN,,astrocytoma,D001254,,Cancer,astrocytoma,
+hsa-miR-548b-5p,MIMAT0004798,hsa-mir-548b,22674182,YES, , ,Serum,DOWN,,astrocytoma,D001254,,Cancer,astrocytoma,
+hsa-miR-548b-5p,MIMAT0004798,hsa-mir-548b,22674182,YES, , ,Serum,DOWN,,glioblastoma,D005909,DOID_3068,Cancer,glioblastoma,
+hsa-miR-550a-5p,MIMAT0004800,hsa-mir-550a-1|hsa-mir-550a-2,25619197,YES, , ,Plasma,UP,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-572,MIMAT0003237,hsa-mir-572,25126405,YES, , ,Serum,DOWN,,autism spectrum disorder,D000067877,DOID_0060041,Neurological Conditions,autism spectrum disorder,
+hsa-miR-576-5p,MIMAT0003241,hsa-mir-576,23073777,YES, , ,Serum,UP,serum,whooping cough,D014917,DOID_1116,Infectious Diseases,whooping cough,
+hsa-miR-579-5p,MIMAT0026616,hsa-mir-579,25057879,YES, , ,Serum,DOWN,thyroid,"thyroid cancer, papillary",D000077273,DOID_1781,"Cancer, Endocrine and Metabolic Conditions",thyroid cancer,papillary
+hsa-miR-579-5p,MIMAT0026616,hsa-mir-579,24515657,YES, , ,Plasma,UP,heart,cardiotoxicity,D066126,,Cardiovascular Conditions,cardiotoxicity,
+hsa-miR-579-5p,MIMAT0026616,hsa-mir-579,24515657,YES, , ,Plasma,UP,heart,cardiotoxicity,D066126,,Cardiovascular Conditions,cardiotoxicity,
+hsa-miR-579-5p,MIMAT0026616,hsa-mir-579,25057879,YES, , ,Serum,DOWN,thyroid,"thyroid cancer, papillary",D000077273,DOID_1781,"Cancer, Endocrine and Metabolic Conditions",thyroid cancer,papillary
+hsa-miR-589-5p,MIMAT0004799,hsa-mir-589,21060830,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-590-5p,MIMAT0003258,hsa-mir-590,31520555, ,POSITIVE,overall survival,Plasma,UP,lung,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-593-3p,MIMAT0004802,hsa-mir-593,25434367,YES, , ,Serum,UP,,combined pituitary hormone deficiency,C580003,DOID_9410,Endocrine and Metabolic Conditions,deficiency,combined pituitary hormone
+hsa-miR-601,MIMAT0003269,hsa-mir-601,22970209,YES, , ,Plasma,DOWN,,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-619-5p,MIMAT0026622,hsa-mir-619,27265125,YES, , ,Plasma,UP,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-622,MIMAT0003291,hsa-mir-622,22298030,YES, , ,Plasma,UP,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-622,MIMAT0003291,hsa-mir-622,22298030,YES, , ,Plasma,UP,prostate,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-625-3p,MIMAT0004808,hsa-mir-625,22675530,YES, , ,Serum,DOWN,,lung neoplasms,D008175,DOID_1324,"Cancer, Respiratory Conditions",neoplasm,lung
+hsa-miR-627-5p,MIMAT0003296,hsa-mir-627,24447930,YES, , ,Blood,UP,brain,stroke,D020521,DOID_6713,"Cardiovascular Conditions, Neurological Conditions",stroke,
+hsa-miR-628-3p,MIMAT0003297,hsa-mir-628,22087245,YES, , ,Serum,UP,"throat, stool or vesicle swab",picornaviridae infections,D010850,NCBITaxon_12058,Infectious Diseases,picornaviridae infections,
+hsa-miR-638,MIMAT0003308,hsa-mir-638,25619197,YES, , ,Plasma,DOWN,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-638,MIMAT0003308,hsa-mir-638,25619197,YES, , ,Plasma,DOWN,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-642b-3p,MIMAT0018444,hsa-mir-642b,24578785,YES, , ,Plasma,UP,pancreas,"carcinoma, pancreatic ductal",D021441,"DOID_305,UBERON_0007329","Cancer, Digestive & Gastrointestinal Conditions, Breast Conditions",carcinoma,pancreatic ductal
+hsa-miR-646,MIMAT0003316,hsa-mir-646,24405714,YES, , ,Serum,UP,pelvic lymph node,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-646,MIMAT0003316,hsa-mir-646,24405714, ,POSITIVE,post-therapeutic efficacy,Serum,UP,pelvic lymph node,uterine cervical neoplasms,D002583,DOID_4362,"Cancer, Genitourinary Conditions",neoplasm,uterine cervical
+hsa-miR-652-3p,MIMAT0003322,hsa-mir-652,25547678, ,NEGATIVE,recurrence-free survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-652-3p,MIMAT0003322,hsa-mir-652,24194846,YES, , ,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-652-3p,MIMAT0003322,hsa-mir-652,25124998, ,POSITIVE,"re-admission for heart failure(HF), over 5 years of follow-up",Plasma,UP,coronary arteries/heart,acute coronary syndrome,D054058,DOID_225,"Cardiovascular Conditions, Congenital/Hereditary Conditions, Syndrome",acute coronary syndrome,
+hsa-miR-652-3p,MIMAT0003322,hsa-mir-652,25124998,YES, , ,Plasma,UP,coronary arteries/heart,acute coronary syndrome,D054058,DOID_225,"Cardiovascular Conditions, Congenital/Hereditary Conditions, Syndrome",acute coronary syndrome,
+hsa-miR-652-3p,MIMAT0003322,hsa-mir-652,25547678, ,NEGATIVE,overall survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-652-3p,MIMAT0003322,hsa-mir-652,24194846,YES, , ,Plasma,UP,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-652-3p,MIMAT0003322,hsa-mir-652,25124998,YES, , ,Plasma,UP,coronary arteries/heart,acute coronary syndrome,D054058,DOID_225,"Cardiovascular Conditions, Congenital/Hereditary Conditions, Syndrome",acute coronary syndrome,
+hsa-miR-652-3p,MIMAT0003322,hsa-mir-652,25124998,YES, , ,Plasma,UP,coronary arteries/heart,acute coronary syndrome,D054058,DOID_225,"Cardiovascular Conditions, Congenital/Hereditary Conditions, Syndrome",acute coronary syndrome,
+hsa-miR-652-3p,MIMAT0003322,hsa-mir-652,25547678, ,NEGATIVE,recurrence-free survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-652-3p,MIMAT0003322,hsa-mir-652,25124998,YES, , ,Plasma,UP,coronary arteries/heart,acute coronary syndrome,D054058,DOID_225,"Cardiovascular Conditions, Congenital/Hereditary Conditions, Syndrome",acute coronary syndrome,
+hsa-miR-652-3p,MIMAT0003322,hsa-mir-652,25547678, ,NEGATIVE,recurrence-free survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-652-3p,MIMAT0003322,hsa-mir-652,25547678, ,NEGATIVE,overall survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-652-3p,MIMAT0003322,hsa-mir-652,25547678, ,NEGATIVE,overall survival,Serum,UP,breast,triple negative breast neoplasms,D064726,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,triple negative breast
+hsa-miR-660-5p,MIMAT0003338,hsa-mir-660,31568692,YES, , ,Plasma,UP,breast,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-661,MIMAT0003324,hsa-mir-661,29272005, ,NEGATIVE,overall survival,Serum,UP,lung,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-661,MIMAT0003324,hsa-mir-661,29272005,YES, , ,Serum,UP,lung,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-671-5p,MIMAT0003880,hsa-mir-671,25619197,YES, , ,Plasma,UP,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-671-5p,MIMAT0003880,hsa-mir-671,25619197,YES, , ,Plasma,UP,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-7-5p,MIMAT0000252,hsa-mir-7-1|hsa-mir-7-2|hsa-mir-7-3,31980721,YES, , ,Serum,UP,,bipolar disorder,D001714,DOID_3312,Mood and Personality Disorders,bipolar disorder,
+hsa-miR-760,MIMAT0004957,hsa-mir-760,22970209,YES, , ,Plasma,DOWN,,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-765,MIMAT0003945,hsa-mir-765,20883153,YES, , ,Plasma,UP,,"brain injuries, traumatic",D000070642,UBERON_0000955,Neurological Conditions,brain injury,traumatic
+hsa-miR-769-3p,MIMAT0003887,hsa-mir-769,24358814,YES, , ,Plasma,UP,coronary arteries/heart,coronary artery disease,D003324,DOID_3393,Cardiovascular Conditions,coronary artery disease,
+hsa-miR-770-5p,MIMAT0003948,hsa-mir-770,29863251, ,POSITIVE,overall survival,Serum,UP,lung,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-770-5p,MIMAT0003948,hsa-mir-770,29863251,YES, , ,Serum,DOWN,lung,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-874-3p,MIMAT0004911,hsa-mir-874,21098088,YES, , ,Serum,UP,serum,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-874-3p,MIMAT0004911,hsa-mir-874,24368295,YES, , ,Plasma,UP,,cognitive dysfunction,D060825,,Eyes/Nose/Ears,cognitive dysfunction,
+hsa-miR-885-5p,MIMAT0004947,hsa-mir-885,20815808,YES, , ,Serum,UP,serum,liver cirrhosis,D008103,DOID_5082,Digestive & Gastrointestinal Conditions,liver cirrhosis,
+hsa-miR-885-5p,MIMAT0004947,hsa-mir-885,24578785,YES, , ,Plasma,UP,pancreas,"carcinoma, pancreatic ductal",D021441,"DOID_305,UBERON_0007329","Cancer, Digestive & Gastrointestinal Conditions, Breast Conditions",carcinoma,pancreatic ductal
+hsa-miR-885-5p,MIMAT0004947,hsa-mir-885,30171938,YES, , ,Serum,UP,,"bone diseases, metabolic",D001851,DOID_0080001,"Endocrine and Metabolic Conditions, Musculoskeletal Conditions",bone disease,metabolic
+hsa-miR-885-5p,MIMAT0004947,hsa-mir-885,24901787,YES, , ,Plasma,UP,,osteoarthritis,D010003,DOID_8398,Musculoskeletal Conditions,osteoarthritis,
+hsa-miR-885-5p,MIMAT0004947,hsa-mir-885,24578785,YES, , ,Plasma,UP,pancreas,"carcinoma, pancreatic ductal",D021441,"DOID_305,UBERON_0007329","Cancer, Digestive & Gastrointestinal Conditions, Breast Conditions",carcinoma,pancreatic ductal
+hsa-miR-9-3p,MIMAT0000442,hsa-mir-9-1|hsa-mir-9-2|hsa-mir-9-3,23118427,YES, , ,Serum,DOWN,endometrium/uterus,endometriosis,D004715,DOID_289,Genitourinary Conditions,endometriosis,
+hsa-miR-9-5p,MIMAT0000441,hsa-mir-9-1|hsa-mir-9-2|hsa-mir-9-3,29430184,YES, , ,Serum,UP,peripheral vein blood,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,23052693, ,NEGATIVE,cancer progression (lymph node status),Serum,DOWN,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,23052693, ,NEGATIVE,cancer progression (tumor size),Serum,DOWN,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,24595006,YES, , ,Plasma,UP,"gastric body, antrum of stomach",stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,31513283,YES, , ,Plasma,UP,,hepatitis b,D006509,DOID_2043,"Viral Infections, Infectious Diseases, Digestive & Gastrointestinal Conditions",hepatitis,b
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,26695145,YES, , ,Serum,UP,,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,23390075,YES, , ,Serum,UP,liver,hepatitis c,D006526,DOID_1883,"Viral Infections, Infectious Diseases, Digestive & Gastrointestinal Conditions",hepatitis,c
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,23390075,YES, , ,Plasma,UP,,hepatitis c,D006526,DOID_1883,"Viral Infections, Infectious Diseases, Digestive & Gastrointestinal Conditions",hepatitis,c
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,26695145,YES, , ,Serum,UP,,"carcinoma, non-small-cell lung",D002289,"CL_0000000,DOID_305,UBERON_0002048","Cancer, Respiratory Conditions, Cells",carcinoma,non-small-cell lung
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,25176944,YES, , ,Serum,UP,heart,graft rejection,D006084,,Immune and Autoimmune Conditions,graft rejection,
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,23052693,YES, , ,Serum,DOWN,,breast neoplasms,D001943,UBERON_0000310,"Cancer, Breast Conditions",neoplasm,breast
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,25176944,YES, , ,Serum,UP,heart,graft rejection,D006084,,Immune and Autoimmune Conditions,graft rejection,
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,19876917,YES, , ,Plasma,UP,,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,20883153,YES, , ,Plasma,DOWN,,"brain injuries, traumatic",D000070642,UBERON_0000955,Neurological Conditions,brain injury,traumatic
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,24595006,YES, , ,Plasma,UP,"gastric body, antrum of stomach",stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,27162656,YES, , ,Plasma,UP,,mercury poisoning,D008630,CHEBI_25195,Substance Abuse,poisoning,mercury
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,20883153,YES, , ,Plasma,DOWN,,"brain injuries, traumatic",D000070642,UBERON_0000955,Neurological Conditions,brain injury,traumatic
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,27162656,YES, , ,Plasma,UP,,mercury poisoning,D008630,CHEBI_25195,Substance Abuse,poisoning,mercury
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,24595006,YES, , ,Plasma,UP,"gastric body, antrum of stomach",stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,21445232,YES, , ,Plasma,DOWN,colon,colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,24595006,YES, , ,Plasma,UP,"gastric body, antrum of stomach",stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,31513283,YES, , ,Plasma,UP,,hepatitis b,D006509,DOID_2043,"Viral Infections, Infectious Diseases, Digestive & Gastrointestinal Conditions",hepatitis,b
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,19876917,YES, , ,Plasma,UP,"rectum, distal colon, proximal colon",colorectal neoplasms,D015179,,Cancer,neoplasm,colorectal
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,20883153,YES, , ,Plasma,UP,,brain concussion,D001924,UBERON_0000955,Neurological Conditions,brain concussion,
+hsa-miR-92a-3p,MIMAT0000092,hsa-mir-92a-1|hsa-mir-92a-2,27208561,YES, , ,Plasma,DOWN,,cardiovascular diseases,D002318,DOID_178,Cardiovascular Conditions,cardiovascular disease,
+hsa-miR-92b-3p,MIMAT0003218,hsa-mir-92b,22120965,YES, , ,Serum,UP,heart,heart failure,D006333,SYMP_0000292,Cardiovascular Conditions,heart failure,
+hsa-miR-93-5p,MIMAT0000093,hsa-mir-93,22198701,YES, , ,Serum,DOWN,,stomach neoplasms,D013274,UBERON_0000945,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,stomach
+hsa-miR-93-5p,MIMAT0000093,hsa-mir-93,21546856,YES, , ,Serum,UP,bowel,crohn disease,D003424,DOID_8778,Digestive & Gastrointestinal Conditions,crohn disease,
+hsa-miR-93-5p,MIMAT0000093,hsa-mir-93,21098088,YES, , ,Serum,UP,serum,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-93-5p,MIMAT0000093,hsa-mir-93,24431276,YES, , ,Serum,UP,,osteoporosis,D010024,DOID_11476,Musculoskeletal Conditions,osteoporosis,
+hsa-miR-93-5p,MIMAT0000093,hsa-mir-93,24901787,YES, , ,Plasma,UP,,osteoarthritis,D010003,DOID_8398,Musculoskeletal Conditions,osteoarthritis,
+hsa-miR-93-5p,MIMAT0000093,hsa-mir-93,21098088, ,POSITIVE,risk of recurrence,Serum,UP,serum,prostatic neoplasms,D011471,DOID_10283,"Cancer, Genitourinary Conditions",neoplasm,prostatic
+hsa-miR-95-3p,MIMAT0000094,hsa-mir-95,25057879,YES, , ,Serum,DOWN,thyroid,"thyroid cancer, papillary",D000077273,DOID_1781,"Cancer, Endocrine and Metabolic Conditions",thyroid cancer,papillary
+hsa-miR-95-3p,MIMAT0000094,hsa-mir-95,25057879,YES, , ,Serum,DOWN,thyroid,"thyroid cancer, papillary",D000077273,DOID_1781,"Cancer, Endocrine and Metabolic Conditions",thyroid cancer,papillary
+hsa-miR-99a-5p,MIMAT0000097,hsa-mir-99a,24957100,YES, , ,Plasma,DOWN,bladder,gallbladder neoplasms,D005706,DOID_3121,"Cancer, Digestive & Gastrointestinal Conditions",neoplasm,gallbladder
