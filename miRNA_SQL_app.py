@@ -1,69 +1,108 @@
 import streamlit as st
 import pandas as pd
 import sqlite3
-import requests
 import os
+import requests
+import zipfile
+from io import BytesIO
 
-# -----------------------
-# Google Drive Downloader
-# -----------------------
-def download_file_from_google_drive(file_id, destination):
+# -------------------------
+# Helper: Download Drive Files
+# -------------------------
+def download_from_gdrive(file_id):
     URL = "https://docs.google.com/uc?export=download"
     session = requests.Session()
+    resp = session.get(URL, params={'id': file_id}, stream=True)
 
-    response = session.get(URL, params={'id': file_id}, stream=True)
-
-    # Handle confirmation token if present
-    def get_confirm_token(resp):
-        for key, value in resp.cookies.items():
-            if key.startswith('download_warning'):
-                return value
-        return None
-
-    token = get_confirm_token(response)
+    token = None
+    for key, val in resp.cookies.items():
+        if key.startswith('download_warning'):
+            token = val
+            break
     if token:
-        response = session.get(URL, params={'id': file_id, 'confirm': token}, stream=True)
+        resp = session.get(URL, params={'id': file_id, 'confirm': token}, stream=True)
+    return resp.content
 
-    # Download in chunks
-    with open(destination, "wb") as f:
-        for chunk in response.iter_content(32768):
-            if chunk:
-                f.write(chunk)
+# -------------------------
+# Folder-to-Drive mapping
+# -------------------------
+drive_folders = {
+    "mirna_drug_interactions": "1m0DvNX6LqycrHFoxlLuM7VTz40ZpYDIW",
+    "mirna_mrna_tf_interactions": "1iIub1GuyQYj1s8yrFrGXXN5SBtHwHq3x",
+    "mirna_ncrnas_interactions": "1eLRsGhwzWCgx1-jsJ6nUTWeUvlLC9a4Y",
+    "metrics": "1e36BwJyqrQT0Z8SIyIERy22uBCmkLJTZ",
+    "mirna_disease_expression": "1aGsqj171C8ql-YAfRyCb9p-2XK3cEBHP",
+    "reference_mirna": "1Zb6X6SLwYQtzkxW0E8Z92MHe-l5ip1eD",
+    "mirna_snp": "1RT__ZP6dc_Wtb9EtcwlAT5GkySPKtUY8"
+}
 
-# -----------------------
-# File setup
-# -----------------------
-file_id = "1i-IJd4m_7S02XQ9nJ15EMUx3JkEnrOl3"  # Your Google Drive file ID
+# -------------------------
+# Step 1: Download & Extract CSV folders
+# -------------------------
+base = "data"
+if not os.path.exists(base):
+    os.makedirs(base)
+
+for folder, gid in drive_folders.items():
+    out_dir = os.path.join(base, folder)
+    if not os.path.exists(out_dir):
+        with st.spinner(f"Downloading {folder}..."):
+            content = download_from_gdrive(gid)
+            # Check if ZIP
+            if content[:2] == b'PK':
+                buf = BytesIO(content)
+                with zipfile.ZipFile(buf) as z:
+                    z.extractall(out_dir)
+            else:
+                st.error(f"Downloaded data for {folder} is not a zip!")
+        st.success(f"{folder} ready!")
+
+# -------------------------
+# Step 2: Build SQLite DB
+# -------------------------
 db_path = "miRNA.db"
-
-# Download if not already present
+folders = list(drive_folders.keys())
 if not os.path.exists(db_path):
-    with st.spinner("Downloading miRNA.db from Google Drive..."):
-        download_file_from_google_drive(file_id, db_path)
-        st.success("Database downloaded successfully!")
+    with st.spinner("Building miRNA.db from CSVs..."):
+        conn = sqlite3.connect(db_path)
+        joinables = []
+        for folder in folders:
+            fp = os.path.join(base, folder)
+            for f in os.listdir(fp):
+                if f.endswith(".csv"):
+                    name = f.replace('.csv', '').replace('-', '_').lower()
+                    tbl = f"{folder}_{name}"
+                    try:
+                        df = pd.read_csv(os.path.join(fp, f))
+                        for c in df.columns:
+                            if c.lower() in ['mirna_id', 'mirnaid']:
+                                df.rename(columns={c: "miRNA_ID"}, inplace=True)
+                                break
+                        df.to_sql(tbl, conn, if_exists="replace", index=False)
+                        if "miRNA_ID" in df.columns:
+                            joinables.append(tbl)
+                    except Exception as e:
+                        st.warning(f"Failed to import {f}: {e}")
+        conn.commit()
+        conn.close()
+        st.success("Database built!")
 
-# -----------------------
-# Streamlit UI
-# -----------------------
+# -------------------------
+# Step 3: Streamlit UI
+# -------------------------
 st.title("🧬 miRNA SQL Explorer")
-st.markdown("Enter an SQL query to explore the database:")
 
-query = st.text_area("SQL Query", height=200, value="""
-SELECT name FROM sqlite_master WHERE type='table';
-""")
+query = st.text_area("Enter SQL query:", height=200,
+                    value="SELECT name FROM sqlite_master WHERE type='table';")
 
 if st.button("Run Query"):
     try:
         conn = sqlite3.connect(db_path)
         df = pd.read_sql_query(query, conn)
         conn.close()
-
-        st.success("Query executed successfully!")
+        st.success("✅ Query successful!")
         st.dataframe(df)
-
-        # Download as CSV
-        csv = df.to_csv(index=False).encode('utf-8')
-        st.download_button("📥 Download Results", csv, "query_results.csv", "text/csv")
-
+        csv = df.to_csv(index=False).encode()
+        st.download_button("📥 Download CSV", csv, "result.csv", "text/csv")
     except Exception as e:
-        st.error(f"Error running query: {e}")
+        st.error(f"Error: {e}")
