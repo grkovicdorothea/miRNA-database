@@ -71,8 +71,6 @@ with st.sidebar:
         st.markdown("\n- SNP_location\n- dbSNP_id\n- SNP_ref\n- SNP_alt\n- miRNA_ID\n- deltaG\n- miRNA_domain")
     with st.expander("miRNet-snp-mir-hsa"):
         st.markdown("\n- miRNet_id\n- SNP_location\n- dbSNP_id\n- mature_miRNA_id\n- mature_miRBase_acc\n- miRNA_ID\n- miRBase_acc\n- miRNA_domain\n- SNP_High_Confidence\n- SNP_Robust_FANTOM5\n- Conserved_ADmiRE\n- AF_Percentile_gnomAD\n- Phastcons_100way")
-    with st.expander("MiRNet-snpmirbs-hsa"):
-        st.markdown("- _No columns found_")
     st.markdown("#### core_drug")
     with st.expander("miRNet-mir-mol-hsa"):
         st.markdown("\n- miRNet_id\n- miRBase_acc\n- miRNA_ID\n- Drug\n- CID\n- SMILES\n- Cell_line\n- PMID\n- miRNA_expression")
