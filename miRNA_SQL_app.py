@@ -1,32 +1,54 @@
 import streamlit as st
-import sqlite3
 import pandas as pd
+import sqlite3
+import requests
 
-# Set the path to your SQLite database
-DB_PATH = "/Users/dorotheagrkovic/Desktop/miRNA Database/miRNA.db"
+# --- Google Drive download function ---
+def download_file_from_google_drive(file_id, destination):
+    URL = "https://drive.google.com/uc?export=download"
 
-# App title
+    session = requests.Session()
+    response = session.get(URL, params={'id': file_id}, stream=True)
+    
+    token = None
+    for key, value in response.cookies.items():
+        if key.startswith('download_warning'):
+            token = value
+
+    if token:
+        params = {'id': file_id, 'confirm': token}
+        response = session.get(URL, params=params, stream=True)
+
+    with open(destination, "wb") as f:
+        for chunk in response.iter_content(32768):
+            if chunk:
+                f.write(chunk)
+
+# --- Define file location ---
+file_id = "1i-IJd4m_7S02XQ9nJ15EMUx3JkEnrOl3"
+db_path = "miRNA.db"
+
+# --- Download once (if not already downloaded) ---
+if not os.path.exists(db_path):
+    with st.spinner("Downloading database..."):
+        download_file_from_google_drive(file_id, db_path)
+        st.success("Database downloaded!")
+
+# --- Streamlit UI ---
 st.title("miRNA SQL Explorer")
 
-# SQL query input
 query = st.text_area("Enter your SQL query below:", height=200)
 
-# Run the query
 if st.button("Run Query"):
     try:
-        # Connect to the database
-        conn = sqlite3.connect(DB_PATH)
+        conn = sqlite3.connect(db_path)
         df = pd.read_sql_query(query, conn)
         conn.close()
-
-        # Display results
         st.success("Query executed successfully!")
         st.dataframe(df)
 
-        # Optionally download the results
         csv = df.to_csv(index=False).encode('utf-8')
-        st.download_button("Download as CSV", csv,
-                           "query_results.csv", "text/csv")
+        st.download_button("Download results", csv, "query_results.csv", "text/csv")
 
     except Exception as e:
         st.error(f"Error running query: {e}")
