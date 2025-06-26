@@ -111,8 +111,5 @@ if st.button("Run Query"):
         st.success("✅ Query successful!")
         st.dataframe(df)
 
-        csv = df.to_csv(index=False).encode("utf-8")
-        st.download_button("📥 Download CSV", csv, "query_results.csv", "text/csv")
-
     except Exception as e:
         st.error(f"❌ Error: {e}")
