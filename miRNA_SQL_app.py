@@ -49,39 +49,39 @@ with st.sidebar:
     st.markdown("### Core Tables")
 
     with st.expander("core_mirna", expanded=False):
-        st.markdown("• merged_mirBase")
-        st.markdown("• miRstart_human_miRNA_information")
+        st.markdown("merged_mirBase")
+        st.markdown("miRstart_human_miRNA_information")
 
     with st.expander("core_gene", expanded=False):
-        st.markdown("• miRNet-mir-tf-hsa")
-        st.markdown("• miRNet-mir-lncRNA")
-        st.markdown("• miRNet-mir-pseudogene")
-        st.markdown("• miRNet-mir-sncRNA")
+        st.markdown("miRNet-mir-tf-hsa")
+        st.markdown("miRNet-mir-lncRNA")
+        st.markdown("miRNet-mir-pseudogene")
+        st.markdown("miRNet-mir-sncRNA")
 
     with st.expander("core_disease", expanded=False):
-        st.markdown("• HMDD")
-        st.markdown("• dbDEMC_low_throughput")
-        st.markdown("• miRcancer")
+        st.markdown("HMDD")
+        st.markdown("dbDEMC_low_throughput")
+        st.markdown("miRcancer")
 
     with st.expander("core_snp", expanded=False):
-        st.markdown("• miRNASNPv4_pre-miRNA_variants")
-        st.markdown("• miRNASNPv4_SNP_associations_multiCancer_celltype")
-        st.markdown("• miRNet-snp-mir-hsa")
-        st.markdown("• miRNet-snpmirbs-hsa")
+        st.markdown("miRNASNPv4_pre-miRNA_variants")
+        st.markdown("miRNASNPv4_SNP_associations_multiCancer_celltype")
+        st.markdown("miRNet-snp-mir-hsa")
+        st.markdown("miRNet-snpmirbs-hsa")
 
     with st.expander("core_drug", expanded=False):
-        st.markdown("• ncDR_Curated_DRmiRNA")
-        st.markdown("• ncDR_Predicted_DRmiRNA")
-        st.markdown("• miRNASNPv4_drug_SNP_associations_multiCancer")
-        st.markdown("• miRNet-mir-mol-hsa")
+        st.markdown("ncDR_Curated_DRmiRNA")
+        st.markdown("ncDR_Predicted_DRmiRNA")
+        st.markdown("miRNASNPv4_drug_SNP_associations_multiCancer")
+        st.markdown("miRNet-mir-mol-hsa")
 
     with st.expander("core_metadata", expanded=False):
-        st.markdown("• miRNA_similarity_scores_ALL")
-        st.markdown("• miRstart_human_miRNA_TSS_information")
-        st.markdown("• plasmiR")
+        st.markdown("miRNA_similarity_scores_ALL")
+        st.markdown("miRstart_human_miRNA_TSS_information")
+        st.markdown("plasmiR")
 
     with st.expander("relationships", expanded=False):
-        st.markdown("• miRNet-mir-epi-hsa")
+        st.markdown("miRNet-mir-epi-hsa")
 
 # ---------- SQL Query Interface ----------
 st.markdown("### Run SQL Query")
