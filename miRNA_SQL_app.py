@@ -46,7 +46,7 @@ if not os.path.exists(db_path):
 
 # ---------- Sidebar: CSV to Table Mapping ----------
 with st.sidebar:
-    st.markdown("### 📦 CSV → SQL Table Mapping")
+    st.markdown("### Core Tables")
 
     with st.expander("core_mirna", expanded=False):
         st.markdown("• merged_mirBase")
