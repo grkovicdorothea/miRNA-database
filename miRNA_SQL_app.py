@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import sqlite3
 import requests
+import os
 
 # --- Google Drive download function ---
 def download_file_from_google_drive(file_id, destination):
