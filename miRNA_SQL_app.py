@@ -6,7 +6,7 @@ import os
 st.set_page_config(page_title="miRNA SQL Explorer", layout="wide")
 st.title("miRNA SQL Explorer")
 
-# ---------- File Mapping ----------
+# File Mapping
 csv_mapping = {
     "core_mirna": ["merged_mirBase.csv", "miRstart_human_miRNA_information.csv"],
     "core_gene": ["miRstart_human_miRNA_TSS_information.csv"],
@@ -20,7 +20,7 @@ csv_mapping = {
 db_path = "miRNA.db"
 loaded_tables = []
 
-# ---------- Database Build ----------
+# Database Build
 if not os.path.exists(db_path):
     st.info("Creating database from CSV files...")
     conn = sqlite3.connect(db_path)
@@ -44,7 +44,7 @@ if not os.path.exists(db_path):
     conn.close()
     st.success("🎉 Database created!")
 
-# ---------- Sidebar: CSV to Table Mapping ----------
+# Sidebar
 with st.sidebar:
     st.markdown("### Core Tables")
     st.markdown("#### core_mirna")
@@ -92,7 +92,8 @@ with st.sidebar:
         st.markdown("\n- miRNet_ID\n- miRBase_acc\n- miRNA_ID\n- pseudogene\n- pseudogene_entrez\n- pseudogene_embl")
     with st.expander("miRNet-mir-sncRNA"):
         st.markdown("\n- miRNet_ID\n- miRBase_acc\n- miRNA_ID\n- snc_gene\n- snc_entrez\n- snc_embl")
-# ---------- SQL Query Interface ----------
+
+# SQL Query Interface
 st.markdown("### Run SQL Query")
 
 query = st.text_area(
