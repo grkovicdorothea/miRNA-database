@@ -87,8 +87,9 @@ if not os.path.exists(db_path):
     st.success("🎉 Database created!")
 
 # Sidebar Schema Browser
+# Sidebar
 with st.sidebar:
-    st.markdown("### Tables")
+    st.markdown("### Core Tables")
 
     # ---- core_mirna ----
     st.markdown("#### core_mirna")
@@ -441,80 +442,6 @@ with st.sidebar:
         - TF_gene_embl
         - TF_action_type
         - PMID
-        """)
-
-
-    # ---- core_metadata ----
-    st.markdown("#### core_metadata")
-
-    with st.expander("miRNA_similarity_scores_ALL"):
-        st.markdown("""
-        - miRNA_ID
-        - mesh_similarity
-        - doid_similarity
-        """)
-
-    # ---- relationships ----
-    st.markdown("#### relationships")
-
-    with st.expander("miRNet-mir-tf-hsa"):
-        st.markdown("""
-        - miRNet_id
-        - miRBase_acc
-        - miRNA_ID
-        - TF_gene
-        - TF_gene_entrez
-        - TF_gene_embl
-        - TF_action_type
-        - PMID
-        """)
-
-    with st.expander("miRNet-mir-epi-hsa"):
-        st.markdown("""
-        - miRNet_id
-        - miRBase_acc
-        - miRNA_ID
-        - epi_regulator
-        - epi_modification
-        - miRNA_expression
-        - PMID
-        - epi_target
-        - Disease
-        - Disease_MESH_ID
-        - Disease_DOID_ID
-        - Disease_categories
-        - Disease_main_type
-        - Disease_sub_type
-        """)
-
-    with st.expander("miRNet-mir-lncRNA"):
-        st.markdown("""
-        - miRNet_ID
-        - miRBase_acc
-        - miRNA_ID
-        - lncRNA_gene
-        - lncRNA_entrez
-        - lncRNA_embl
-        """)
-
-    with st.expander("miRNet-mir-pseudogene"):
-        st.markdown("""
-        - miRNet_ID
-        - miRBase_acc
-        - miRNA_ID
-        - pseudogene
-        - pseudogene_entrez
-        - pseudogene_embl
-        """)
-
-    with st.expander("miRNet-mir-sncRNA"):
-        st.markdown("""
-        - miRNet_ID
-        - miRBase_acc
-        - miRNA_ID
-        - snc_gene
-        - snc_entrez
-        - snc_embl
         """)
 
 # SQL Query Interface
