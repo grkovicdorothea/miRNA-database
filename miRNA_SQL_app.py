@@ -88,7 +88,7 @@ if not os.path.exists(db_path):
 
 # Sidebar Schema Browser
 with st.sidebar:
-    st.markdown("### Core Tables")
+    st.markdown("### Tables")
 
     # ---- core_mirna ----
     st.markdown("#### core_mirna")
