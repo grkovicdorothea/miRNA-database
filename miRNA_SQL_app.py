@@ -21,7 +21,7 @@ gdrive_mapping = {
         "miRstart_human_miRNA_TF_information": "https://drive.google.com/file/d/1ccq7DzsJ_HUHgfH2_h88-3iGmqW52t60/view?usp=drive_link",
         "miRstart_human_miRNA_TSS_information": "https://drive.google.com/file/d/1N_k7Mpgt2Oj9SiddnH41zQvXdXrVMQBQ/view?usp=drive_link"
     },
-    "core_disease": {
+    "disease": {
         "dbDEMC_highthroughput": "https://drive.google.com/file/d/1Qh9ueE9tc7YgPIzQTgXE6haiqei8RFux/view?usp=drive_link",
         "dbDEMC_lowthroughput": "https://drive.google.com/file/d/1SaGFCy7p-RGVdS4c1kdZl3QK5TAFmwGQ/view?usp=drive_link",
         "HMDD": "https://drive.google.com/file/d/1nKzyvtSYa6p-pTD5MRhj56pivOcdllv1/view?usp=drive_link",
@@ -29,19 +29,19 @@ gdrive_mapping = {
         "plasmiR": "https://drive.google.com/file/d/1QCv9LZx3luDJHqQjtnTItoZO3hBjcjI8/view?usp=drive_link",
         "miRnet_mir_epi_hsa": "https://drive.google.com/file/d/1LYWv7yrjDiraNjvYKeHS0H-V7fTEUBe5/view?usp=drive_link"
     },
-    "core_drug": {
+    "drug": {
         "miRnet_mir_mol_hsa": "https://drive.google.com/file/d/13n94gfF2GRxskTBXfSbRA1d_ACey1Vin/view?usp=drive_link",
         "ncDR_curated_DRmiRNA": "https://drive.google.com/file/d/1JrvbQBLYFb09KnCV58q7q91rXzyG3Qjv/view?usp=drive_link",
         "ncDR_predicted_DRmiRNA": "https://drive.google.com/file/d/1_LBCoRNDl1wNSmPVuaRXIvb3AWc8WPgm/view?usp=drive_link"
     },
-    "core_snp": {
+    "snp": {
         "miRNASNPv4_drug_SNP_associations_multiCancer": "https://drive.google.com/file/d/1SPzRmopBfPYPRoNOUIBwqj26IJAOgxg-/view?usp=drive_link",
         "miRNASNPv4_pre_miRNA_variants": "https://drive.google.com/file/d/1gxSz3ZBWuqvGtmeKu_vhqX4yramlqROK/view?usp=drive_link",
         "miRNASNPv4_SNP_associations_multiCancer_celltype": "https://drive.google.com/file/d/155Us9c37WmKGdi6J_1lQlwZw3yIDjbRE/view?usp=drive_link",
         "miRNet_snp_mir_hsa": "https://drive.google.com/file/d/1LPmEqGi_kVEc5aguKJp0HGSV8IXEJ7Ia/view?usp=drive_link",
         "miRNet_snpmirbs_hsa": "https://drive.google.com/file/d/19JsPnaan1uXPYzlm3SuRq8otNT_5vcWr/view?usp=drive_link"
     },
-    "core_metadata": {
+    "similarity": {
         "miRNA_similarity_scores_ALL": "https://drive.google.com/file/d/1gRasm8Xzxow38t3Se8Bbrw07ITfYinvW/view?usp=drive_link"
     },
     "relationships": {
@@ -51,7 +51,7 @@ gdrive_mapping = {
         "miRNet_mir_pseudogene": "https://drive.google.com/file/d/19ElJ3ejyJvqzGgwMLrhBKmh88wbiubXQ/view?usp=drive_link",
         "miRNet_mir_sncRNA": "https://drive.google.com/file/d/1hg46HM7b2ZuQppz5GxDgrqA4AxK02BTt/view?usp=drive_link"
     },
-    "core_targets": {
+    "targets": {
         "miRTarBase_MTI_human": "https://drive.google.com/file/d/1sJs6lgKVRRI_WXJhdj_Tptotl34pKys_/view?usp=drive_link"
     }
 }
@@ -89,7 +89,7 @@ if not os.path.exists(db_path):
 # Sidebar Schema Browser
 # Sidebar
 with st.sidebar:
-    st.markdown("### Core Tables")
+    st.markdown("### Tables")
 
     # ---- core_mirna ----
     st.markdown("#### core_mirna")
@@ -138,8 +138,8 @@ with st.sidebar:
         - TSS_Pol II
         """)
 
-    # ---- core_disease ----
-    st.markdown("#### core_disease")
+    # ---- disease ----
+    st.markdown("#### disease")
 
     with st.expander("dbDEMC_high_throughput"):
         st.markdown("""
@@ -235,8 +235,8 @@ with st.sidebar:
         - Disease_sub_type
         """)
 
-    # ---- core_snp ----
-    st.markdown("#### core_snp")
+    # ---- snp ----
+    st.markdown("#### snp")
 
     with st.expander("miRNASNPv4_drug_SNP_associations_multiCancer"):
         st.markdown("""
@@ -313,8 +313,8 @@ with st.sidebar:
         - Prediction_score
         """)
 
-    # ---- core_drug ----
-    st.markdown("#### core_drug")
+    # ---- drug ----
+    st.markdown("#### drug")
 
     with st.expander("miRNet-mir-mol-hsa"):
         st.markdown("""
@@ -365,8 +365,8 @@ with st.sidebar:
         - Drug_effect
         """)
 
-    # ---- core_metadata ----
-    st.markdown("#### core_metadata")
+    # ---- similarity ----
+    st.markdown("#### similarity")
 
     with st.expander("miRNA_similarity_scores_ALL"):
         st.markdown("""
@@ -375,8 +375,8 @@ with st.sidebar:
         - doid_similarity
         """)
 
-    # ---- core_targets ----
-    st.markdown("#### core_targets")
+    # ---- targets ----
+    st.markdown("#### targets")
 
     with st.expander("miRTarBase_miRNA-target_interactions_human"):
         st.markdown("""
