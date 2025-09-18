@@ -88,12 +88,434 @@ if not os.path.exists(db_path):
 
 # Sidebar Schema Browser
 with st.sidebar:
-    st.markdown("### Schema Browser")
-    for category, files in gdrive_mapping.items():
-        st.markdown(f"#### {category}")
-        for table_name in files.keys():
-            with st.expander(table_name):
-                st.markdown("_Columns will appear after first DB build_")
+    st.markdown("### Core Tables")
+
+    # ---- core_mirna ----
+    st.markdown("#### core_mirna")
+
+    with st.expander("merged_mirBase"):
+        st.markdown("""
+        - miRNA_ID
+        - miRBase_acc
+        - miRNA_sequence
+        - miRNA_type
+        """)
+
+    with st.expander("miRstart_human_miRNA_information"):
+        st.markdown("""
+        - miRNA_ID
+        - miRNA_location
+        - PCG
+        - PCG_embl
+        - lncRNA_embl
+        - Intragenic/Intergenic
+        - PCG_exon/intron
+        - lncRNA_exon/intron
+        """)
+
+    with st.expander("miRstart_human_miRNA_TF_information"):
+        st.markdown("""
+        - miRNA_ID
+        - TF_ID
+        - TF_gene
+        - TF_entrez
+        - TF_embl
+        - Binding_site_location
+        - Binding_score
+        """)
+
+    with st.expander("miRstart_human_miRNA_TSS_information"):
+        st.markdown("""
+        - miRNA_ID
+        - miRBase_acc
+        - TSS_position
+        - TSS_score
+        - TSS_CAGE
+        - TSS_tag
+        - TSS_DNase
+        - TSS_H3K4me3
+        - TSS_Pol II
+        """)
+
+    # ---- core_disease ----
+    st.markdown("#### core_disease")
+
+    with st.expander("dbDEMC_high_throughput"):
+        st.markdown("""
+        - miRNA_ID
+        - ExperimentSourceInfo
+        - Cell_line
+        - logFC
+        - Tvalue(LIMMA)
+        - Pvalue
+        - FDR
+        - Disease
+        - Disease_MESH_ID
+        - Disease_DOID_ID
+        - Disease_categories
+        - Disease_main_type
+        - Disease_sub_type
+        """)
+
+    with st.expander("dbDEMC_low_throughput"):
+        st.markdown("""
+        - miRNA_ID
+        - Cell_line
+        - miRNA_expression
+        - ExperimentSourceInfo
+        - PMID
+        - Disease
+        - Disease_MESH_ID
+        - Disease_DOID_ID
+        - Disease_categories
+        - Disease_main_type
+        - Disease_sub_type
+        """)
+
+    with st.expander("HMDD"):
+        st.markdown("""
+        - PMID
+        - miRNA_ID
+        - Disease
+        - Disease_MESH_ID
+        - Disease_DOID_ID
+        - Disease_categories
+        - Disease_main_type
+        - Disease_sub_type
+        """)
+
+    with st.expander("miRcancer"):
+        st.markdown("""
+        - miRNA_ID
+        - miRNA_expression
+        - Disease
+        - Disease_MESH_ID
+        - Disease_DOID_ID
+        - Disease_categories
+        - Disease_main_type
+        - Disease_sub_type
+        """)
+
+    with st.expander("plasmiR"):
+        st.markdown("""
+        - miRNA_ID
+        - miRBase_acc
+        - precursor_miRNA_id
+        - PMID
+        - diagnostic_marker
+        - prognostic_marker
+        - tested_prognostic_outcome
+        - Biomarker_sample_type
+        - miRNA_expression
+        - Cell_line
+        - Disease
+        - Disease_MESH_ID
+        - Disease_DOID_ID
+        - Disease_categories
+        - Disease_main_type
+        - Disease_sub_type
+        """)
+
+    with st.expander("miRNet-mir-epi-hsa"):
+        st.markdown("""
+        - miRNet_id
+        - miRBase_acc
+        - miRNA_ID
+        - epi_regulator
+        - epi_modification
+        - miRNA_expression
+        - PMID
+        - epi_target
+        - Disease
+        - Disease_MESH_ID
+        - Disease_DOID_ID
+        - Disease_categories
+        - Disease_main_type
+        - Disease_sub_type
+        """)
+
+    # ---- core_snp ----
+    st.markdown("#### core_snp")
+
+    with st.expander("miRNASNPv4_drug_SNP_associations_multiCancer"):
+        st.markdown("""
+        - Drug
+        - CID
+        - SNP_id
+        - SNP_ref
+        - SNP_alt
+        - SNP_gene
+        - SNP_location
+        - SNP_effect
+        - PMID
+        """)
+
+    with st.expander("miRNASNPv4_pre-miRNA_variants"):
+        st.markdown("""
+        - SNP_location
+        - dbSNP_id
+        - SNP_ref
+        - SNP_alt
+        - miRNA_ID
+        - deltaG
+        - miRNA_domain
+        """)
+
+    with st.expander("miRNASNPv4_SNP_associations_multiCancer_celltype"):
+        st.markdown("""
+        - Cell_line
+        - Immune_cell_abundance
+        - beta
+        - Pvalue
+        - FDR
+        - SNP_ref
+        - SNP_alt
+        - SNP_Source
+        - SNP_location
+        - dbSNP_id
+        - SNP_gene
+        - Disease
+        - Disease_MESH_ID
+        - Disease_DOID_ID
+        - Disease_categories
+        - Disease_main_type
+        - Disease_sub_type
+        """)
+
+    with st.expander("miRNet-snp-mir-hsa"):
+        st.markdown("""
+        - miRNet_id
+        - SNP_location
+        - dbSNP_id
+        - mature_miRNA_id
+        - mature_miRBase_acc
+        - miRNA_ID
+        - miRBase_acc
+        - miRNA_domain
+        - SNP_High_Confidence
+        - SNP_Robust_FANTOM5
+        - Conserved_ADmiRE
+        - AF_Percentile_gnomAD
+        - Phastcons_100way
+        """)
+
+    with st.expander("miRNet-snpMIRBS-hsa"):
+        st.markdown("""
+        - miRNet_id
+        - miRNA_ID
+        - miRBase_acc
+        - SNP_id
+        - SNP_ref
+        - SNP_alt
+        - Binding_site
+        - Binding_affinity
+        - Prediction_score
+        """)
+
+    # ---- core_drug ----
+    st.markdown("#### core_drug")
+
+    with st.expander("miRNet-mir-mol-hsa"):
+        st.markdown("""
+        - miRNet_id
+        - miRBase_acc
+        - miRNA_ID
+        - Drug
+        - CID
+        - SMILES
+        - Cell_line
+        - PMID
+        - miRNA_expression
+        """)
+
+    with st.expander("ncDR_Curated_DRmiRNA"):
+        st.markdown("""
+        - PMID
+        - miRNA_ID
+        - miRBase_acc
+        - Drug
+        - CID
+        - SMILES
+        - miRNA_expression
+        - Drug_effect
+        - Target_gene
+        - Regulation
+        - Disease
+        - Disease_MESH_ID
+        - Disease_DOID_ID
+        - Disease_categories
+        - Disease_main_type
+        - Disease_sub_type
+        """)
+
+    with st.expander("ncDR_Predicted_DRmiRNA"):
+        st.markdown("""
+        - NSC_ID
+        - Drug
+        - CID
+        - SMILES
+        - miRNA_ID
+        - miRBase_acc
+        - Pvalue
+        - Qvalue
+        - logFC
+        - miRNA_expression
+        - Drug_effect_size
+        - Drug_effect
+        """)
+
+    # ---- core_metadata ----
+    st.markdown("#### core_metadata")
+
+    with st.expander("miRNA_similarity_scores_ALL"):
+        st.markdown("""
+        - miRNA_ID
+        - mesh_similarity
+        - doid_similarity
+        """)
+
+    # ---- core_targets ----
+    st.markdown("#### core_targets")
+
+    with st.expander("miRTarBase_miRNA-target_interactions_human"):
+        st.markdown("""
+        - miRNA_ID
+        - Target_gene
+        - Target_entrez
+        - Target_embl
+        - Experiment
+        - PMID
+        - Support_type
+        """)
+
+    # ---- relationships ----
+    st.markdown("#### relationships")
+
+    with st.expander("miRNet-mir-circRNA"):
+        st.markdown("""
+        - miRNet_ID
+        - miRBase_acc
+        - miRNA_ID
+        - circRNA_gene
+        - circRNA_entrez
+        - circRNA_embl
+        """)
+
+    with st.expander("miRNet-mir-lncRNA"):
+        st.markdown("""
+        - miRNet_ID
+        - miRBase_acc
+        - miRNA_ID
+        - lncRNA_gene
+        - lncRNA_entrez
+        - lncRNA_embl
+        """)
+
+    with st.expander("miRNet-mir-pseudogene"):
+        st.markdown("""
+        - miRNet_ID
+        - miRBase_acc
+        - miRNA_ID
+        - pseudogene
+        - pseudogene_entrez
+        - pseudogene_embl
+        """)
+
+    with st.expander("miRNet-mir-sncRNA"):
+        st.markdown("""
+        - miRNet_ID
+        - miRBase_acc
+        - miRNA_ID
+        - snc_gene
+        - snc_entrez
+        - snc_embl
+        """)
+
+    with st.expander("miRNet-mir-tf-hsa"):
+        st.markdown("""
+        - miRNet_id
+        - miRBase_acc
+        - miRNA_ID
+        - TF_gene
+        - TF_gene_entrez
+        - TF_gene_embl
+        - TF_action_type
+        - PMID
+        """)
+
+
+    # ---- core_metadata ----
+    st.markdown("#### core_metadata")
+
+    with st.expander("miRNA_similarity_scores_ALL"):
+        st.markdown("""
+        - miRNA_ID
+        - mesh_similarity
+        - doid_similarity
+        """)
+
+    # ---- relationships ----
+    st.markdown("#### relationships")
+
+    with st.expander("miRNet-mir-tf-hsa"):
+        st.markdown("""
+        - miRNet_id
+        - miRBase_acc
+        - miRNA_ID
+        - TF_gene
+        - TF_gene_entrez
+        - TF_gene_embl
+        - TF_action_type
+        - PMID
+        """)
+
+    with st.expander("miRNet-mir-epi-hsa"):
+        st.markdown("""
+        - miRNet_id
+        - miRBase_acc
+        - miRNA_ID
+        - epi_regulator
+        - epi_modification
+        - miRNA_expression
+        - PMID
+        - epi_target
+        - Disease
+        - Disease_MESH_ID
+        - Disease_DOID_ID
+        - Disease_categories
+        - Disease_main_type
+        - Disease_sub_type
+        """)
+
+    with st.expander("miRNet-mir-lncRNA"):
+        st.markdown("""
+        - miRNet_ID
+        - miRBase_acc
+        - miRNA_ID
+        - lncRNA_gene
+        - lncRNA_entrez
+        - lncRNA_embl
+        """)
+
+    with st.expander("miRNet-mir-pseudogene"):
+        st.markdown("""
+        - miRNet_ID
+        - miRBase_acc
+        - miRNA_ID
+        - pseudogene
+        - pseudogene_entrez
+        - pseudogene_embl
+        """)
+
+    with st.expander("miRNet-mir-sncRNA"):
+        st.markdown("""
+        - miRNet_ID
+        - miRBase_acc
+        - miRNA_ID
+        - snc_gene
+        - snc_entrez
+        - snc_embl
+        """)
 
 # SQL Query Interface
 st.markdown("### Run SQL Query")
